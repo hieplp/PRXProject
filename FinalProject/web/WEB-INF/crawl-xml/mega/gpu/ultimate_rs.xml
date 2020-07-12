@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><gpus xmlns="prx/xml">
+    <gpu>
+        <name>Vga Quadro RTX 8000 48GB GDDR6</name>
+        <chipset>Quadro RTX8000</chipset>
+        <image>https://mega.com.vn/media/product/250_8418_card_man_hinh_vga_nvidia_quadro_rtx8000_1.jpg</image>
+        <price>154900000</price>
+        <memory>
+            <capacity>48</capacity>
+            <type>DDR5</type>
+        </memory>
+        <tdp>260</tdp>
+        <brand>Quadro</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Quadro RTX6000 24GB GDDR6 -384-bit</name>
+        <chipset>Quadro RTX6000</chipset>
+        <image>https://mega.com.vn/media/product/250_8408_card_man_hinh_vga_nvidia_quadro_rtx6000_1.jpg</image>
+        <price>121350000</price>
+        <memory>
+            <capacity>24</capacity>
+            <type>DDR6</type>
+        </memory>
+        <tdp>260</tdp>
+        <brand>Quadro</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga COLORFUL iGame GeForce RTX 2080 Ti Kudan</name>
+        <chipset>GeForce RTX 2080ti</chipset>
+        <image>https://mega.com.vn/media/product/250_16130_vga_colorful_igame_geforce_rtx_2080_ti_kudan.jpg</image>
+        <price>68000000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>600</tdp>
+        <brand>COLORFUL</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Quadro RTX5000 16GB GDDR6 256-bit</name>
+        <chipset>Quadro RTX5000</chipset>
+        <image>https://mega.com.vn/media/product/250_8398_card_man_hinh_vga_nvidia_quadro_rtx5000_1.jpg</image>
+        <price>56900000</price>
+        <memory>
+            <capacity>16</capacity>
+            <type>DDR6</type>
+        </memory>
+        <tdp>350</tdp>
+        <brand>Quadro</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Quadro P5000 16GB DDR5X</name>
+        <chipset>Quadro P5000</chipset>
+        <image>https://mega.com.vn/media/product/250_1842_card_man_hinh_quadro_p5000_16gb_ddr5x_1.jpg</image>
+        <price>47450000</price>
+        <memory>
+            <capacity>16</capacity>
+            <type>DDR5X</type>
+        </memory>
+        <tdp>600</tdp>
+        <brand>Quadro</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Galax 11GB RTX 2080Ti HOF GDDR6 (3 Fan - 352 Bit) (28IULBUCV6DH)</name>
+        <chipset>Geforce RTX2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_2082_card_man_hinh_vga_galax_rtx_2080ti_hof_11gb_gddr6_1.jpg</image>
+        <price>44500000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Galax</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Asus Rog-STRIX-RTX2080TI-O11G-WHITE-GAMING</name>
+        <chipset>Geforce RTX 2080</chipset>
+        <image>https://mega.com.vn/media/product/250_15745_vga_asus_rog_strix_rtx2080ti_o11g_white_gaming.jpg</image>
+        <price>43800000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Asus</brand>
+        <interface>PCI Express 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga gigabyte 8GB N208TAORUSX WB-11GC (RTX2080Ti)</name>
+        <chipset>Geforce RTX 2080 SUPER</chipset>
+        <image>https://mega.com.vn/media/product/250_8457_card_man_hinh_vga_gigabyte_2080ti_aorus_wb_11gc_1.png</image>
+        <price>39400000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>750</tdp>
+        <brand>Gigabyte</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga gigabyte 11GB N208TAORUS X W-11GC (RTX2080Ti)</name>
+        <chipset>Geforce RTX 2080 SUPER</chipset>
+        <image>https://mega.com.vn/media/product/250_8450_card_man_hinh_vga_gigabyte_gv_n208taorus_x_w_11gc_1.png</image>
+        <price>37150000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>750</tdp>
+        <brand>Gigabyte</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga gigabyte 8GB N208TAORUS X-11GC (RTX2080Ti)</name>
+        <chipset>Geforce RTX 2080Ti XTREME</chipset>
+        <image>https://mega.com.vn/media/product/250_8447_card_man_hinh_vga_gigabyte_aorus_geforce_rtx_2080_ti_xtreme_11g_1.png</image>
+        <price>35650000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>750</tdp>
+        <brand>Gigabyte</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga MSI RTX 2080 TI SEA HAWK EK X</name>
+        <chipset>NVIDIA GeForce® RTX 2080 Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_14863_vga_msi_rtx_2080_ti_sea_hawk_ek_x_1.png</image>
+        <price>34900000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>MIS</brand>
+        <interface>PCI-E 3.0 x16</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Asus 11GB Rog-STRIX-RTX2080TI-O11G-GAMING</name>
+        <chipset>Geforce RTX 2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_2043_2043_card_man_hinh_vga_asus_rog_strix_rtx_2080ti_o11g_gaming_5.jpg</image>
+        <price>34700000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Asus</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga INNO3D GeForce RTX 2080 Ti iChill Frostbite 11GB (C208TB-11D6X-1150FROS)</name>
+        <chipset>GeForce RTX 2080</chipset>
+        <image>https://mega.com.vn/media/product/250_15829_vga_inno3d_geforce_rtx_2080_ti_ichill_frostbite_11gb.jpg</image>
+        <price>34190000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>INNO3D</brand>
+        <interface>PCI Express 3.0 x 16</interface>
+    </gpu>
+    <gpu>
+        <name>Vga COLORFUL iGame GeForce RTX 2080 Ti Neptune OC</name>
+        <chipset>GeForce RTX 2080ti</chipset>
+        <image>https://mega.com.vn/media/product/250_16129_vga_colorful_igame_geforce_rtx_2080_ti_neptune_oc.jpg</image>
+        <price>33500000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>600</tdp>
+        <brand>COLORFUL</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga MSI 11GB OC MSI RTX 2080 Ti DUKE</name>
+        <chipset>NVIDIA GeForce RTX 2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_12541_vga_msi_11g_oc_msi_rtx_2080_ti_duke_6.png</image>
+        <price>33450000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>MIS</brand>
+        <interface>PCI-E 3.0 x16</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Asus 11GB DUAL-RTX2080TI-A11G</name>
+        <chipset>Geforce RTX 2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_2059_2059_card_man_hinh_vga_asus_dual_rtx2080ti_a11g_nvidia_1.jpg</image>
+        <price>32850000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Asus</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Asus TURBO-RTX2080TI-11G</name>
+        <chipset>Geforce RTX 2080</chipset>
+        <image>https://mega.com.vn/media/product/250_15747_vga_asus_turbo_rtx2080ti_11g.jpg</image>
+        <price>32800000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Asus</brand>
+        <interface>PCI Express 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga gigabyte 8GB N208TGAMING OC-11GC (RTX2080Ti)</name>
+        <chipset>Geforce RTX 2080Ti GAMING OC</chipset>
+        <image>https://mega.com.vn/media/product/250_8445_card_man_hinh_vga_gigabyte_geforce_rtx_2080_ti_gaming_oc_11g_1.png</image>
+        <price>32500000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Gigabyte</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga MSI 11GB RTX 2080Ti Gaming X Trio 11G</name>
+        <chipset>NVIDIA GeForce RTX 2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_12539_vga_msi_gtx_2080ti_gaming_x_trio_11g_5.jpg</image>
+        <price>32450000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>MIS</brand>
+        <interface>PCI-E 3.0 x16</interface>
+    </gpu>
+    <gpu>
+        <name>Vga gigabyte 11GB N208TWF3-11GC Ti (RTX2080Ti)</name>
+        <chipset>Geforce RTX 2080 Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_8440_card_man_hinh_vga_gigabytegeforce_rtx_2080_ti_windforce_11g_1.png</image>
+        <price>32400000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>750</tdp>
+        <brand>Gigabyte</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga MSI 11GB RTX 2080 Ti VENTUS 11G OC</name>
+        <chipset>Geforce RTX2080 TI</chipset>
+        <image>https://mega.com.vn/media/product/250_8428_msi_rtx_2080ti_ventus_11g_oc_6.jpg</image>
+        <price>31990000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>DDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>MSI</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga COLORFUL iGame GeForce RTX 2080 Ti Vulcan X OC</name>
+        <chipset>GeForce RTX 2080ti</chipset>
+        <image>https://mega.com.vn/media/product/250_16128_vga_colorful_igame_geforce_rtx_2080_ti_vulcan_x_oc.jpg</image>
+        <price>31900000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>600</tdp>
+        <brand>COLORFUL</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga COLORFUL iGame GeForce RTX 2080 Ti Advanced OC</name>
+        <chipset>GeForce RTX 2080ti</chipset>
+        <image>https://mega.com.vn/media/product/250_16127_vga_colorful_igame_geforce_rtx_2080_ti_advanced_oc.jpg</image>
+        <price>31000000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>600</tdp>
+        <brand>COLORFUL</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga INNO3D GeForce RTX 2080 Ti Gaming Oc X3 11GB (N208T3-11D6X-1150VA24)</name>
+        <chipset>GeForce RTX 2080</chipset>
+        <image>https://mega.com.vn/media/product/250_15830_vga_inno3d_geforce_rtx_2080_ti_gaming_oc_x3_11gb.png</image>
+        <price>30900000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>INNO3D</brand>
+        <interface>PCI Express 3.0 x 16</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Galax 11GB RTX 2080Ti OC GDDR6 (2 Fan - 352 Bit) (28IULBUCT4OC)</name>
+        <chipset>Geforce RTX2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_2076_vga_galax_11gb_rtx_2080ti_oc_gddr6_5.jpg</image>
+        <price>29000000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Galaxy</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+    <gpu>
+        <name>Vga Galax RTX 2080Ti SG Edition (1 Click OC) 11GB GDDR6 (28IULBMDT22G)</name>
+        <chipset>GeForce® RTX 2080Ti</chipset>
+        <image>https://mega.com.vn/media/product/250_11792_rtx_2080ti_sg_edition_1_click_oc_11gb_gddr6_6.png</image>
+        <price>28550000</price>
+        <memory>
+            <capacity>11</capacity>
+            <type>GDDR6</type>
+        </memory>
+        <tdp>650</tdp>
+        <brand>Galax</brand>
+        <interface>PCIE 3.0</interface>
+    </gpu>
+</gpus>

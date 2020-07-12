@@ -8,6 +8,7 @@ package prx.utils.checker;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
+
 import static prx.utils.checker.SyntaxState.*;
 
 /**
@@ -246,7 +247,7 @@ public class XmlSyntaxChecker {
                     .append(stack.pop())
                     .append(GT);
         }
-        
+
         return writer.toString();
     }
 

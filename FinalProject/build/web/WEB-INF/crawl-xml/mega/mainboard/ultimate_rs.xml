@@ -1,0 +1,4368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cpus xmlns="prx/xml">
+    <mainboard>
+        <name>Mainboard Gigabyte X299X AORUS XTREME WATERFORCE</name>
+        <image>https://mega.com.vn/media/product/250_15403_mainboard_gigabyte_x299x_aorus_xtreme_waterforce.png</image>
+        <price>42900000</price>
+        <chipset>ntel®X299</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>2</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z490 AORUS XTREME WATERFORCE</name>
+        <image>https://mega.com.vn/media/product/250_15094_mainboard_gigabyte_z490_aorus_xtreme_waterforce.png</image>
+        <price>29500000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490 Aqua</name>
+        <image>https://mega.com.vn/media/product/250_15121_mainboard_asrock_z490_aqua_3.png</image>
+        <price>25890000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390 Aorus Xtreme Waterforce</name>
+        <image>https://mega.com.vn/media/product/250_1976_main_gigabyte_z390_aorus_xtreme_waterforce_1.png</image>
+        <price>20990000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MEG X570 GODLIKE</name>
+        <image>https://mega.com.vn/media/product/250_2123_main_msi_meg_x570_godlike_chipset_1.png</image>
+        <price>19500000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z490 AORUS XTREME </name>
+        <image>https://mega.com.vn/media/product/250_15035_mainboard_gigabyte_z490_aorus_xtreme.JPG</image>
+        <price>19500000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MEG Z490 GODLIKE </name>
+        <image>https://mega.com.vn/media/product/250_15060_mainboard_msi_meg_z490_godlike.jpg</image>
+        <price>18900000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG MAXIMUS XII EXTREME </name>
+        <image>https://mega.com.vn/media/product/250_15037_mainboard_asus_rog_maximus_xii_extreme_7.jpg</image>
+        <price>17950000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570 Aorus Xtreme</name>
+        <image>https://mega.com.vn/media/product/250_11690_mainboard_gigabyte_x570_aorus_xtreme_1.png</image>
+        <price>17790000</price>
+        <chipset>X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte X299X DESIGNARE 10G</name>
+        <image>https://mega.com.vn/media/product/250_15402_mainboard_gigabyte_x299x_designare_10g_1.png</image>
+        <price>15900000</price>
+        <chipset>ntel®X299</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Rampage Vi Extreme</name>
+        <image>https://mega.com.vn/media/product/250_1675_mainboard_asus_rog_rampage_vi_extreme_8.PNG</image>
+        <price>15890000</price>
+        <chipset>Intel X299</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte MW51-HP0</name>
+        <image>https://mega.com.vn/media/product/250_8306_main_gigabyte_mw51_hp0_c422_1.png</image>
+        <price>14190000</price>
+        <chipset>Intel® C422</chipset>
+        <socket>R4</socket>
+        <maxRam>8</maxRam>
+        <slotRam>8</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG Zenith Extreme </name>
+        <image>https://mega.com.vn/media/product/250_8231_mainboard_asus_rog_zenith_extreme_amd_x399_1.jpg</image>
+        <price>14190000</price>
+        <chipset>Intel X399</chipset>
+        <socket>AMD SocketTR4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390 Aorus Xtreme</name>
+        <image>https://mega.com.vn/media/product/250_1967_main_gigabyte_z390_aorus_xtreme_chipset_intel_1.png</image>
+        <price>13790000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Z10pe D8WS</name>
+        <image>https://mega.com.vn/media/product/250_12454_mainboard_asus_z10pe_p8ws_1.jpg</image>
+        <price>13050000</price>
+        <chipset>Intel® C612 PCH</chipset>
+        <socket>LGA2011</socket>
+        <maxRam>512</maxRam>
+        <slotRam>8</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI Prestige X570 CREATION</name>
+        <image>https://mega.com.vn/media/product/250_2127_main_msi_prestige_x570_creation_1.png</image>
+        <price>13050000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Z10PE-D16 WS</name>
+        <image>https://mega.com.vn/media/product/250_8317_main_asus_z10pe_d16_ws_1.jpg</image>
+        <price>13050000</price>
+        <chipset>Intel® C612 PCH</chipset>
+        <socket>LGA 2011</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="false" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Strix  X399-E GAMING </name>
+        <image>https://mega.com.vn/media/product/250_8241_main_rog_strix_x399_e_gaming_1.jpg</image>
+        <price>12450000</price>
+        <chipset>TR4</chipset>
+        <socket>TR4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG MAXIMUS XII FORMULA </name>
+        <image>https://mega.com.vn/media/product/250_15038_mainboard_asus_rog_maximus_xii_formula_7.jpg</image>
+        <price>12450000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Prime X299-Deluxe</name>
+        <image>https://mega.com.vn/media/product/250_1674_mainboard_asus_prime_x299_deluxe_1.PNG</image>
+        <price>12200000</price>
+        <chipset>Intel X290</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X299 Designare Ex</name>
+        <image>https://mega.com.vn/media/product/250_1969_main_gigabyte_x299_designare_ex_chipset_intel_1.png</image>
+        <price>11990000</price>
+        <chipset>Intel X299</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>128</maxRam>
+        <slotRam>8</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 AORUS ULTRA</name>
+        <image>https://mega.com.vn/media/product/250_15055_mainboard_gigabyte_z490_aorus_ultrag2.png</image>
+        <price>11200000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Maximus xi Extreme</name>
+        <image>https://mega.com.vn/media/product/250_1703_main_asus_rog_maximus_xi_extreme_chipset_intel_z390_1.png</image>
+        <price>11090000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>Intel® Socket 1151 9th / 8th Gen Intel® Core™</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte X299X AORUS MASTER</name>
+        <image>https://mega.com.vn/media/product/250_15401_mainboard_gigabyte_x299x_aorus_master.png</image>
+        <price>10900000</price>
+        <chipset>ntel®X299</chipset>
+        <socket>LGA2066</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG MAXIMUS XII APEX </name>
+        <image>https://mega.com.vn/media/product/250_15048_mainboard_asus_rog_maximus_xii_apex.jpg</image>
+        <price>10900000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard Asus Rog Crosshair VIII Hero Wifi WIFI</name>
+        <image>https://mega.com.vn/media/product/250_8228_mainboard_asus_rog_crosshair_viii_hero_wi_fi_x570_led_rgb_1.png</image>
+        <price>10390000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG MAXIMUS XII HERO WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15039_board_asus_rog_maximus_xii_hero_wi_fi_6.jpg</image>
+        <price>10230000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Maximus xi Formula</name>
+        <image>https://mega.com.vn/media/product/250_1722_main_asus_rog_maximus_xi_formula_5.PNG</image>
+        <price>9990000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>Intel® Socket 1151 9th / 8th Gen Intel® Core™</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Crosshair VIII Hero  </name>
+        <image>https://mega.com.vn/media/product/250_8234_rog_crosshair_viii_hero.jpg</image>
+        <price>9800000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte X399 AORUS EXTREME </name>
+        <image>https://mega.com.vn/media/product/250_1971_main_gigabyte_x399_aorus_xtreme_chipset_amd_1.png</image>
+        <price>9790000</price>
+        <chipset>AMD X399</chipset>
+        <socket>TR4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>8</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490 Taichi</name>
+        <image>https://mega.com.vn/media/product/250_15118_mainboard_asrock_z490_taichi.png</image>
+        <price>9700000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MEG X570 ACE</name>
+        <image>https://mega.com.vn/media/product/250_13392_mainboard_msi_meg_x570_ace_5.png</image>
+        <price>9690000</price>
+        <chipset>AMD® X570 Chipset</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="false" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 AORUS MASTER </name>
+        <image>https://mega.com.vn/media/product/250_15036_mainboard_gigabyte_z490_aorus_master.png</image>
+        <price>9550000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Maximus xi Apex</name>
+        <image>https://mega.com.vn/media/product/250_1708_main_asus_rog_maximus_xi_apex.png</image>
+        <price>9290000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>Intel® Socket 1151 9th / 8th Gen Intel® Core™</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Prime X399-A </name>
+        <image>https://mega.com.vn/media/product/250_8245_main_asus_prime_x399_a_1.jpg</image>
+        <price>8990000</price>
+        <chipset>X399</chipset>
+        <socket>TR4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570 Aorus Master</name>
+        <image>https://mega.com.vn/media/product/250_11688_main_gigabyte_x570_aorus_master_1.png</image>
+        <price>8890000</price>
+        <chipset>X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MEG Z490 ACE </name>
+        <image>https://mega.com.vn/media/product/250_15067_mainboard_msi_meg_z490_ace.jpg</image>
+        <price>8850000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z490 AORUS ULTRA</name>
+        <image>https://mega.com.vn/media/product/250_15394_mainboard_gigabyte_z490_aorus_ultra.png</image>
+        <price>8690000</price>
+        <chipset>Intel® H470</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z390 Phantom Gaming X </name>
+        <image>https://mega.com.vn/media/product/250_8223_main_asrock_z390_phantom_gaming_x_1.jpg</image>
+        <price>8590000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MEG Z490 UNIFY </name>
+        <image>https://mega.com.vn/media/product/250_15064_mainboard_msi_meg_z490_unify.jpg</image>
+        <price>8200000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 VISION D </name>
+        <image>https://mega.com.vn/media/product/250_15033_mainboard_gigabyte_z490_vision_d.png</image>
+        <price>7990000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ProArt Z490-CREATOR 10G </name>
+        <image>https://mega.com.vn/media/product/250_15047_mainboard_asus_proart_z490_creator_10g_8.jpg</image>
+        <price>7950000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570 AORUS ULTRA </name>
+        <image>https://mega.com.vn/media/product/250_1978_main_gigabyte_x570_aorus_ultra_chipset_amd_1.png</image>
+        <price>7750000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MEG Z490I UNIFY </name>
+        <image>https://mega.com.vn/media/product/250_15065_mainboard_msi_meg_z490i_unify.jpg</image>
+        <price>7590000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Maximus xi Code</name>
+        <image>https://mega.com.vn/media/product/250_8239_mainboard_rog_maximus_xi_code_1.png</image>
+        <price>7490000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550 AORUS MASTER</name>
+        <image>https://mega.com.vn/media/product/250_15400_mainboard_gigabyte_b550_aorus_master.png</image>
+        <price>7350000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte X399 AORUS PRO </name>
+        <image>https://mega.com.vn/media/product/250_8264_mainboard_gigabyte_x399_aorus_pro.png</image>
+        <price>7280000</price>
+        <chipset/>
+        <socket>TR4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-I GAMING </name>
+        <image>https://mega.com.vn/media/product/250_15041_mainboard_asus_rog_strix_z490_i_gaming_7.jpg</image>
+        <price>7250000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Rog Maximus xi Hero </name>
+        <image>https://mega.com.vn/media/product/250_1739_main_asus_rog_maximus_xi_hero_wi_fi_chipset_intel_z390_socket_lga1151_2.png</image>
+        <price>7200000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390 Aorus Master</name>
+        <image>https://mega.com.vn/media/product/250_1980_main_gigabyte_z390_aorus_master_chipset_intel_1.jpg</image>
+        <price>7200000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-E GAMING </name>
+        <image>https://mega.com.vn/media/product/250_15040_mainboard_asus_rog_strix_z490_e_gaming_9.jpg</image>
+        <price>7200000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI  MPG X570 GAMING PRO CARBON Wi-Fi</name>
+        <image>https://mega.com.vn/media/product/250_2124_main_msi_mpg_x570_gaming_pro_carbon_wifi_1.png</image>
+        <price>7190000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard MSI MPG Z490 GAMING CARBON WIFI WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15063_mainboard_msi_mpg_z490_gaming_carbon_wifi.jpg</image>
+        <price>7100000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 AORUS PRO AX </name>
+        <image>https://mega.com.vn/media/product/250_15056_mainboard_gigabyte_z490_aorus_pro_ax.png</image>
+        <price>7050000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock X570 Taichi </name>
+        <image>https://mega.com.vn/media/product/250_8224_mainboard_asrock_x570_taichi_1.png</image>
+        <price>6990000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490i AORUS ULTRA </name>
+        <image>https://mega.com.vn/media/product/250_15058_mainboard_gigabyte_z490i_aorus_ultra.png</image>
+        <price>6900000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MEG Z390 ACE</name>
+        <image>https://mega.com.vn/media/product/250_9011_mainboard_msi_meg_z390_ace_1.png</image>
+        <price>6890000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus X370 crosshair vi hero </name>
+        <image>https://mega.com.vn/media/product/250_13024_main_asus_x370_crosshair_vi_hero_amd_6.jpg</image>
+        <price>6650000</price>
+        <chipset>AMD X370</chipset>
+        <socket>AM4</socket>
+        <maxRam>6</maxRam>
+        <slotRam>8</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MPG X570 GAMING EDGE Wi-Fi</name>
+        <image>https://mega.com.vn/media/product/250_2126_main_msi_mpg_x570_gaming_edge_wifi_1.png</image>
+        <price>6500000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-F GAMING </name>
+        <image>https://mega.com.vn/media/product/250_15049_mainboard_asus_rog_strix_z490_f_gaming.jpg</image>
+        <price>6290000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-A GAMING </name>
+        <image>https://mega.com.vn/media/product/250_15050_mainboard_asus_rog_strix_z490_a_gaming.jpg</image>
+        <price>6250000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-G WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15052_mainboard_asus_rog_strix_z490_g_wi_fi_gaming.jpg</image>
+        <price>6150000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390 Aorus Ultra</name>
+        <image>https://mega.com.vn/media/product/250_1983_main_gigabyte_z390_aorus_ultra_chipset_intel_1.jpg</image>
+        <price>6100000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 VISION G </name>
+        <image>https://mega.com.vn/media/product/250_15034_mainboard_gigabyte_z490_vision_g.png</image>
+        <price>6100000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-G GAMING</name>
+        <image>https://mega.com.vn/media/product/250_15053_mainboard_asus_rog_strix_z490_g_gaming.jpg</image>
+        <price>6000000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX X570-E GAMING </name>
+        <image>https://mega.com.vn/media/product/250_1715_main_asus_rog_strix_x570_e_gaming.jpg</image>
+        <price>5990000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte X570 AORUS PRO</name>
+        <image>https://mega.com.vn/media/product/250_15405_mainboard_gigabyte_x570_aorus_pro.png</image>
+        <price>5990000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>6</maxRam>
+        <slotRam>6</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS ROG STRIX Z490-H GAMING </name>
+        <image>https://mega.com.vn/media/product/250_15051_mainboard_asus_rog_strix_z490_h_gaming.jpg</image>
+        <price>5900000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z390 Taichi </name>
+        <image>https://mega.com.vn/media/product/250_1752_main_asrock_z390_taichi_chipset_intel_1.jpg</image>
+        <price>5890000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock X470 Taichi </name>
+        <image>https://mega.com.vn/media/product/250_1750_main_asrock_x470_taichi_chipset_amd_1.jpg</image>
+        <price>5780000</price>
+        <chipset>AMD X470</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX X570-F GAMING </name>
+        <image>https://mega.com.vn/media/product/250_1721_main_asus_rog_strix_x570_f_gaming.jpg</image>
+        <price>5770000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Prime Z390-A</name>
+        <image>https://mega.com.vn/media/product/250_8259_main_prime_z390_a_1.png</image>
+        <price>5750000</price>
+        <chipset>Intel® Z390</chipset>
+        <socket>1151v2</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="false" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS TUF Gaming Z490-PLUS WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15042_mainboard_asus_tuf_gaming_z490_plus_wi_fi_7.jpg</image>
+        <price>5650000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MAG Z490 TOMAHAWK </name>
+        <image>https://mega.com.vn/media/product/250_15066_mainboard_msi_mag_z490_tomahawk.jpg</image>
+        <price>5650000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 AORUS ELITE </name>
+        <image>https://mega.com.vn/media/product/250_15057_mainboard_gigabyte_z490_aorus_elite.png</image>
+        <price>5550000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MPG Z390 GAMING PRO CARBON AC</name>
+        <image>https://mega.com.vn/media/product/250_9001_mainboard_msi_mpg_z390_gaming_pro_carbon_ac_1.png</image>
+        <price>5490000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard Asrock Z390 Phantom Gaming 7 </name>
+        <image>https://mega.com.vn/media/product/250_8227_main_asrock_z390_phantom_gaming_7_1.jpg</image>
+        <price>5490000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H470I AORUS PRO AX</name>
+        <image>https://mega.com.vn/media/product/250_15389_mainboard_gigabyte_h470i_aorus_pro_ax.png</image>
+        <price>5450000</price>
+        <chipset>Intel® H470</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550 AORUS PRO AC</name>
+        <image>https://mega.com.vn/media/product/250_15399_mainboard_gigabyte_b550_aorus_pro_ac.png</image>
+        <price>5350000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI Z390 GAMING PRO CARBON</name>
+        <image>https://mega.com.vn/media/product/250_8232_main_msi_mpg_z390_gaming_pro_carbon_1.png</image>
+        <price>5270000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus Rog Strix Z390-E Gaming</name>
+        <image>https://mega.com.vn/media/product/250_8261_mainboard_asus_rog_strix_z390_e_gaming_1.png</image>
+        <price>5240000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550 AORUS PRO</name>
+        <image>https://mega.com.vn/media/product/250_15398_mainboard_gigabyte_b550_aorus_pro.jpg</image>
+        <price>5150000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550 I AORUS PRO AX</name>
+        <image>https://mega.com.vn/media/product/250_15397_mainboard_gigabyte_b550i_aorus_pro_ax.png</image>
+        <price>4990000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570 Aorus Elite </name>
+        <image>https://mega.com.vn/media/product/250_11687_gigabyte_x570_aorus_elite_1.jpg</image>
+        <price>4990000</price>
+        <chipset>X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z390 -Aorus Pro Wifi DDR4</name>
+        <image>https://mega.com.vn/media/product/250_1984_main_gigabyte_z390_aorus_pro_wifi_chipset_intel_1.jpg</image>
+        <price>4970000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z390 Phantom Gaming 6 </name>
+        <image>https://mega.com.vn/media/product/250_1754_main_asrock_z390_phantom_gaming_6_chipset_intel_1.jpg</image>
+        <price>4880000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus ROG STRIX Z390-F GAMING</name>
+        <image>https://mega.com.vn/media/product/250_1732_main_asus_rog_strix_z390_f_gaming_chipset_intel_1.png</image>
+        <price>4880000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490 Steel Legend</name>
+        <image>https://mega.com.vn/media/product/250_15117_mainboard_asrock_z490_steel_legend.png</image>
+        <price>4790000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard GIGABYTE Z490 GAMING X </name>
+        <image>https://mega.com.vn/media/product/250_15059_mainboard_gigabyte_z490_gaming_x.png</image>
+        <price>4750000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H470 AORUS PRO AX</name>
+        <image>https://mega.com.vn/media/product/250_15388_mainboard_gigabyte_h470_aorus_pro_ax.png</image>
+        <price>4750000</price>
+        <chipset>Intel® H470</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS TUF GAMING Z490-PLUS </name>
+        <image>https://mega.com.vn/media/product/250_15043_mainboard_asus_tuf_gaming_z490_plus_6.jpg</image>
+        <price>4735000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390-Aorus Elite DDR4</name>
+        <image>https://mega.com.vn/media/product/250_1986_main_gigabyte_z390_aorus_elite_chipset_1.png</image>
+        <price>4670000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MPG Z390 GAMING EDGE AC</name>
+        <image>https://mega.com.vn/media/product/250_8993_mainboard_msi_mpg_z390_gaming_edge_ac_1.png</image>
+        <price>4630000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI MPG Z490 GAMING PLUS</name>
+        <image>https://mega.com.vn/media/product/250_15071_mainboard_msi_meg_z490_gaming_plus.png</image>
+        <price>4550000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS PRIME Z490-A </name>
+        <image>https://mega.com.vn/media/product/250_15044_mainboard_asus_prime_z490_a_7.jpg</image>
+        <price>4490000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI MPG X570 GAMING PLUS</name>
+        <image>https://mega.com.vn/media/product/250_2125_main_msi_mpg_x570_gaming_plus_chipset_amd_x570_1.png</image>
+        <price>4475000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS PRIME Z490-P </name>
+        <image>https://mega.com.vn/media/product/250_15045_mainboard_asus_prime_z490_p_6.jpg</image>
+        <price>4430000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550 AORUS ELITE</name>
+        <image>https://mega.com.vn/media/product/250_15396_mainboard_gigabyte_b550_gaming_x.png</image>
+        <price>4400000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI X570-A PRO</name>
+        <image>https://mega.com.vn/media/product/250_2128_main_msi_x570_a_pro_chipset_amd_x570_1.png</image>
+        <price>4385000</price>
+        <chipset>AMD X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570 Gaming X</name>
+        <image>https://mega.com.vn/media/product/250_1982_main_gigabyte_x570_gaming_x_chipset_amd_1.png</image>
+        <price>4250000</price>
+        <chipset>X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard Asus TUF GAMING B460-PRO WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15266_mainboard_asus_tuf_gaming_b460_pro_wifi.jpg</image>
+        <price>4200000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte X570-UD</name>
+        <image>https://mega.com.vn/media/product/250_11685_main_gigabyte_x570_ud_chipset_amd.png</image>
+        <price>4200000</price>
+        <chipset>X570</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI Z490 A PRO</name>
+        <image>https://mega.com.vn/media/product/250_15072_mainboard_msi_z490_a_pro.png</image>
+        <price>4180000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI Z390 TOMAHAWK</name>
+        <image>https://mega.com.vn/media/product/250_2119_main_msi_mag_z390_tomahawk_1.jpg</image>
+        <price>4170000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard ASUS PRIME Z490M-PLUS </name>
+        <image>https://mega.com.vn/media/product/250_15046_mainboard_asus_prime_z490m_plus_7.jpg</image>
+        <price>4100000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490 Pro4</name>
+        <image>https://mega.com.vn/media/product/250_15116_mainboard_asrock_z490_pro4.png</image>
+        <price>4090000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME X470-PRO </name>
+        <image>https://mega.com.vn/media/product/250_1724_main_asus_prime_x470_pro.jpg</image>
+        <price>4050000</price>
+        <chipset>AMD X470</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460 AORUS PRO AC WIFI</name>
+        <image>https://mega.com.vn/media/product/250_16255_mainboard_gigabyte_b460_aorus_pro_ac_wifi.jpg</image>
+        <price>4000000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460 HD3</name>
+        <image>https://mega.com.vn/media/product/250_15253_mainboard_gigabyte_b460_hd3.png</image>
+        <price>3990000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z490 UD</name>
+        <image>https://mega.com.vn/media/product/250_15095_mainboard_gigabyte_z490_ud.png</image>
+        <price>3900000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="true" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490M Pro4</name>
+        <image>https://mega.com.vn/media/product/250_15119_mainboard_asrock_z490m_pro4.png</image>
+        <price>3890000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX B460-F GAMING</name>
+        <image>https://mega.com.vn/media/product/250_15260_mainboard_asus_rog_strix_b460_f_gaming.png</image>
+        <price>3850000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z390 -Gaming X DDR4</name>
+        <image>https://mega.com.vn/media/product/250_1995_main_gigabyte_z390_gaming_x_chipset_intel_1.jpg</image>
+        <price>3830000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX B460-I GAMING</name>
+        <image>https://mega.com.vn/media/product/250_15265_mainboard_asus_rog_strix_b460_i_gaming.png</image>
+        <price>3750000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI Z390 GAMING PLUS</name>
+        <image>https://mega.com.vn/media/product/250_2145_main_msi_mpg_z390_gaming_1.jpg</image>
+        <price>3730000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock X470 Master SLI </name>
+        <image>https://mega.com.vn/media/product/250_1753_main_asrock_x470_master_sli_chipset_amd_1.jpg</image>
+        <price>3640000</price>
+        <chipset>AMD X470</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboad MSI B360 Gaming Pro Carbon DDR4</name>
+        <image>https://mega.com.vn/media/product/250_11253_mainboad_msi_b360_gaming_pro_carbon_ddr4sk1151_1.png</image>
+        <price>3470000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA 1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte Z390M -Gaming DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8297_mainboard_gigabyte_z390m_gaming_4.png</image>
+        <price>3400000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z490 Phantom Gaming 4</name>
+        <image>https://mega.com.vn/media/product/250_15120_mainboard_asrock_z490_phantom_gaming_4.png</image>
+        <price>3390000</price>
+        <chipset>Intel® Z490</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI H370 GAMING PLUS DDR4</name>
+        <image>https://mega.com.vn/media/product/250_11397_mainboard_msi_h370_gaming_plus_ddr4_1.png</image>
+        <price>3350000</price>
+        <chipset>Intel® H370</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX B460-H GAMING</name>
+        <image>https://mega.com.vn/media/product/250_15263_mainboard_asus_rog_strix_b460_h_gaming.png</image>
+        <price>3290000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460 Steel Legend</name>
+        <image>https://mega.com.vn/media/product/250_15237_mainboard_asrock_b460_steel_legend.png</image>
+        <price>3280000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asrock Z390 Steel Legend </name>
+        <image>https://mega.com.vn/media/product/250_1766_main_asrock_z390_steel_legend_chipset_intel_1.png</image>
+        <price>3270000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte Z390 UD DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8294_main_gigabyte_z390_ud_1.png</image>
+        <price>3150000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151 V2</socket>
+        <maxRam>4</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboad MSI Z390A PRO</name>
+        <image>https://mega.com.vn/media/product/250_2144_main_msi_z390_a_pro_chipset_intel_z390_1.png</image>
+        <price>3100000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard Gigabyte B450 AORUS PRO DDR4  </name>
+        <image>https://mega.com.vn/media/product/250_1992_main_gigabyte_b450_aorus_pro_chipset_amd_1.jpg</image>
+        <price>3000000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX B460-G GAMING</name>
+        <image>https://mega.com.vn/media/product/250_15262_mainboard_asus_rog_strix_b460_g_gaming.png</image>
+        <price>2990000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>MainAsus PRIME Z390-P</name>
+        <image>https://mega.com.vn/media/product/250_1713_mainasus_prime_z390_p_7.PNG</image>
+        <price>2980000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus TUF B460M-PLUS WIFI</name>
+        <image>https://mega.com.vn/media/product/250_15268_mainboard_asus_tuf_b460m_plus_wifi.jpg</image>
+        <price>2950000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus TUF GAMING B460M-PLUS</name>
+        <image>https://mega.com.vn/media/product/250_15272_mainboard_asus_tuf_gaming_b460m_plus.jpg</image>
+        <price>2950000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H370 AORUS GAMING 3 DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8280_mainboard_gigabyte_h370_aorus_gaming3_2.png</image>
+        <price>2950000</price>
+        <chipset>Intel H370</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus ROG STRIX B365-F GAMING</name>
+        <image>https://mega.com.vn/media/product/250_1714_main_asus_rog_strix_b365_f_gaming_chipset_intel_1.png</image>
+        <price>2940000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus ROG STRIX B450-F GAMING </name>
+        <image>https://mega.com.vn/media/product/250_1729_main_asus_rog_strix_b450_f_gaming_7.jpg</image>
+        <price>2920000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock Z390 Pro4 </name>
+        <image>https://mega.com.vn/media/product/250_1763_main_asrock_z390_pro4_chipset_intel_1.jpg</image>
+        <price>2870000</price>
+        <chipset>Intel Z390</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME B460-PLUS</name>
+        <image>https://mega.com.vn/media/product/250_15273_mainboard_asus_prime_b460_plus.jpg</image>
+        <price>2850000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460 PRO4</name>
+        <image>https://mega.com.vn/media/product/250_15235_mainboard_asrock_b460_pro4.png</image>
+        <price>2799000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460M Steel Legend</name>
+        <image>https://mega.com.vn/media/product/250_15236_mainboard_asrock_b460m_steel_legend.png</image>
+        <price>2790000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus TUF GAMING B460-PLUS</name>
+        <image>https://mega.com.vn/media/product/250_15267_mainboard_asus_tuf_gaming_b460_plus.jpg</image>
+        <price>2750000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M AORUS ELITE</name>
+        <image>https://mega.com.vn/media/product/250_16256_mainboard_gigabyte_b460m_aorus_elite.png</image>
+        <price>2750000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B550M DS3H</name>
+        <image>https://mega.com.vn/media/product/250_15395_mainboard_gigabyte_b550m_ds3h.png</image>
+        <price>2750000</price>
+        <chipset>AMD B550</chipset>
+        <socket>AM4/span&gt;</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B360 AORUS GAMING 3 DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8249_mainboard_b360_aorus_gaming_3_6.jpg</image>
+        <price>2740000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M D3H</name>
+        <image>https://mega.com.vn/media/product/250_15254_mainboard_gigabyte_b460m_d3h.png</image>
+        <price>2600000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M Aorus Pro socket LGA 1200</name>
+        <image>https://mega.com.vn/media/product/250_15252_mainboard_gigabyte_b460m_aorus_pro.png</image>
+        <price>2550000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B450M MORTAR </name>
+        <image>https://mega.com.vn/media/product/250_11516_main_msi_b450m_mortar_1.jpg</image>
+        <price>2500000</price>
+        <chipset>B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460 Phantom Gaming 4</name>
+        <image>https://mega.com.vn/media/product/250_15238_mainboard_asrock_b460_phantom_gaming_4.png</image>
+        <price>2490000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460M PRO4</name>
+        <image>https://mega.com.vn/media/product/250_15234_mainboard_asrock_b460m_pro4.png</image>
+        <price>2390000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>128</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboad MSI B450M Bazooka - Plus DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_13360_mainboad_msi_b450m_bazooka_plus_4.jpg</image>
+        <price>2370000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B360A PRO</name>
+        <image>https://mega.com.vn/media/product/250_8957_mainboard_msi_b360_a_pro_1.png</image>
+        <price>2300000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI H310M GAMING ARCTIS DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8952_mainboard_msi_h310m_gaming_artic_1.png</image>
+        <price>2280000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus Prime B450-Plus  </name>
+        <image>https://mega.com.vn/media/product/250_1719_main_asus_prime_b450_plus.jpg</image>
+        <price>2275000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>44</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B450 TOMAHAWK MAX </name>
+        <image>https://mega.com.vn/media/product/250_11504_main_msi_b450_tomahawk_max_amd.jpg</image>
+        <price>2210000</price>
+        <chipset>AMD® B450 Chipset</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M DS3H</name>
+        <image>https://mega.com.vn/media/product/250_15255_mainboard_gigabyte_b460m_ds3h.png</image>
+        <price>2200000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus ROG STRIX B365-G GAMING</name>
+        <image>https://mega.com.vn/media/product/250_1720_main_asus_rog_strix_b365_g_gaming_1.png</image>
+        <price>2180000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B450M MORTAR MAX </name>
+        <image>https://mega.com.vn/media/product/250_13670_main_msi_b450m_mortar_max_amd_4.png</image>
+        <price>2180000</price>
+        <chipset>B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>64</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B360M D3H DDR4</name>
+        <image>https://mega.com.vn/media/product/250_1996_main_gigabyte_ga_b360m_d3h_chipset_intel_b360_1.jpg</image>
+        <price>2150000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte B450 Gaming X</name>
+        <image>https://mega.com.vn/media/product/250_11684_mainboard_gigabyte_b450_gaming_x_1.png</image>
+        <price>2140000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B360M AORUS GAMING 3 DDR4  </name>
+        <image>https://mega.com.vn/media/product/250_8248_main_b360m_aorus_gaming_3_1.jpg</image>
+        <price>2140000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B365M MORTAR</name>
+        <image>https://mega.com.vn/media/product/250_8972_mainboard_msi_b365m_mortar_1.png</image>
+        <price>2135000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus EX-B460M-V5</name>
+        <image>https://mega.com.vn/media/product/250_15275_mainboard_asus_ex_b460m_v5.jpg</image>
+        <price>2100000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B360M Aorus Pro DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_8243_main_b360_m_aorus_pro_1.png</image>
+        <price>2090000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B450M Steel Legend  </name>
+        <image>https://mega.com.vn/media/product/250_2101_main_asrock_b450m_steel_legend_chipset_amd_b450_1.png</image>
+        <price>2030000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M GAMING HD</name>
+        <image>https://mega.com.vn/media/product/250_15257_mainboard_gigabyte_b460m_gaming_hd.png</image>
+        <price>2000000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B460M D2V</name>
+        <image>https://mega.com.vn/media/product/250_15258_mainboard_gigabyte_b460m_d2v.png</image>
+        <price>2000000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME B460M-K</name>
+        <image>https://mega.com.vn/media/product/250_15274_mainboard_asus_prime_b460m_k.jpg</image>
+        <price>1990000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B460M-HDV</name>
+        <image>https://mega.com.vn/media/product/250_15233_mainboard_asrock_b460m_hdv.png</image>
+        <price>1990000</price>
+        <chipset>Intel® B460</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H310M-D3 DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_8308_main_gigabyte_h310_d3_1.png</image>
+        <price>1980000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboar MSI B360M BAZOOKA</name>
+        <image>https://mega.com.vn/media/product/250_13359_mainboar_msi_b360m_bazooka_5.png</image>
+        <price>1945000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboad MSI B360M Gaming Plus DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_11268_mainboad_msi_b360m_gaming_plus_ddr4_sk1151_1.png</image>
+        <price>1920000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151 v2</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard Gigabyte B365M DS3H DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8260_mainboard_gigabyte_b365m_ds3h_new_1.png</image>
+        <price>1830000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME H410M-E</name>
+        <image>https://mega.com.vn/media/product/250_15279_mainboard_asus_prime_h410m_e.png</image>
+        <price>1790000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI EX - B360M-V</name>
+        <image>https://mega.com.vn/media/product/250_1730_main_asus_ex_b360m_v3_chipset_intel_1.jpg</image>
+        <price>1780000</price>
+        <chipset>Intel B360</chipset>
+        <socket>Intel B360</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock H410M-HDV</name>
+        <image>https://mega.com.vn/media/product/250_15232_mainboard_asrock_h410m_hdvm_2.png</image>
+        <price>1760000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME B450M-A  </name>
+        <image>https://mega.com.vn/media/product/250_1731_main_asus_prime_b450m_a.jpg</image>
+        <price>1740000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B450M DS3H DDR4  </name>
+        <image>https://mega.com.vn/media/product/250_1960_main_gigabyte_b450m_ds3h_chipset_amd_2.jpg</image>
+        <price>1735000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H410M DS2V</name>
+        <image>https://mega.com.vn/media/product/250_15244_mainboard_gigabyte_h410m_ds2v.png</image>
+        <price>1720000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B365M PRO VDH</name>
+        <image>https://mega.com.vn/media/product/250_8963_mainboard_msi_b365m_pro_vdh_1.png</image>
+        <price>1715000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H410M H</name>
+        <image>https://mega.com.vn/media/product/250_15245_mainboard_gigabyte_h410m_h.png</image>
+        <price>1700000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H410M S2H</name>
+        <image>https://mega.com.vn/media/product/250_15251_mainboard_gigabyte_h410m_s2h.png</image>
+        <price>1700000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>1</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI B450M-A PRO MAX</name>
+        <image>https://mega.com.vn/media/product/250_13266_main_msi_b450m_a_pro_max_5.png</image>
+        <price>1680000</price>
+        <chipset>AMD® B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>32</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME H410M-D</name>
+        <image>https://mega.com.vn/media/product/250_15277_mainboard_asus_prime_h410m_d.png</image>
+        <price>1650000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>1</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus PRIME H410M-K</name>
+        <image>https://mega.com.vn/media/product/250_15278_mainboard_asus_prime_h410m_k.png</image>
+        <price>1650000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>6</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B360M D2V DDR4</name>
+        <image>https://mega.com.vn/media/product/250_1999_main_gigabyte_ga_b360m_d2v_chipset_intel_b360_1.jpg</image>
+        <price>1640000</price>
+        <chipset>Intel B360</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte B450M GAMING </name>
+        <image>https://mega.com.vn/media/product/250_1988_5fc626ca5e772626dbecae67225659ca.png</image>
+        <price>1630000</price>
+        <chipset>AMD B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI B360M Pro VH DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_8257_msi_b360m_pro_vh_1.png</image>
+        <price>1620000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI B360M Pro VD DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_8244_msi_b360m_pro_vdh_1.png</image>
+        <price>1620000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte B365M D2V DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8253_mainboard_gigabyte_b365m_d2v_1.jpg</image>
+        <price>1615000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus EX-B365M-V</name>
+        <image>https://mega.com.vn/media/product/250_11967_main_asus_ex_b365m_v_1.png</image>
+        <price>1610000</price>
+        <chipset>Intel® B365</chipset>
+        <socket>Intel® Socket 1151 v2</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H110-D3A DDR4 - COIN </name>
+        <image>https://mega.com.vn/media/product/250_8296_main_gigabyte_h110_d3a_1.png</image>
+        <price>1610000</price>
+        <chipset>Intel H110</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Asus EX-B365M-V5</name>
+        <image>https://mega.com.vn/media/product/250_1734_main_asus_ex_b365m_v5_chipset_intel_1.jpg</image>
+        <price>1610000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H310M-E Prime</name>
+        <image>https://mega.com.vn/media/product/250_11341_mainboard_asus_h310m_e_prime_1.png</image>
+        <price>1590000</price>
+        <chipset>Intel® H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Prime B365M-K</name>
+        <image>https://mega.com.vn/media/product/250_1733_main_asus_prime_b365m_k_chipset_intel_1.png</image>
+        <price>1575000</price>
+        <chipset>Intel B365</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock H410M-HDV</name>
+        <image>https://mega.com.vn/media/product/250_15231_mainboard_asrock_h410m_hdv.png</image>
+        <price>1560000</price>
+        <chipset>Intel® H410</chipset>
+        <socket>LGA 1200</socket>
+        <maxRam>64</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard MSI B365M PRO-VH</name>
+        <image>https://mega.com.vn/media/product/250_8233_mainboard_msi_b365m_pro_vh_1.png</image>
+        <price>1550000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock B450M Pro4-F </name>
+        <image>https://mega.com.vn/media/product/250_8238_main_asrock_b450m_pro4_f_1.png</image>
+        <price>1540000</price>
+        <chipset>AMD Promontory B450</chipset>
+        <socket>AMD AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H310M-K Prime</name>
+        <image>https://mega.com.vn/media/product/250_8282_mainboard_asus_prime_h310m_k_1.png</image>
+        <price>1520000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="false" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI H310M PRO VD DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8263_main_msi_h310m_pro_vd_1.png</image>
+        <price>1515000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI H310M PRO VH PLUS DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_12128_mainboard_msi_h310m_pro_vh_plus_ddr4_1.jpeg</image>
+        <price>1500000</price>
+        <chipset>Intel® H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H310M-H</name>
+        <image>https://mega.com.vn/media/product/250_15239_mainboard_gigabyte_h310m_h.png</image>
+        <price>1500000</price>
+        <chipset>Intel® H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H310M-DS2 DDR4</name>
+        <image>https://mega.com.vn/media/product/250_2001_main_gigabyte_h310m_ds2_chipset_intel_h310_1.jpg</image>
+        <price>1490000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H310M-D Prime</name>
+        <image>https://mega.com.vn/media/product/250_8246_main_asus_prime_h310m_d_1.jpg</image>
+        <price>1480000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="false" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main Gigabyte AX370M-DS3H DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_1990_main_gigabyte_ax370m_ds3h_chipset_amd_1.jpg</image>
+        <price>1450000</price>
+        <chipset>AMD X370</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte H110M-H </name>
+        <image>https://mega.com.vn/media/product/250_13497_mainboard_gigabyte_h110m_h_3.png</image>
+        <price>1450000</price>
+        <chipset>Intel H110</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus Prime A320M-R</name>
+        <image>https://mega.com.vn/media/product/250_15366_mainboard_asus_prime_a320m_r_4.png</image>
+        <price>1450000</price>
+        <chipset>AMD A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboad MSI H110M Pro-VH-Plus DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_8281_msi_h110m_pro_vh_plus_1.png</image>
+        <price>1440000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Main MSI H310M PRO VD PLUS DDR4</name>
+        <image>https://mega.com.vn/media/product/250_2153_main_msi_h310m_pro_vd_plus_chipset_intel_h310_1.png</image>
+        <price>1440000</price>
+        <chipset>Intel H310</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI H310M PRO VDH PLUS DDR4</name>
+        <image>https://mega.com.vn/media/product/250_8937_mainboard_msi_h310m_pro_vdh_plus_1.png</image>
+        <price>1390000</price>
+        <chipset/>
+        <socket/>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard MSI A320M PRO MAX</name>
+        <image>https://mega.com.vn/media/product/250_13267_mainboard_msi_a320m_pro_max_5.png</image>
+        <price>1385000</price>
+        <chipset>AMD® B450</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>32</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus A320M-K PRIME  </name>
+        <image>https://mega.com.vn/media/product/250_1736_main_asus_prime_a320m_k.jpg</image>
+        <price>1350000</price>
+        <chipset>AMD A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H110M-K DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_11321_mainboard_asus_h110m_k_ddr4_sk1151_1.jpg</image>
+        <price>1340000</price>
+        <chipset>Intel® H110</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H110M-CS</name>
+        <image>https://mega.com.vn/media/product/250_11303_mainboard_asus_h110m_cs_1.jpg</image>
+        <price>1320000</price>
+        <chipset>Intel® H110</chipset>
+        <socket>LGA1151</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboad MSI H110M Pro-D DDR4 </name>
+        <image>https://mega.com.vn/media/product/250_11288_mainboad_msi_h110m_pro_d_ddr4_sk_1151co_1.png</image>
+        <price>1280000</price>
+        <chipset>Intel® H110 Chipset</chipset>
+        <socket>LGA1151 v2</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte GA- AB350M DS3H </name>
+        <image>https://mega.com.vn/media/product/250_8256_main_gigabyte_ab350m_ds3h_1.png</image>
+        <price>1250000</price>
+        <chipset>AM4</chipset>
+        <socket>AM4</socket>
+        <maxRam>64</maxRam>
+        <slotRam>4</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="false" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+    <mainboard>
+        <name>Mainboard MSI A320M PRO -VD</name>
+        <image>https://mega.com.vn/media/product/250_12091_mainboard_msi_a320m_pro_vd_s_v2_1.jpg</image>
+        <price>1250000</price>
+        <chipset>A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="true" type="x8"/>
+            <interface support="true" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asus H81M-K </name>
+        <image>https://mega.com.vn/media/product/250_11359_mainboard_asus_h81m_k_sk_1150_1.jpg</image>
+        <price>1250000</price>
+        <chipset>Intel® H81</chipset>
+        <socket>LGA1150</socket>
+        <maxRam>16</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="false" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Gigabyte A320M-S2H  </name>
+        <image>https://mega.com.vn/media/product/250_1993_main_gigabyte_ga_a320m_s2h_chipset_amd_1.png</image>
+        <price>1240000</price>
+        <chipset>AMD A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock A320M-HDV </name>
+        <image>https://mega.com.vn/media/product/250_2099_main_asrock_a320m_hdv_chipset_amd_a320_1.png</image>
+        <price>1180000</price>
+        <chipset>AMD A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+    <mainboard>
+        <name>Mainboard Asrock A320M-DVS R4.0 </name>
+        <image>https://mega.com.vn/media/product/250_13625_mainboard_asrock_a320m_dvs_r4_0_4.png</image>
+        <price>1180000</price>
+        <chipset>AMD A320</chipset>
+        <socket>AM4</socket>
+        <maxRam>32</maxRam>
+        <slotRam>2</slotRam>
+        <interfaces>
+            <interface support="true" type="x16"/>
+            <interface support="false" type="x8"/>
+            <interface support="false" type="x4"/>
+            <interface support="true" type="x1"/>
+        </interfaces>
+        <storageInterfaces>
+            <interface support="false" type="NVM.e"/>
+            <interface support="true" type="SATA"/>
+            <interface support="true" type="M.2"/>
+        </storageInterfaces>
+    </mainboard>
+                
+    Call template again to get next page
+                
+                
+    Call template again to get next page
+                
+                
+    Call template again to get next page
+</cpus>

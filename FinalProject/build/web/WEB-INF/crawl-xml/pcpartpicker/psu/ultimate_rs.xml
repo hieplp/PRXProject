@@ -1,0 +1,3122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><psus xmlns="prx/xml">
+    <psu>
+        <name>Cooler Master MWE Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41XLka8BchL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>99.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RM (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/02951377c9eed1e21fc3d8ba6092717e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CXM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/097e4a536e42595ca4c7ded7f7739bd4.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>94.99</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-W1-0600-K1</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/418Hh-XlrIL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>59.99</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-W1-0500-KR</name>
+        <image>http://ecx.images-amazon.com/images/I/513Kgl4tnUL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>53.97</price>
+    </psu>
+    <psu>
+        <name>EVGA BR</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/cb871f8cf187922a16a18e53f17366ff.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>74.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx (2018)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51lUqysCuDL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>164.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RM (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/3890f047bb5f8abb3f887ee40d27867e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>134.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CXM</name>
+        <image>http://ecx.images-amazon.com/images/I/51RxdsALapL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>99.94</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MWE Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41NwUWk0msL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>119.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx (2018)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51icxwzI9VL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>125.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CV</name>
+        <image>https://m.media-amazon.com/images/I/41v7tkAZ0NL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>69.99</price>
+    </psu>
+    <psu>
+        <name>EVGA BQ</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/512voawCsuL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>116.71</price>
+    </psu>
+    <psu>
+        <name>EVGA BR</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b624497b6d3a1589cfc26c69467f05c8.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>102.81</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart Series</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/124cfe9274e9841f0ff65b1935893944.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>49.99</price>
+    </psu>
+    <psu>
+        <name>EVGA BR</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b1afc6fa49b75c09b8b94797008b1d9b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>119.89</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-N1-0400-L1</name>
+        <image>http://ecx.images-amazon.com/images/I/51v4COMCCCL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>39.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RM (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ba980adaab9d78bdc3290de17c34073e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>254.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CV</name>
+        <image>https://m.media-amazon.com/images/I/41pTd2crvNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>139.00</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/49b15c4f90ae64a72cea7148d88b545e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>204.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA T2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1ff8589edd029c2ea041f07e30a6ed91.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1600</wattage>
+        <price>490.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/2a2172d1f17661103de901f43d831187.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>145.98</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx (2018)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/513mVXq9TiL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>277.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/41WlwxBojdL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>62.98</price>
+    </psu>
+    <psu>
+        <name>Corsair CXM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/23a8f923c23d6de30026d889136bf175.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>124.99</price>
+    </psu>
+    <psu>
+        <name>Corsair SF</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41XA%2BO8OFNL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>259.89</price>
+    </psu>
+    <psu>
+        <name>EVGA BR</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1fae6f9231112f3996aa2e7a2d3e862c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>68.99</price>
+    </psu>
+    <psu>
+        <name>EVGA BQ</name>
+        <image>http://ecx.images-amazon.com/images/I/51J5s4nQnWL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>123.44</price>
+    </psu>
+    <psu>
+        <name>Corsair CX (2017)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/415gPKkYACL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>69.93</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/5ccdecd73f9b346ebf46d2845dc57ac2.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>134.94</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower Grand RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/162e04ba3833a2563b77abea5b2f532c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>149.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CX (2017)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41RhpexjxUL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>145.97</price>
+    </psu>
+    <psu>
+        <name>Corsair TXM Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41lG-2yrHdL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>119.99</price>
+    </psu>
+    <psu>
+        <name>EVGA 210-GQ-0650</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f44aab9e6ecddf45fb3666ad99123ec1.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>109.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart BX1 RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/a04b925a61f5813382609c0b2b4bec89.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>69.00</price>
+    </psu>
+    <psu>
+        <name>Corsair CP-9020087-NA</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1d57cf53a1289e4dfff1aed9b1cc272a.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1600</wattage>
+        <price>559.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Pure Power 11 CM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ae24d30d91b17c988bdab5265cc9f529.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>124.37</price>
+    </psu>
+    <psu>
+        <name>EVGA BQ</name>
+        <image>http://ecx.images-amazon.com/images/I/51qTcBIn0hL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>97.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx White (2018)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/78afeb3cab692533f7fad2eba2975750.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>309.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MasterWatt</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51gSFOwtaCL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>99.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master Elite V3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/17e8927876225391ec44262a2e7bd1ac.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>49.99</price>
+    </psu>
+    <psu>
+        <name>EVGA GD (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/d0942c9c2e9216eccf77b6a59fbca6b0.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>82.29</price>
+    </psu>
+    <psu>
+        <name>Corsair AX</name>
+        <image>https://images-fe.ssl-images-amazon.com/images/I/416gNawEYEL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>640.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MasterWatt</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41EpaK7lA%2BL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>79.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ea55372e03d4dfbe1c9b42d25f3c2c57.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>225.85</price>
+    </psu>
+    <psu>
+        <name>SeaSonic S12III</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51N-1omQxIL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>125.81</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41xWqdlGpAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>63.98</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GA</name>
+        <image>https://m.media-amazon.com/images/I/51QtNc5IZVL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Gold</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/382627d6b0a36162931db13af716ef18.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>259.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51wOlkt6EAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>179.99</price>
+    </psu>
+    <psu>
+        <name>Corsair HX Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51QvmULw-VL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>359.00</price>
+    </psu>
+    <psu>
+        <name>Silverstone SST-SX500-LG</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/25aa74d682bfbb478cc7089f30086e4b.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>119.98</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MasterWatt</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b60963afcf18a78544b818fbfa02e921.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>94.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master Elite V3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1fb1b2320c4a33c6b5886ddb117c6527.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>104.81</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1dd87da4186d59970d24232ebfd36278.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>130.99</price>
+    </psu>
+    <psu>
+        <name>Corsair VS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/c6bf9f463e6214057bbad6a610f8d9d4.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>108.07</price>
+    </psu>
+    <psu>
+        <name>SeaSonic S12III</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51FO6ftkaKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>67.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic S12III</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51OtMFTMO2L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>113.81</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 PE</name>
+        <image>https://m.media-amazon.com/images/I/513yIJ35+NL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>121.98</price>
+    </psu>
+    <psu>
+        <name>EVGA GD (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f8c1ad47e393d4f927d010643c61bc8e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>99.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51SfioR-HFL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>109.90</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G1+</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/dd4747b9744859df33da31b9156fba02.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>199.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower DPS G RGB</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41CXr%2B%2BpxUL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1250</wattage>
+        <price>949.99</price>
+    </psu>
+    <psu>
+        <name>Corsair SF</name>
+        <image>http://ecx.images-amazon.com/images/I/41q0oFqckYL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>423.53</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GA</name>
+        <image>https://m.media-amazon.com/images/I/51IStJoC6NL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>119.99</price>
+    </psu>
+    <psu>
+        <name>EVGA G5</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/88264eb920d32643130343d8f17b532b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>174.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx</name>
+        <image>http://ecx.images-amazon.com/images/I/51-tpfa5K9L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>218.98</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MasterWatt Lite Full Range</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ddca9f92ecde70f1e5ae7480aa6edceb.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>72.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TR2</name>
+        <image>http://ecx.images-amazon.com/images/I/41yjY3yXTgL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>55.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart Pro RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/a070324480a65f4dd777684a249b489f.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>Corsair HX Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51s30iFwevL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>205.29</price>
+    </psu>
+    <psu>
+        <name>EVGA GD (2019)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/88cf41a1004078b5dc6a0be2942e7ed4.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>Corsair RMx (2018)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/0255e6064c82e964e2f97a14c406624c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>142.33</price>
+    </psu>
+    <psu>
+        <name>Corsair VS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/44336345ee4ed62b955fe70c46c472fc.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>64.93</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://m.media-amazon.com/images/I/41p8+JzLeYL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>149.90</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Gold</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/0d00cd0365aac0b1e9c2f3bbc1b8a670.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>154.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 PE</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/abe30b855e6348f91ea6209ce62807be.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>Antec VP PLUS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/069d1e8667c27de362feaf02ecf74ba3.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>66.54</price>
+    </psu>
+    <psu>
+        <name>Corsair AX</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41HeQXeryRL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>337.99</price>
+    </psu>
+    <psu>
+        <name>Asus ROG Strix</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/8d735e637dc69c251928233604bb53ea.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>179.94</price>
+    </psu>
+    <psu>
+        <name>be quiet! Pure Power 11</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/17cbb114d68040ad17ad309e7deb6b79.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>47.73</price>
+    </psu>
+    <psu>
+        <name>Corsair SF</name>
+        <image>http://ecx.images-amazon.com/images/I/41wxNio%2BniL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>128.12</price>
+    </psu>
+    <psu>
+        <name>Gigabyte P-B</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/c5ba22f3722da72a96698083cf47f9f0.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>125.58</price>
+    </psu>
+    <psu>
+        <name>EVGA B5</name>
+        <image>https://m.media-amazon.com/images/I/5168gbYIrwL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>Topower TOP-1000WG</name>
+        <image>http://ecx.images-amazon.com/images/I/51GktLuKTKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>1291.36</price>
+    </psu>
+    <psu>
+        <name>Corsair CX (2017)</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41U1rnA8SrL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>Logisys PS480D</name>
+        <image>http://ecx.images-amazon.com/images/I/41cXAmhkmtL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>480</wattage>
+        <price>21.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart BX1</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41bUVbWjjVL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>129.81</price>
+    </psu>
+    <psu>
+        <name>Cooler Master Elite V3</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/519pURgXOeL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>79.17</price>
+    </psu>
+    <psu>
+        <name>Fractal Design Ion SFX-L</name>
+        <image>https://m.media-amazon.com/images/I/41d4XSLwWML.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>115.17</price>
+    </psu>
+    <psu>
+        <name>EVGA B5</name>
+        <image>https://m.media-amazon.com/images/I/51ZuIg7bofL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>109.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51flyT3iaML.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1250</wattage>
+        <price>449.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CX (2017)</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/9d5b2b1321e3ab3a9281a4fa93fc74e0.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>126.95</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/a39289b41b92d2d387a165aca1af3c9d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>181.99</price>
+    </psu>
+    <psu>
+        <name>Corsair HX Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51Q4YH4Qx4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>209.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA P2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/01fc202b3c6c7cafb23340b3ee6e0791.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1600</wattage>
+        <price>480.79</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GA</name>
+        <image>https://m.media-amazon.com/images/I/51zNwtqLpuL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/0c334370e66326a014a01bd25bd139a4.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>114.98</price>
+    </psu>
+    <psu>
+        <name>Corsair SF</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41eWwG7IGhL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>130.87</price>
+    </psu>
+    <psu>
+        <name>EVGA 210-GQ-0750</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/24ef44cdf0bbd6dbfd72bb1bd22f63a5.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41aGSJqMQnL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>164.95</price>
+    </psu>
+    <psu>
+        <name>Antec NeoECO Gold ZEN</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f13735e6c50ee93aa6bb3a3409c8f9d9.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>89.35</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/3f102f6accc41e69cdba76a63259abae.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>210.99</price>
+    </psu>
+    <psu>
+        <name>Asus ROG Strix</name>
+        <image>https://m.media-amazon.com/images/I/51N9aNszr4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>EVGA G5</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/2962078ca09cdf6f4c8e9f99c01cfe4a.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>198.95</price>
+    </psu>
+    <psu>
+        <name>Fractal Design Ion SFX-L</name>
+        <image>https://m.media-amazon.com/images/I/41qz8ybOs5L.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>137.88</price>
+    </psu>
+    <psu>
+        <name>Gigabyte GP-G750H</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/24f309faf5ab43adb4380701d88b6b4c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>233.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://m.media-amazon.com/images/I/31WVhwvS0DL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>134.90</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TR2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/31d5ff64dc070541b7bc68c7757d2830.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>600</wattage>
+        <price>54.99</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer Gold</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/273e9a1b20fdddfcb664ce46efc7e821.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>107.98</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZX-500</name>
+        <image>http://ecx.images-amazon.com/images/I/51Ia7aC4hlL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>45.78</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GOLD</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/89a958efbd71727bfea48d6634019e12.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>109.04</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-N1-0550-L1</name>
+        <image>http://ecx.images-amazon.com/images/I/51mdNcIOMNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>550</wattage>
+        <price>52.94</price>
+    </psu>
+    <psu>
+        <name>Silverstone SFX</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51YKrs7LtqL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>74.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G1+</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/cef75cc13e5787d7c29760e9087905f4.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>268.03</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA 1000 P2</name>
+        <image>http://ecx.images-amazon.com/images/I/51Jmq4ZtFvL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>298.27</price>
+    </psu>
+    <psu>
+        <name>Antec NeoECO Gold ZEN</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b018b2e29b9b2f83a620a99af8471c78.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>75.98</price>
+    </psu>
+    <psu>
+        <name>EVGA 210-GQ-0850</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/6526a44f05968a2e6b238ca552f25ae7.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>159.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51BFUcGGpnL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>126.78</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA P2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/0f2c0a7aa202d2be52dd352d178f7b84.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>396.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GA</name>
+        <image>https://m.media-amazon.com/images/I/51005y5YLOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>166.98</price>
+    </psu>
+    <psu>
+        <name>EVGA G5</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/98b08be44e35e5cea8bae15a35027e3e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>190.04</price>
+    </psu>
+    <psu>
+        <name>Phanteks Revolt X</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51bHBlypsDL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>256.98</price>
+    </psu>
+    <psu>
+        <name>Aerocool XPredator GM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/9fd4c1edec37c4e772878fc1d9b1f0ed.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>605.11</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 PE</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/134c2df91872591a7ab32387f3aa5a1b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>149.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/3f102f6accc41e69cdba76a63259abae.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>177.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake PS-TPD-0750MPCGUS-1</name>
+        <image>http://ecx.images-amazon.com/images/I/51l42nzJETL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>109.04</price>
+    </psu>
+    <psu>
+        <name>Corsair CP-9020074</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ca8717c73721d77d5e0d1fdb1cfed981.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>381.00</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/72d94e57cdd11623fd1696e8ee343952.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>149.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CX</name>
+        <image>http://ecx.images-amazon.com/images/I/41bq8BP48eL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>209.98</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G2</name>
+        <image>http://ecx.images-amazon.com/images/I/51cpdkwnz-L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>309.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME TX</name>
+        <image>https://m.media-amazon.com/images/I/416Bcp0kkqL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>899.00</price>
+    </psu>
+    <psu>
+        <name>SeaSonic EVO Edition</name>
+        <image>http://ecx.images-amazon.com/images/I/51t9GKy%2BKcL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>620</wattage>
+        <price>224.88</price>
+    </psu>
+    <psu>
+        <name>Rosewill Glacier 500M</name>
+        <image>http://ecx.images-amazon.com/images/I/41pHY3Pni%2BL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>94.99</price>
+    </psu>
+    <psu>
+        <name>Fractal Design Ion+</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/858613a28125fded4ae29e8fe2659158.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>660</wattage>
+        <price>120.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41HSgcr6AjL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>179.99</price>
+    </psu>
+    <psu>
+        <name>EVGA 600B</name>
+        <image>http://ecx.images-amazon.com/images/I/51TEloWPxjL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>209.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Plus</name>
+        <image>http://ecx.images-amazon.com/images/I/51a2TyDydzL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>225.93</price>
+    </psu>
+    <psu>
+        <name>be quiet! Pure Power 11</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/75b886b7451adb934a7febcac13f4eb7.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>215.73</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS SGX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/332544e0e8da6848b9fa83947101de60.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>144.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower DPS G RGB Titanium</name>
+        <image>http://ecx.images-amazon.com/images/I/51457vg1N%2BL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1500</wattage>
+        <price>529.99</price>
+    </psu>
+    <psu>
+        <name>Corsair CP-9020073</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/18e4f2bc88d0b8106ff6fea320f2323d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>300.05</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ea6579129aa2c76b3d1c399ab9b7b0a0.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>249.20</price>
+    </psu>
+    <psu>
+        <name>Antec Earthwatts Gold Pro</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/7560f38c69f6f149a4d33ad8999e6a02.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>204.98</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://m.media-amazon.com/images/I/41p8+JzLeYL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>184.00</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/6873c77bf02de5a7da3da14d87f00651.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>219.00</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/8bbad717cd1c6bbcb2ced4956dfc20a3.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>74.98</price>
+    </psu>
+    <psu>
+        <name>Corsair Professional</name>
+        <image>http://ecx.images-amazon.com/images/I/51Bi2XFY4gL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>309.99</price>
+    </psu>
+    <psu>
+        <name>EVGA B5</name>
+        <image>https://m.media-amazon.com/images/I/51UyDWC5Y8L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>129.94</price>
+    </psu>
+    <psu>
+        <name>Cougar VTE</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/d7fc06a72a9a445b18814b618cb9fe3f.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>79.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51JmDzY-zkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>199.90</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Ultra Titanium</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51ZsT9jUEhL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>505.55</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Gold</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/510ciwf3WHL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>177.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/412jRLsPg8L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>159.19</price>
+    </psu>
+    <psu>
+        <name>Antec NeoECO</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ba49f1c4ae68dc2c2a9ed2a008cccb10.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>104.80</price>
+    </psu>
+    <psu>
+        <name>CoolMax V-400</name>
+        <image>http://ecx.images-amazon.com/images/I/41T0ZPZ94DL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>25.94</price>
+    </psu>
+    <psu>
+        <name>CoolMax I-500</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/c8f6598e0011fc5c5d5dcc03a67ceca9.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>22.26</price>
+    </psu>
+    <psu>
+        <name>EVGA 210-GQ-1000</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ed2b65163a469142ad0460bcfadf4850.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>179.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA P2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1a91d573afc204e9d77582972ef1c677.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>259.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart RGB</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41m%2BwApletL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>72.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower Grand RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/83e4371175c6091bde1dd3e6dc1e48ce.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>288.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>/static/forever/img/no-image.png</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>119.90</price>
+    </psu>
+    <psu>
+        <name>Antec Earthwatts Gold Pro</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/d2c2d32f8e6dce383dd72d182d9f590a.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>121.43</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart BX1 RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/4a4881d97b78085ff22739b51acce44c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>112.52</price>
+    </psu>
+    <psu>
+        <name>Antec NeoECO Gold ZEN</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f5fff539440e070a30d72a7a00183e22.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>95.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/fef7512dace78a5d11d0fea87eb8a7d6.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>138.98</price>
+    </psu>
+    <psu>
+        <name>Silverstone SFX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/d2602aa202d913e8fa14f7e91531615c.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>800</wattage>
+        <price>232.35</price>
+    </psu>
+    <psu>
+        <name>ADATA XPG CORE Reactor</name>
+        <image>https://m.media-amazon.com/images/I/51UGM2bzZ6L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>140.03</price>
+    </psu>
+    <psu>
+        <name>Corsair CX</name>
+        <image>http://ecx.images-amazon.com/images/I/41GeR0PISIL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>178.28</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS Plus Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/fef7512dace78a5d11d0fea87eb8a7d6.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>114.99</price>
+    </psu>
+    <psu>
+        <name>Rosewill LEPTON 600</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f29d48e7d4e4653f915709dc425b7456.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>108.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G2</name>
+        <image>http://ecx.images-amazon.com/images/I/51g8ix0LoFL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1300</wattage>
+        <price>238.12</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Ultra Titanium</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/34182340d5f0112270ebf1667e4ee11f.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>207.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51BJQ5JrsDL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>679.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone Essential</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/511OoR096DL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>113.27</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA P2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/c14c18dd7beb129405b0df6189c9e66b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>336.99</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-W1-0430-KR</name>
+        <image>http://ecx.images-amazon.com/images/I/51QwiP2zJBL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>119.98</price>
+    </psu>
+    <psu>
+        <name>Corsair RM</name>
+        <image>http://ecx.images-amazon.com/images/I/41ZNUdeB67L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>297.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Titanium</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/5ac9eba4fe8d8a6f38b27eb91198158b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>227.98</price>
+    </psu>
+    <psu>
+        <name>Antec VP PLUS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/bb9426e37fdd96ffcd91bdb1a99097cb.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>76.05</price>
+    </psu>
+    <psu>
+        <name>Corsair CP-9020072</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/17c0298b366edf62d9a00f5a61e1917c.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>209.61</price>
+    </psu>
+    <psu>
+        <name>LEPA MaxBron</name>
+        <image>http://ecx.images-amazon.com/images/I/41spZ4SCZcL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>800</wattage>
+        <price>104.29</price>
+    </psu>
+    <psu>
+        <name>be quiet! Dark Power Pro 11</name>
+        <image>http://ecx.images-amazon.com/images/I/51MgZ00MYfL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>158.85</price>
+    </psu>
+    <psu>
+        <name>Silverstone ST45SF</name>
+        <image>http://ecx.images-amazon.com/images/I/41mruTDjFoL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>109.98</price>
+    </psu>
+    <psu>
+        <name>Antec VP PLUS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b903ab5c550bced85ae4e88299b7e076.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>59.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone SX700-LPT</name>
+        <image>http://ecx.images-amazon.com/images/I/51QPBD0tdhL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>186.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! Straight Power 11</name>
+        <image>https://m.media-amazon.com/images/I/41p8+JzLeYL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>249.90</price>
+    </psu>
+    <psu>
+        <name>Silverstone SST-SX650-G</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/8dd0a8fb704d1fedf6b22afd773cff97.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>227.31</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MasterWatt Lite Full Range</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/cf07cf649652f8e8734b4b5d429ed144.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>242.84</price>
+    </psu>
+    <psu>
+        <name>CoolMax CM-300</name>
+        <image>http://ecx.images-amazon.com/images/I/41a5a3kvr3L.jpg</image>
+        <factor>Micro ATX</factor>
+        <efficiency/>
+        <wattage>300</wattage>
+        <price>28.73</price>
+    </psu>
+    <psu>
+        <name>Silverstone ST30SF</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/80eb3b8aef46ebf07eb0de9bf4366c0a.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>112.73</price>
+    </psu>
+    <psu>
+        <name>FSP Group Dagger Pro</name>
+        <image>https://m.media-amazon.com/images/I/51SS72f+D9L.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>139.99</price>
+    </psu>
+    <psu>
+        <name>Apex AL-8250SFX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/4ff48ca0b7afbdad8e8dd2ceddb9f31f.med.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency/>
+        <wattage>250</wattage>
+        <price>30.98</price>
+    </psu>
+    <psu>
+        <name>In Win PB</name>
+        <image>https://m.media-amazon.com/images/I/51YzXw55vNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>129.00</price>
+    </psu>
+    <psu>
+        <name>be quiet! DARK POWER PRO 11</name>
+        <image>http://ecx.images-amazon.com/images/I/41vrgDRdKgL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>199.90</price>
+    </psu>
+    <psu>
+        <name>Rosewill PHOTON-550</name>
+        <image>http://ecx.images-amazon.com/images/I/41G-MpQRw6L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>129.99</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA NEX</name>
+        <image>http://ecx.images-amazon.com/images/I/51jpYmaIl-L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>299.99</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer Gold</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/94564f2b9b2f9fb7cf6e3a0946e258bc.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>155.68</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA GM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/cec2fcf0b99d1a073248e419f805990e.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>127.30</price>
+    </psu>
+    <psu>
+        <name>Phanteks Revolt X</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51i15yCNf1L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>237.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart BX1 RGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/24bb88f39f174dc6dbb04e7095beef83.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>94.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic FOCUS SGX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/c0b33b4e09e590f6a5c58a4c0b0cfa5a.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>199.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 ARGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/2e42051d6c39dc8da27dfc27d206e1eb.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>169.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MWE Gold</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41C04tWqcbL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>198.90</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZX-700</name>
+        <image>http://ecx.images-amazon.com/images/I/31B9THct0yL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>64.48</price>
+    </psu>
+    <psu>
+        <name>be quiet! System Power 9 CM</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/6706a25e270992133bf9ed01ac38e124.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>153.16</price>
+    </psu>
+    <psu>
+        <name>PC Power &amp;amp; Cooling SILENCER</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51n8GaTWkOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1050</wattage>
+        <price>188.96</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart RGB 230V</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/e13ae98063169c383ecf961260edc88b.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>203.40</price>
+    </psu>
+    <psu>
+        <name>LEPA MaxBron</name>
+        <image>http://ecx.images-amazon.com/images/I/51M5R90OHKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>110.00</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G2</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/dc8f2b32533ea4411c8a31c83ce33e77.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1600</wattage>
+        <price>399.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake PS-TPD-1200MPCGUS-1</name>
+        <image>http://ecx.images-amazon.com/images/I/513V7KamLSL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>180.52</price>
+    </psu>
+    <psu>
+        <name>Silverstone ST1500-GS</name>
+        <image>http://ecx.images-amazon.com/images/I/41MCW76Rg0L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1500</wattage>
+        <price>229.49</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart BX1</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41oykKKWjkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>99.55</price>
+    </psu>
+    <psu>
+        <name>Rosewill ARC 550</name>
+        <image>http://ecx.images-amazon.com/images/I/41ILQ76WXNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>69.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME SNOWSILENT</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/188a75ccf661bb814d1d5a3fef76229e.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>569.00</price>
+    </psu>
+    <psu>
+        <name>Silverstone Essential</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/511PE5hHeKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>101.07</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower Grand RGB Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f150e7bc367f83d50a2c15c5456e404d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1050</wattage>
+        <price>239.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Titanium</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51cSN53J%2BSL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>342.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/167bb299669bcf601a1668dfba6f1eca.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>233.89</price>
+    </psu>
+    <psu>
+        <name>Enermax Revolution D.F.</name>
+        <image>https://m.media-amazon.com/images/I/41UUhRiE+vL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>99.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 ARGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/cb598231cbc52b7bbee7d5d5318d8d7d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>189.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master MWE Bronze</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41b2gGPXpzL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>159.00</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Ultra Titanium</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/517nN1wmoKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>404.48</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZU-500B</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51C0sfArG4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>149.15</price>
+    </psu>
+    <psu>
+        <name>Rosewill HERCULES-1600S</name>
+        <image>https://images-fe.ssl-images-amazon.com/images/I/41amoD11apL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1600</wattage>
+        <price>199.99</price>
+    </psu>
+    <psu>
+        <name>Corsair Enthusiast</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f38478029b99b0d91bfff16001ee6618.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>231.59</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GX1</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/70a437db1d16d38340f8ab4094860550.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>78.73</price>
+    </psu>
+    <psu>
+        <name>Silverstone SFX</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51YKrs7LtqL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>94.00</price>
+    </psu>
+    <psu>
+        <name>Topower TOP-800WB</name>
+        <image>http://ecx.images-amazon.com/images/I/51bIfTThRaL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>800</wattage>
+        <price>98.49</price>
+    </psu>
+    <psu>
+        <name>Corsair Professional Gold</name>
+        <image>http://ecx.images-amazon.com/images/I/51DbAXr3XYL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>442.61</price>
+    </psu>
+    <psu>
+        <name>Rosewill Hive</name>
+        <image>http://ecx.images-amazon.com/images/I/41%2B%2B4HkyXzL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>104.99</price>
+    </psu>
+    <psu>
+        <name>FSP Group FSP400-60FGGBA</name>
+        <image>http://ecx.images-amazon.com/images/I/51RM%2B70bH6L.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>99.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1 ARGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/6d66feb3aa6d7d5f1747b7fb612ba6bf.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>199.99</price>
+    </psu>
+    <psu>
+        <name>ADATA XPG CORE Reactor</name>
+        <image>https://m.media-amazon.com/images/I/51UGM2bzZ6L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>209.99</price>
+    </psu>
+    <psu>
+        <name>be quiet! DARK POWER PRO 11</name>
+        <image>http://ecx.images-amazon.com/images/I/41YRu-nrHPL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>279.99</price>
+    </psu>
+    <psu>
+        <name>CoolMax V-500</name>
+        <image>http://ecx.images-amazon.com/images/I/513w2wktzfL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>29.13</price>
+    </psu>
+    <psu>
+        <name>EVGA SuperNOVA G1+</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/779737244cc82fc16352a7c01066e641.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>264.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51xgw9eYNOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>289.99</price>
+    </psu>
+    <psu>
+        <name>Corsair Builder</name>
+        <image>http://ecx.images-amazon.com/images/I/41zKVZOycJL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>298.99</price>
+    </psu>
+    <psu>
+        <name>Enermax REVOLUTION X't II</name>
+        <image>http://ecx.images-amazon.com/images/I/51XPr5osrhL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>149.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower GF1</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/404931c1157a6de6dbcfe03f150a316d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>121.98</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Platinum</name>
+        <image>http://ecx.images-amazon.com/images/I/51j1PX%2BhLwL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>156.99</price>
+    </psu>
+    <psu>
+        <name>Super Flower Leadex III ARGB</name>
+        <image>https://m.media-amazon.com/images/I/51CoazrfgDL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>169.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/41lGfKxnWfL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>495.98</price>
+    </psu>
+    <psu>
+        <name>Athena Power AP-MFATX50P8</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/6e32ea57dbfc49c3ef14ab47a76765f7.256p.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>119.99</price>
+    </psu>
+    <psu>
+        <name>Corsair Gaming</name>
+        <image>http://ecx.images-amazon.com/images/I/51v87hhhEML.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>119.98</price>
+    </psu>
+    <psu>
+        <name>Silverstone TX300</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/5102gWvQPeL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>88.08</price>
+    </psu>
+    <psu>
+        <name>Mistel MX550 FANLESS</name>
+        <image>https://m.media-amazon.com/images/I/41tozK4L10L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>109.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TOUGHPOWER PF1 ARGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/b7bb3e2fea075263ed3ba09b8790e399.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>329.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake SMART</name>
+        <image>http://ecx.images-amazon.com/images/I/515inE1TaAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>171.70</price>
+    </psu>
+    <psu>
+        <name>EVGA 100-B1-0700-K1</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ee1d04cfb2958783357ccceb23c554d1.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>239.99</price>
+    </psu>
+    <psu>
+        <name>GAMDIAS Cyclops X1 P</name>
+        <image>https://m.media-amazon.com/images/I/51EmMvaSEuL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>279.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Ultra Gold</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51z8OU2IAOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>321.20</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Platinum</name>
+        <image>http://ecx.images-amazon.com/images/I/51WamsChH-L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>144.99</price>
+    </psu>
+    <psu>
+        <name>Rosewill Glacier 850M</name>
+        <image>http://ecx.images-amazon.com/images/I/41zoosbKXBL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>109.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Platinum</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/62e6ac0ec82be611824c8bfccf613cce.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>186.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SS-600ET</name>
+        <image>http://ecx.images-amazon.com/images/I/41YeAbEHnbL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>75.63</price>
+    </psu>
+    <psu>
+        <name>Corsair Professional</name>
+        <image>http://ecx.images-amazon.com/images/I/51EyBFIb8YL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>492.28</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME TX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f7a87b1e5994ff45d730053fc8e32065.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>207.98</price>
+    </psu>
+    <psu>
+        <name>Chieftec GPS-600A8</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51Ip6iunuTL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>142.00</price>
+    </psu>
+    <psu>
+        <name>Silverstone Nightjar</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/85e8a9faf9a632beb8b8b8f7af0b5089.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>170.05</price>
+    </psu>
+    <psu>
+        <name>Raidmax Cobra</name>
+        <image>http://ecx.images-amazon.com/images/I/51cEsa2x%2B9L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>68.98</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer Extreme</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/fc49efc3716dc51de27acf0ee6cfdd10.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>163.98</price>
+    </psu>
+    <psu>
+        <name>SeaSonic PRIME Ultra Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51TXZq5qV7L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>291.48</price>
+    </psu>
+    <psu>
+        <name>Chieftec GPS-700A8</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51Mvga5V76L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>155.00</price>
+    </psu>
+    <psu>
+        <name>Topower ZU-550W</name>
+        <image>http://ecx.images-amazon.com/images/I/41-R1p03mFL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>550</wattage>
+        <price>65.20</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SS-400ET Bronze</name>
+        <image>http://ecx.images-amazon.com/images/I/41TTafvr%2BgL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>60.98</price>
+    </psu>
+    <psu>
+        <name>EVGA BT</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/dfb60bd6f9e14aedba817157006d87cf.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>179.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Berlin</name>
+        <image>http://ecx.images-amazon.com/images/I/51VB5HGAnmL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>630</wattage>
+        <price>143.71</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1c9435188ba0f80afb9e11c3a1a1fff4.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1500</wattage>
+        <price>300.49</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS</name>
+        <image>https://images-fe.ssl-images-amazon.com/images/I/51E%2BCDQz-iL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>475.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone SST-SX600-G</name>
+        <image>http://ecx.images-amazon.com/images/I/41OwnSTUXuL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>319.25</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Green</name>
+        <image>http://ecx.images-amazon.com/images/I/51nP2mC6L7L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>878.62</price>
+    </psu>
+    <psu>
+        <name>PC Power &amp;amp; Cooling SILENCER</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51%2BIvFwNb2L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>304.54</price>
+    </psu>
+    <psu>
+        <name>Solid Gear SDGR-900E</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/9f5d9824a7a881d7b3c1941eff494db0.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>900</wattage>
+        <price>76.43</price>
+    </psu>
+    <psu>
+        <name>Cooler Master RS650-AFBAG1-US</name>
+        <image>http://ecx.images-amazon.com/images/I/51N9PEye%2BEL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>438.20</price>
+    </psu>
+    <psu>
+        <name>Athena Power APOLLO 600 PLUS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/562907f79e4b6d919e4c5a0959442660.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>150.22</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Plus</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/1c67c04fa7b0dd4899ceeb72a95c12f5.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>224.87</price>
+    </psu>
+    <psu>
+        <name>Diablotek PSDA320M</name>
+        <image>http://ecx.images-amazon.com/images/I/41zeiqBB%2B1L.jpg</image>
+        <factor>Micro ATX</factor>
+        <efficiency/>
+        <wattage>320</wattage>
+        <price>40.48</price>
+    </psu>
+    <psu>
+        <name>Rosewill PHOTON-1050</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/3ae1b89287a48bff48eb12ee19102b20.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1050</wattage>
+        <price>229.99</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Gold S</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/4aa8f9c679579cea1206531e6b21c964.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>369.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TOUGHPOWER PF1 ARGB</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/9bd27d187b7a01ce2f8470c37e986b05.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1050</wattage>
+        <price>296.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart</name>
+        <image>http://ecx.images-amazon.com/images/I/41lyrJC1WlL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>730</wattage>
+        <price>211.59</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider</name>
+        <image>http://ecx.images-amazon.com/images/I/412TFe42A%2BL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1500</wattage>
+        <price>296.41</price>
+    </psu>
+    <psu>
+        <name>Silverstone SST-TX300</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ed4d5da91285cfe1f9360ff41b975c97.256p.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>79.98</price>
+    </psu>
+    <psu>
+        <name>Silverstone SX-G</name>
+        <image>/static/forever/img/no-image.png</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>204.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart</name>
+        <image>http://ecx.images-amazon.com/images/I/511gis36gXL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>228.99</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZU-700B</name>
+        <image>http://ecx.images-amazon.com/images/I/21kbmZyx9cL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>189.32</price>
+    </psu>
+    <psu>
+        <name>Antec VP-450</name>
+        <image>http://ecx.images-amazon.com/images/I/51UhOUl0GYL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>450</wattage>
+        <price>149.97</price>
+    </psu>
+    <psu>
+        <name>Cougar CMX1200V3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/ef9204ae964a349486cc8a8d6c8a5e5e.med.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>155.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS</name>
+        <image>https://m.media-amazon.com/images/I/51BGkl9GRvL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>248.99</price>
+    </psu>
+    <psu>
+        <name>StarTech ATX2POWER350</name>
+        <image>http://ecx.images-amazon.com/images/I/41iccqERGOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>48.99</price>
+    </psu>
+    <psu>
+        <name>FSP Group FSP500-50FSPT</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/591ae053cea39e33e3c890e4beedd590.256p.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>149.99</price>
+    </psu>
+    <psu>
+        <name>Fractal Design Newton R3</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/260aa8f5f058024d5ad344ef2d92b87d.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>800</wattage>
+        <price>400.59</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Green</name>
+        <image>http://ecx.images-amazon.com/images/I/21ft-%2BathnL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>104.73</price>
+    </psu>
+    <psu>
+        <name>Rosewill Glacier 1000M</name>
+        <image>http://ecx.images-amazon.com/images/I/410eVX8F-UL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>119.99</price>
+    </psu>
+    <psu>
+        <name>In Win IP-S200DF1-0</name>
+        <image>http://ecx.images-amazon.com/images/I/21nFEPBhiXL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency/>
+        <wattage>200</wattage>
+        <price>63.00</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TOUGHPOWER PF1 ARGB</name>
+        <image>https://m.media-amazon.com/images/I/51LSqGGi-HL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>279.98</price>
+    </psu>
+    <psu>
+        <name>Rosewill RD-Z</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/373d0972d93ccb2fa3e132cada2867de.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>58.98</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Tough Power</name>
+        <image>http://ecx.images-amazon.com/images/I/41erSXvV1WL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>262.58</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer</name>
+        <image>http://ecx.images-amazon.com/images/I/51KvQNSrSkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>620</wattage>
+        <price>229.88</price>
+    </psu>
+    <psu>
+        <name>Thermaltake SMART</name>
+        <image>http://ecx.images-amazon.com/images/I/514807EBEOL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>250.00</price>
+    </psu>
+    <psu>
+        <name>Rosewill HIVE</name>
+        <image>http://ecx.images-amazon.com/images/I/41%2B%2B4HkyXzL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>104.99</price>
+    </psu>
+    <psu>
+        <name>Sparkle FSP300-60ATV</name>
+        <image>http://ecx.images-amazon.com/images/I/31zAB1SvDqL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>300</wattage>
+        <price>44.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master eXtreme Power</name>
+        <image>http://ecx.images-amazon.com/images/I/51eEHaqKs4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>550</wattage>
+        <price>157.03</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/3f74efd6e0462ad17c5236427db4753a.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>325.58</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SS-600ES</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51Jbm4vN3oL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>117.81</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower iRGB PLUS Platinum</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/410U6F036uL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>441.99</price>
+    </psu>
+    <psu>
+        <name>PC Power &amp;amp; Cooling Silencer Mk III</name>
+        <image>http://ecx.images-amazon.com/images/I/513a3efEvkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>286.99</price>
+    </psu>
+    <psu>
+        <name>Athena Power AP-TFX40</name>
+        <image>http://ecx.images-amazon.com/images/I/41mzp814meL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>109.99</price>
+    </psu>
+    <psu>
+        <name>Thermaltake TR2</name>
+        <image>http://ecx.images-amazon.com/images/I/51iMIincB8L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>161.59</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower</name>
+        <image>http://ecx.images-amazon.com/images/I/51N%2B0z-rZAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>249.99</price>
+    </psu>
+    <psu>
+        <name>FSP Group TWINS700</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/512pXQHXbeL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>519.99</price>
+    </psu>
+    <psu>
+        <name>PC Power &amp;amp; Cooling Silencer MK III</name>
+        <image>http://ecx.images-amazon.com/images/I/512obkDwACL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>233.99</price>
+    </psu>
+    <psu>
+        <name>EVGA PQ</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/f95b62701db987444a4c070bde3a6503.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>355.54</price>
+    </psu>
+    <psu>
+        <name>FSP Group FSP300-60GHS-R</name>
+        <image>http://ecx.images-amazon.com/images/I/51I%2Bo1Xo1JL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>56.99</price>
+    </psu>
+    <psu>
+        <name>Diablotek PSDA350</name>
+        <image>http://ecx.images-amazon.com/images/I/41XnEbMPbAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>39.99</price>
+    </psu>
+    <psu>
+        <name>Fractal Design Newton R3</name>
+        <image>http://ecx.images-amazon.com/images/I/41mOFmMHlpL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>302.58</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Smart</name>
+        <image>http://ecx.images-amazon.com/images/I/4160GQwwTPL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>142.59</price>
+    </psu>
+    <psu>
+        <name>OCZ ZX</name>
+        <image>http://ecx.images-amazon.com/images/I/41oXfVlUaNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1250</wattage>
+        <price>473.25</price>
+    </psu>
+    <psu>
+        <name>Logisys PS480D2</name>
+        <image>http://ecx.images-amazon.com/images/I/41FnQw-muRL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>480</wattage>
+        <price>26.99</price>
+    </psu>
+    <psu>
+        <name>Athena Power AP-MFATX40P8</name>
+        <image>http://ecx.images-amazon.com/images/I/510rhAgljML.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>115.99</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SSP-300TBS</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/e3cb8b7db9545858119bfa7620a14226.256p.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>128.11</price>
+    </psu>
+    <psu>
+        <name>Thermaltake SP-650M</name>
+        <image>http://ecx.images-amazon.com/images/I/511gis36gXL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>650</wattage>
+        <price>228.99</price>
+    </psu>
+    <psu>
+        <name>Solid Gear SDGR-FLEX220</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/34e4be9c0665ec6e521713bf83b033e7.256p.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency/>
+        <wattage>220</wattage>
+        <price>31.70</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Green</name>
+        <image>http://ecx.images-amazon.com/images/I/41R%2BHwVFU2L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>183.68</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Toughpower</name>
+        <image>http://ecx.images-amazon.com/images/I/21gDwSYj-1L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>498.59</price>
+    </psu>
+    <psu>
+        <name>Apex SL-275TFX</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/7f8a1a2c45efe91dcba460b6eb29685d.256p.jpg</image>
+        <factor>TFX</factor>
+        <efficiency/>
+        <wattage>275</wattage>
+        <price>40.70</price>
+    </psu>
+    <psu>
+        <name>Thermaltake PS-TPG-0850DPCGUS-G</name>
+        <image>http://ecx.images-amazon.com/images/I/51SmrrCJ6BL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>362.55</price>
+    </psu>
+    <psu>
+        <name>XFX ProSeries</name>
+        <image>http://ecx.images-amazon.com/images/I/41z2FFkvN9L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>147.59</price>
+    </psu>
+    <psu>
+        <name>In Win GreenMe 550</name>
+        <image>http://ecx.images-amazon.com/images/I/51esV18Li9L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>176.59</price>
+    </psu>
+    <psu>
+        <name>Logisys PS350MA</name>
+        <image>http://ecx.images-amazon.com/images/I/41FjUS02xYL.jpg</image>
+        <factor>Micro ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>26.99</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZU-1000B</name>
+        <image>http://ecx.images-amazon.com/images/I/31mL0F6YlGL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>247.50</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Gamer</name>
+        <image>http://ecx.images-amazon.com/images/I/41DS9BUhJbL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>400</wattage>
+        <price>180.59</price>
+    </psu>
+    <psu>
+        <name>Rosewill VALENS-600</name>
+        <image>http://ecx.images-amazon.com/images/I/41z6Iz7P1JL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>140.00</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Platinum S</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/9b4784f0c87eaeaa10bc83491aa52422.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>247.35</price>
+    </psu>
+    <psu>
+        <name>Silverstone Strider Gold S V2</name>
+        <image>https://m.media-amazon.com/images/I/51ycPIhE-bL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>169.99</price>
+    </psu>
+    <psu>
+        <name>Xilence Performance X</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51TvcXvi1rL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>263.27</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SS-300TFX Bronze</name>
+        <image>http://ecx.images-amazon.com/images/I/31WtC-Ne-%2BL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>90.11</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SSP-300SUG</name>
+        <image>http://ecx.images-amazon.com/images/I/51YUOjSvMCL.jpg</image>
+        <factor>Flex ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>135.53</price>
+    </psu>
+    <psu>
+        <name>Athena Power Apollo</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/bafae6bf534dc90cae74490e35a4ac7b.256p.jpg</image>
+        <factor>SFX</factor>
+        <efficiency/>
+        <wattage>300</wattage>
+        <price>49.99</price>
+    </psu>
+    <psu>
+        <name>Diablotek PSDA500</name>
+        <image>http://ecx.images-amazon.com/images/I/41YyDXDbs5L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>65.98</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZU-600B</name>
+        <image>//cdn.pcpartpicker.com/static/forever/images/product/31ee61d2f7647f477751c76f49a7c646.256p.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>164.28</price>
+    </psu>
+    <psu>
+        <name>Enermax Platimax</name>
+        <image>http://ecx.images-amazon.com/images/I/51a%2B-2U8Z4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>199.99</price>
+    </psu>
+    <psu>
+        <name>Athena Power AP-MTFX30</name>
+        <image>http://ecx.images-amazon.com/images/I/418QtZhZRfL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency/>
+        <wattage>300</wattage>
+        <price>39.99</price>
+    </psu>
+    <psu>
+        <name>Cooler Master eXtreme Power Plus</name>
+        <image>http://ecx.images-amazon.com/images/I/51eEHaqKs4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>234.59</price>
+    </psu>
+    <psu>
+        <name>Sparkle FSP350-60GNV</name>
+        <image>http://ecx.images-amazon.com/images/I/41qaB%2BhvRmL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>59.99</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Green</name>
+        <image>http://ecx.images-amazon.com/images/I/51EMODQvP9L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>114.98</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZU-900B</name>
+        <image>http://ecx.images-amazon.com/images/I/31mL0F6YlGL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>900</wattage>
+        <price>227.12</price>
+    </psu>
+    <psu>
+        <name>OCZ ZX</name>
+        <image>http://ecx.images-amazon.com/images/I/41GRiS7kpcL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>417.59</price>
+    </psu>
+    <psu>
+        <name>SHARKOON SilentStorm</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/51ADODnh4dL.jpg</image>
+        <factor>SFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>122.69</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Platinum</name>
+        <image>http://ecx.images-amazon.com/images/I/41-lx0lPG3L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>244.61</price>
+    </psu>
+    <psu>
+        <name>CoolMax ZPG-1200B</name>
+        <image>http://ecx.images-amazon.com/images/I/31INbXto4IL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1200</wattage>
+        <price>307.27</price>
+    </psu>
+    <psu>
+        <name>OCZ ZX</name>
+        <image>http://ecx.images-amazon.com/images/I/41oXfVlUaNL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>473.25</price>
+    </psu>
+    <psu>
+        <name>Sparkle ATX-400PN-B204</name>
+        <image>http://ecx.images-amazon.com/images/I/51z1rLbUpML.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>51.69</price>
+    </psu>
+    <psu>
+        <name>Sparkle ATX-300PA</name>
+        <image>http://ecx.images-amazon.com/images/I/21RK1S%2B1M1L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>300</wattage>
+        <price>54.82</price>
+    </psu>
+    <psu>
+        <name>In Win IP-P300BN7-2</name>
+        <image>http://ecx.images-amazon.com/images/I/41mHAx5SNdL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>60.48</price>
+    </psu>
+    <psu>
+        <name>OCZ Fatal1ty</name>
+        <image>http://ecx.images-amazon.com/images/I/51SaKrG09uL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>441.59</price>
+    </psu>
+    <psu>
+        <name>In Win IP-S300FF1-0</name>
+        <image>http://ecx.images-amazon.com/images/I/21ATvcOfFGL.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>60.03</price>
+    </psu>
+    <psu>
+        <name>FSP Group TWINS500</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/512pXQHXbeL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>500</wattage>
+        <price>399.00</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Pro</name>
+        <image>http://ecx.images-amazon.com/images/I/41fpFTiQoAL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>399.59</price>
+    </psu>
+    <psu>
+        <name>Sparkle ATX-350PN-B204</name>
+        <image>http://ecx.images-amazon.com/images/I/51NZDIiC3zL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>49.99</price>
+    </psu>
+    <psu>
+        <name>XFX P1-750S-NLB9</name>
+        <image>http://ecx.images-amazon.com/images/I/41afN7wlOqL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>750</wattage>
+        <price>165.00</price>
+    </psu>
+    <psu>
+        <name>In Win Commander III 600</name>
+        <image>https://images-na.ssl-images-amazon.com/images/I/41vm4Yd2HEL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>600</wattage>
+        <price>164.96</price>
+    </psu>
+    <psu>
+        <name>SeaSonic SS-850HT Silver</name>
+        <image>http://ecx.images-amazon.com/images/I/51Pi2X%2B69DL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>239.95</price>
+    </psu>
+    <psu>
+        <name>Thermaltake Tough Power</name>
+        <image>https://images-eu.ssl-images-amazon.com/images/I/51ZHomyVt2L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>550</wattage>
+        <price>307.58</price>
+    </psu>
+    <psu>
+        <name>Enermax ERV1000EWT-G</name>
+        <image>http://ecx.images-amazon.com/images/I/51Af6lCtB5L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>1000</wattage>
+        <price>512.99</price>
+    </psu>
+    <psu>
+        <name>CoolMax NW-650B</name>
+        <image>http://ecx.images-amazon.com/images/I/21KC8y6qy7L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>650</wattage>
+        <price>154.28</price>
+    </psu>
+    <psu>
+        <name>Antec High Current Pro</name>
+        <image>http://ecx.images-amazon.com/images/I/41WwWxUi7kL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>850</wattage>
+        <price>391.59</price>
+    </psu>
+    <psu>
+        <name>Sparkle SPI300T8AB-B204</name>
+        <image>http://ecx.images-amazon.com/images/I/41-Xovj939L.jpg</image>
+        <factor>TFX</factor>
+        <efficiency>80</efficiency>
+        <wattage>300</wattage>
+        <price>75.29</price>
+    </psu>
+    <psu>
+        <name>Enermax ETL450AWT-M</name>
+        <image>http://ecx.images-amazon.com/images/I/41UbQXSYzkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>450</wattage>
+        <price>449.98</price>
+    </psu>
+    <psu>
+        <name>Antec EarthWatts Green</name>
+        <image>http://ecx.images-amazon.com/images/I/51BKVhdfgoL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>331.99</price>
+    </psu>
+    <psu>
+        <name>Antec Basiq</name>
+        <image>http://ecx.images-amazon.com/images/I/418G0b%2B94qL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>99.00</price>
+    </psu>
+    <psu>
+        <name>VisionTek 900489</name>
+        <image>http://ecx.images-amazon.com/images/I/41F8uif4DvL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>700</wattage>
+        <price>227.59</price>
+    </psu>
+    <psu>
+        <name>Athena Power AP-P4ATX35</name>
+        <image>http://ecx.images-amazon.com/images/I/41CJDwHmxkL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>69.78</price>
+    </psu>
+    <psu>
+        <name>CoolMax VL-600B</name>
+        <image>http://ecx.images-amazon.com/images/I/51CLN66hlzL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>600</wattage>
+        <price>114.28</price>
+    </psu>
+    <psu>
+        <name>Cooler Master eXtreme Power Plus</name>
+        <image>http://ecx.images-amazon.com/images/I/51eEHaqKs4L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>234.59</price>
+    </psu>
+    <psu>
+        <name>CoolMax CA-450</name>
+        <image>http://ecx.images-amazon.com/images/I/41T0ZPZ94DL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>450</wattage>
+        <price>110.20</price>
+    </psu>
+    <psu>
+        <name>CoolMax CX-400B</name>
+        <image>http://ecx.images-amazon.com/images/I/51%2B-BcKsjxL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>186.28</price>
+    </psu>
+    <psu>
+        <name>StarTech ATX2POWER530</name>
+        <image>http://ecx.images-amazon.com/images/I/41YHjjz9zbL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>530</wattage>
+        <price>157.59</price>
+    </psu>
+    <psu>
+        <name>CoolMax V-600</name>
+        <image>http://ecx.images-amazon.com/images/I/11WnAzOelGL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>600</wattage>
+        <price>171.67</price>
+    </psu>
+    <psu>
+        <name>StarTech ATX2POWER430</name>
+        <image>http://ecx.images-amazon.com/images/I/418gzw7DpBL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency>80</efficiency>
+        <wattage>430</wattage>
+        <price>145.59</price>
+    </psu>
+    <psu>
+        <name>VisionTek 900488</name>
+        <image>http://ecx.images-amazon.com/images/I/411ISHi2dhL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>550</wattage>
+        <price>160.59</price>
+    </psu>
+    <psu>
+        <name>StarTech ATXPW500PRO2</name>
+        <image>http://ecx.images-amazon.com/images/I/41Y0zyOCiKL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>146.96</price>
+    </psu>
+    <psu>
+        <name>StarTech ATX2POWER400</name>
+        <image>http://ecx.images-amazon.com/images/I/51NBWbRNZrL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>140.46</price>
+    </psu>
+    <psu>
+        <name>Sparkle ATX-400PA</name>
+        <image>http://ecx.images-amazon.com/images/I/41jyh4dPpTL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>400</wattage>
+        <price>57.99</price>
+    </psu>
+    <psu>
+        <name>VisionTek 900346</name>
+        <image>http://ecx.images-amazon.com/images/I/515BTOsOfBL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>500</wattage>
+        <price>108.78</price>
+    </psu>
+    <psu>
+        <name>CoolMax CA-350</name>
+        <image>http://ecx.images-amazon.com/images/I/51K22PPBY3L.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>172.28</price>
+    </psu>
+    <psu>
+        <name>StarTech ATXPW550PRO2</name>
+        <image>http://ecx.images-amazon.com/images/I/41rsggqQhiL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>550</wattage>
+        <price>176.59</price>
+    </psu>
+    <psu>
+        <name>StarTech ATXPOW350PRO</name>
+        <image>http://ecx.images-amazon.com/images/I/411zGQzjntL.jpg</image>
+        <factor>ATX</factor>
+        <efficiency/>
+        <wattage>350</wattage>
+        <price>120.59</price>
+    </psu>
+</psus>

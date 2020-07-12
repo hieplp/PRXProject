@@ -1,0 +1,3240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ssds xmlns="prx/xml">
+    <test>AMD Ryzen Threadripper 3970X 32-Core</test>
+    <test>AMD Ryzen Threadripper 3990X 64-Core</test>
+    <test>AMD Ryzen Threadripper 3960X 24-Core</test>
+    <test>AMD EPYC 7542 32-Core</test>
+    <test>AMD EPYC 7502 32-Core</test>
+    <test>AMD Ryzen Threadripper 2990WX 32-Core</test>
+    <test>Intel Xeon Platinum 8180</test>
+    <test>AMD Ryzen Threadripper 2970WX 24-Core</test>
+    <test>AMD Ryzen 9 3950X 16-Core</test>
+    <test>Intel Xeon Platinum 8160M</test>
+    <test>Intel Xeon Platinum 8170</test>
+    <test>AMD EPYC 7601 32-Core</test>
+    <test>Intel Core i9-10980XE</test>
+    <test>Intel Xeon Platinum 8160</test>
+    <test>Intel Xeon W-3275M</test>
+    <test>AMD Ryzen Threadripper 2950X 16-Core</test>
+    <test>AMD Ryzen 9 3900X 12-Core</test>
+    <test>Intel Core i9-7980XE</test>
+    <test>Intel Core i9-9980XE</test>
+    <test>AMD Ryzen 9 3900 12-Core</test>
+    <test>Intel Xeon W-3265M</test>
+    <test>AMD EPYC 7401P 24-Core</test>
+    <test>AMD Ryzen Threadripper 1950X 16-Core</test>
+    <test>Intel Core i9-9960X</test>
+    <test>Intel Xeon Gold 6138</test>
+    <test>Intel Core i9-10940X</test>
+    <test>Intel Core i9-7960X</test>
+    <test>Intel Core i9-9940X</test>
+    <test>Intel Xeon E5-4620</test>
+    <test>Intel Core i9-7940X</test>
+    <test>Intel Xeon Gold 6242</test>
+    <test>AMD Ryzen Threadripper 2920X 12-Core</test>
+    <test>Intel Xeon W-2195</test>
+    <test>Intel Xeon Gold 6244</test>
+    <test>Intel Xeon E5-2648L v3</test>
+    <test>Intel Xeon W-3245</test>
+    <test>Intel Core i9-10920X</test>
+    <test>Intel Xeon Gold 6152</test>
+    <test>AMD Ryzen 9 4900H with Radeon Graphics</test>
+    <test>AMD Ryzen 7 3800X 8-Core</test>
+    <test>Intel Core i9-9920X</test>
+    <test>AMD Ryzen Threadripper 1920X 12-Core</test>
+    <test>Intel Xeon W-2191B</test>
+    <test>AMD Ryzen 7 PRO 3700 8-Core</test>
+    <test>AMD Ryzen 9 4900HS with Radeon Graphics</test>
+    <test>AMD Ryzen 7 3700X 8-Core</test>
+    <test>AMD Ryzen 7 4800HS with Radeon Graphics</test>
+    <test>AMD Ryzen 7 4800U with Radeon Graphics</test>
+    <test>Intel Xeon E5-2696 v4</test>
+    <test>Intel Xeon Gold 6130</test>
+    <test>Intel Core i9-10900</test>
+    <test>Intel Core i9-10900K</test>
+    <test>AMD Ryzen 7 4800H with Radeon Graphics</test>
+    <test>Intel Xeon Silver 4216</test>
+    <test>Intel Xeon Gold 5218</test>
+    <test>Intel Xeon Gold 6136</test>
+    <test>Intel Core i9-7920X</test>
+    <test>Intel Xeon E5-2697 v3</test>
+    <test>Intel Core i9-10900X</test>
+    <test>Intel Xeon E5-2651 v2</test>
+    <test>Intel Xeon E5-2690 v4</test>
+    <test>Intel Core i9-9900X</test>
+    <test>Intel Xeon Gold 6144</test>
+    <test>Intel Core i7-7900X</test>
+    <test>Intel Core i9-9820X</test>
+    <test>Intel Xeon E5-4650 v3</test>
+    <test>Intel Core i9-7900X</test>
+    <test>Intel Xeon E5-2658 v4</test>
+    <test>Intel Core i9-9900KS</test>
+    <test>Intel Xeon E5-2687W v3</test>
+    <test>Intel Xeon W-2155</test>
+    <test>Intel Xeon E5-2687W v4</test>
+    <test>Intel Xeon W-2170B</test>
+    <test>Intel Core i7-10700K</test>
+    <test>Intel Xeon E5-2630L v4</test>
+    <test>Intel Xeon Gold 6146</test>
+    <test>AMD Ryzen 7 2700X Eight-Core</test>
+    <test>Intel Core i7-10700</test>
+    <test>Intel Core i9-9900KF</test>
+    <test>Intel Core i9-9900</test>
+    <test>Intel Xeon E5-2699 v3</test>
+    <test>AMD Ryzen 5 3600X 6-Core</test>
+    <test>Intel Core i9-9900K</test>
+    <test>Intel Core i9-10980HK</test>
+    <test>Intel Xeon Gold 5118</test>
+    <test>AMD Ryzen 5 PRO 3600 6-Core</test>
+    <test>Intel Xeon E5-2699 v4</test>
+    <test>AMD Ryzen 7 PRO 2700X Eight-Core</test>
+    <test>AMD Ryzen Threadripper 1900X 8-Core</test>
+    <test>Intel Xeon E5-2696 v3</test>
+    <test>Intel Xeon E5-2680 v4</test>
+    <test>Intel Xeon E5-2687W</test>
+    <test>AMD EPYC 7551 32-Core</test>
+    <test>AMD Ryzen 5 3600 6-Core</test>
+    <test>Intel Xeon Gold 6132</test>
+    <test>Intel Core i7-9800X</test>
+    <test>AMD EPYC 7302P 16-Core</test>
+    <test>Intel Xeon W-3235</test>
+    <test>AMD Ryzen 7 1800X Eight-Core</test>
+    <test>Intel Core i7-6950X</test>
+    <test>Intel Xeon E-2286M</test>
+    <test>AMD Ryzen 5 4600H with Radeon Graphics</test>
+    <test>Intel Xeon E5-4650L</test>
+    <test>Intel Core i7-10875H</test>
+    <test>Intel Xeon E5-2697 v4</test>
+    <test>Intel Xeon W-2150B</test>
+    <test>12-Core Intel Xeon E5</test>
+    <test>Intel Xeon E5-2658 v2</test>
+    <test>Intel Xeon W-2145</test>
+    <test>Intel Xeon E5-2689 v4</test>
+    <test>Intel Xeon Gold 6140</test>
+    <test>Intel Xeon Silver 4114</test>
+    <test>AMD Ryzen 7 1700X Eight-Core</test>
+    <test>Intel Core i7-7820X</test>
+    <test>AMD Ryzen 5 4600U with Radeon Graphics</test>
+    <test>Intel Xeon E5-2687W v2</test>
+    <test>Intel Xeon E5-2666 v3</test>
+    <test>AMD Ryzen 7 2700 Eight-Core</test>
+    <test>Intel Xeon E5-2643 v4</test>
+    <test>AMD Ryzen 7 PRO 1700X Eight-Core</test>
+    <test>Intel Core i9-9900T</test>
+    <test>Intel Xeon E5-2680 v3</test>
+    <test>10-Core Intel Xeon E5</test>
+    <test>AMD Ryzen 7 PRO 2700 Eight-Core</test>
+    <test>Intel Xeon E5-2698 v4</test>
+    <test>Intel Xeon E5-2698 v3</test>
+    <test>Intel Xeon Silver 4116</test>
+    <test>Intel Xeon E5-2690</test>
+    <test>Intel Xeon E5-2618L v3</test>
+    <test>Intel Xeon Silver 4214</test>
+    <test>Intel Xeon E5-2650L v4</test>
+    <test>Intel Xeon E-2276G</test>
+    <test>AMD Ryzen 7 1700 Eight-Core</test>
+    <test>Intel Xeon E5-2680 v2</test>
+    <test>Intel Xeon Gold 6128</test>
+    <test>Intel Xeon E5-2695 v2</test>
+    <test>Intel Xeon E5-2683 v3</test>
+    <test>Intel Xeon E5-4617</test>
+    <test>Intel Core i5-10600K</test>
+    <test>Intel Core i7-6900K</test>
+    <test>Intel Xeon E5-4650</test>
+    <test>Intel Xeon E5-2650 v3</test>
+    <test>AMD Ryzen 5 2600X Six-Core</test>
+    <test>Intel Xeon E5-2650 v4</test>
+    <test>Intel Core i9-9980HK</test>
+    <test>Intel Core i7-8086K</test>
+    <test>Intel Xeon W-2140B</test>
+    <test>Intel Xeon E5-2695 v4</test>
+    <test>Intel Xeon E5-2643 v2</test>
+    <test>Intel Xeon E5-2643 v3</test>
+    <test>Intel Xeon E5-1660 v4</test>
+    <test>Intel Xeon E5-1680 v3</test>
+    <test>Intel Xeon E5-2650 v2</test>
+    <test>Intel Core i9-9880H</test>
+    <test>Intel Core i7-8700K</test>
+    <test>Intel Xeon E5-1680 v4</test>
+    <test>AMD EPYC 7281 16-Core</test>
+    <test>Intel Xeon E-2146G</test>
+    <test>Intel Xeon E5-2675 v3</test>
+    <test>Intel Xeon W-3223</test>
+    <test>Intel Core i7-8700</test>
+    <test>Intel Core i5-10500</test>
+    <test>Intel Xeon E5-2670</test>
+    <test>AMD Ryzen 3 3300X 4-Core</test>
+    <test>AMD Ryzen 5 2600 Six-Core</test>
+    <test>AMD Ryzen 7 1800X EightCore</test>
+    <test>Intel Core i7-10750H</test>
+    <test>Intel Xeon Gold 6134</test>
+    <test>Intel Xeon E5-2630 v4</test>
+    <test>Intel Xeon E5-2680</test>
+    <test>Intel Xeon E5-1660 v3</test>
+    <test>Intel Core i7-5960X</test>
+    <test>Intel Xeon Gold 5115</test>
+    <test>Intel Xeon Gold 5222</test>
+    <test>AMD Ryzen 5 1600X Six-Core</test>
+    <test>Intel Xeon X6550</test>
+    <test>Intel Xeon X7550</test>
+    <test>Intel Core i5-10400F</test>
+    <test>8-Core Intel Xeon E5</test>
+    <test>Intel Core i5-10400</test>
+    <test>AMD Opteron 23xx (Gen 3 Class Opteron)</test>
+    <test>Intel Xeon Gold 5120</test>
+    <test>Intel Xeon E-2276M</test>
+    <test>Intel Core i7-9850H</test>
+    <test>Intel Xeon E-2136</test>
+    <test>Intel Core i7-9750HF</test>
+    <test>Intel Xeon W-2135</test>
+    <test>Intel Xeon E-2176G</test>
+    <test>Intel Xeon E-2186G</test>
+    <test>Intel Xeon E5-2670 v3</test>
+    <test>Intel Core i7-7800X</test>
+    <test>AMD Ryzen 7 1700X EightCore</test>
+    <test>Intel Xeon E5-2470</test>
+    <test>Intel Xeon Silver 4108</test>
+    <test>Intel Xeon Silver 4208</test>
+    <test>AMD Ryzen 5 PRO 1600 Six-Core</test>
+    <test>Intel Xeon X5670</test>
+    <test>Intel Xeon E7-8870</test>
+    <test>Genuine Intel 0000</test>
+    <test>Intel Xeon E5-2660 v2</test>
+    <test>Intel Xeon E5-2667</test>
+    <test>Intel Core i7-10810U</test>
+    <test>AMD Ryzen ZD3301BBM6IF43733Y</test>
+    <test>Intel Xeon E-2176M</test>
+    <test>Intel Core i7-8700T</test>
+    <test>Intel Xeon E5-2650</test>
+    <test>AMD Ryzen 5 1600 Six-Core</test>
+    <test>Intel Xeon E-2186M</test>
+    <test>Intel Xeon E5-2630 v3</test>
+    <test>Intel Xeon E5-2650L v2</test>
+    <test>Intel Xeon W-2133</test>
+    <test>Intel Xeon E5-2630 v2</test>
+    <test>6-Core Intel Xeon</test>
+    <test>Intel Xeon E5-4657L v2</test>
+    <test>Intel Xeon Silver 4210</test>
+    <test>Intel Xeon E5-2690 v2</test>
+    <test>Intel Core i7-9750H</test>
+    <test>AMD Ryzen 7 1700 EightCore</test>
+    <test>AMD Opteron 6378</test>
+    <test>AMD Ryzen 3 3100 4-Core</test>
+    <test>Intel Xeon X5675</test>
+    <test>Intel Xeon Silver 4110</test>
+    <test>AMD Ryzen 7 4700U with Radeon Graphics</test>
+    <test>Intel Xeon Gold 6148</test>
+    <test>Intel Core i7-10710U</test>
+    <test>Intel Xeon E5-2660 v3</test>
+    <test>Intel Xeon Gold 6154</test>
+    <test>AMD Ryzen 7 PRO 1700 Eight-Core</test>
+    <test>Intel Xeon X5690</test>
+    <test>Intel Xeon X5680</test>
+    <test>Intel Core i7-8750H</test>
+    <test>Intel Core i7-8700B</test>
+    <test>Intel Xeon E5-2640 v3</test>
+    <test>Intel Core i7-6850K</test>
+    <test>Intel Core i7-5930K</test>
+    <test>Intel Xeon E5-2640 v4</test>
+    <test>Intel Core i9-8950HK</test>
+    <test>Intel Xeon E5-2690 v3</test>
+    <test>AMD Ryzen 7 3700X 8-Core Processor</test>
+    <test>Intel Xeon Gold 5122</test>
+    <test>AMD EPYC</test>
+    <test>Intel Xeon E5-2696 v2</test>
+    <test>Genuine Intel</test>
+    <test>AMD Opteron 6386 SE</test>
+    <test>Intel Xeon E5-2665</test>
+    <test>Intel Core i7-8850H</test>
+    <test>Intel Xeon E5-2637 v4</test>
+    <test>AMD Opteron 6376</test>
+    <test>AMD Opteron 6348</test>
+    <test>AMD Opteron 6281</test>
+    <test>Intel Core i7-6800K</test>
+    <test>Intel Xeon Gold 6230</test>
+    <test>6-Core Intel Xeon E5</test>
+    <test>Intel Core i7-5820K</test>
+    <test>Intel Xeon E5-2670 v2</test>
+    <test>Intel Xeon E5-2697A v4</test>
+    <test>Intel Core i7-4930K</test>
+    <test>Intel Xeon E5-1650 v4</test>
+    <test>Intel Core i7-3970X</test>
+    <test>Intel Xeon E5-2450</test>
+    <test>Intel Xeon E5-2640 0</test>
+    <test>Intel Xeon E5-2689</test>
+    <test>Intel Core i7-3960X</test>
+    <test>Intel Xeon E5-4620 v2</test>
+    <test>Intel Core i7-4960X</test>
+    <test>AMD Opteron 6274</test>
+    <test>Intel Core i7-9700KF</test>
+    <test>Intel Core i7-1065G7</test>
+    <test>Intel Xeon L5640</test>
+    <test>Intel Core i7-9700K</test>
+    <test>Intel Xeon E5-2637 v3</test>
+    <test>Intel Xeon X7350</test>
+    <test>AMD Ryzen 5 1600X</test>
+    <test>Intel Xeon E5-2667 v2</test>
+    <test>Intel Core i5-1035G1</test>
+    <test>Intel Core i7-7740X</test>
+    <test>Intel Xeon E5-2667 v4</test>
+    <test>Intel Xeon L5639</test>
+    <test>Intel Xeon E5-1660 v2</test>
+    <test>Intel Xeon E5-1650 v3</test>
+    <test>Intel Core i7-9700</test>
+    <test>Intel Xeon X5650</test>
+    <test>Intel Xeon E5-2620 v3</test>
+    <test>Intel Core i7-9700F</test>
+    <test>AMD Opteron 6176 SE</test>
+    <test>Intel Xeon E-2234</test>
+    <test>Intel Core i5-1035G7</test>
+    <test>Intel Xeon E5-2660</test>
+    <test>Intel Xeon E5-2630L v3</test>
+    <test>Intel Core i7 X 000</test>
+    <test>AMD Ryzen 5 3400G with Radeon Vega Graphics</test>
+    <test>Intel Core i7-3930K</test>
+    <test>Intel Xeon E5-4640</test>
+    <test>Intel Xeon E5-2658</test>
+    <test>Intel Core i7-7700K</test>
+    <test>Intel Xeon E-2134</test>
+    <test>Intel Core i7 X 990</test>
+    <test>Intel Xeon E5-1660 0</test>
+    <test>AMD Ryzen 5 2500X Quad-Core</test>
+    <test>Intel Xeon X5660</test>
+    <test>AMD Ryzen 5 PRO 3400G with Radeon Vega Graphics</test>
+    <test>Intel Xeon E5-1660</test>
+    <test>Intel Xeon E5-2643</test>
+    <test>Intel Xeon E5-2630</test>
+    <test>AMD EPYC (with IBPB)</test>
+    <test>Intel Xeon E5-1650</test>
+    <test>Intel Core i5-1035G4</test>
+    <test>Intel Xeon E-2144G</test>
+    <test>Intel Core i7-980</test>
+    <test>Intel Xeon E5-2630L</test>
+    <test>Intel Xeon Silver 4112</test>
+    <test>Intel Xeon E5-2680 0</test>
+    <test>Intel Xeon X7460</test>
+    <test>AMD Ryzen 5 3500 6-Core</test>
+    <test>AMD Ryzen 5 3500X 6-Core</test>
+    <test>Intel Core i3-10100</test>
+    <test>Intel Xeon W3690</test>
+    <test>Intel Xeon Platinum 8124M</test>
+    <test>AMD Opteron 8435</test>
+    <test>Intel Core i7 X 980</test>
+    <test>AMD Ryzen 5 3600X 6-Core Processor</test>
+    <test>Intel Xeon E5-2695 v3</test>
+    <test>Intel Core i5-9400H</test>
+    <test>Intel Xeon E5-2637 v2</test>
+    <test>Intel Xeon E5-2660 v4</test>
+    <test>Intel Xeon E5-2640</test>
+    <test>Intel Xeon W-2125</test>
+    <test>Intel Core i7-000</test>
+    <test>Intel Core i7-970</test>
+    <test>Intel Xeon (Skylake)</test>
+    <test>AMD Opteron 8384</test>
+    <test>Intel Xeon E-2174G</test>
+    <test>Intel Xeon E5-649</test>
+    <test>Intel Xeon W3680</test>
+    <test>AMD Ryzen 5 2400G with Radeon Vega Graphics</test>
+    <test>Intel Core i7-6700K</test>
+    <test>Intel Xeon E5-1650 0</test>
+    <test>Intel Xeon L5530</test>
+    <test>Intel Xeon E5-4650 v2</test>
+    <test>AMD Ryzen 5 PRO 2400G with Radeon Vega Graphics</test>
+    <test>Intel Core i5-9300HF</test>
+    <test>Intel Xeon E5-2687W 0</test>
+    <test>AMD Ryzen 7 3800X 8-Core Processor</test>
+    <test>Intel Core i7-9700T</test>
+    <test>AMD Ryzen 5 PRO 3400GE w Radeon Vega Graphics</test>
+    <test>Intel Core i7-10610U</test>
+    <test>AMD Ryzen 7 2800H with Radeon Vega Graphics</test>
+    <test>Intel Xeon E5-2623 v3</test>
+    <test>Intel Core i5-10310U</test>
+    <test>Intel Core i7-7700</test>
+    <test>AMD Ryzen 5 PRO 1500 Quad-Core</test>
+    <test>AMD Opteron 6320</test>
+    <test>Intel Xeon X5667</test>
+    <test>AMD Ryzen 5 1500X Quad-Core</test>
+    <test>AMD Ryzen 5 1600X Processor</test>
+    <test>Intel Xeon E5-2643 0</test>
+    <test>Intel Xeon E5-645</test>
+    <test>Intel Xeon E5-2620</test>
+    <test>Intel Xeon E5-2640 v2</test>
+    <test>Intel Xeon X5550</test>
+    <test>Intel Xeon E5-2630L v2</test>
+    <test>Intel Core i7 X 995</test>
+    <test>Intel Xeon E5-2686 v4</test>
+    <test>Intel Xeon E5-2620 v2</test>
+    <test>Intel Core i5-10300H</test>
+    <test>Intel Core i7-8709G</test>
+    <test>Intel Core i5-8400H</test>
+    <test>Intel Core i7-8809G</test>
+    <test>AMD Opteron 6282 SE</test>
+    <test>AMD Ryzen 5 4500U with Radeon Graphics</test>
+    <test>AMD Ryzen 5 2600H with Radeon Vega Graphics</test>
+    <test>Intel Xeon E5-2699C v4</test>
+    <test>Intel Xeon Platinum 8167M</test>
+    <test>Intel Xeon E3-1280 v5</test>
+    <test>Intel Core i7-4790K</test>
+    <test>Intel Xeon E5-2620 v4</test>
+    <test>Intel Xeon E5-2685 v3</test>
+    <test>Intel Xeon E3-1275 v5</test>
+    <test>Intel Xeon E5-2678 v3</test>
+    <test>Intel Xeon W-2123</test>
+    <test>Intel Core i7-5950HQ</test>
+    <test>Intel Core i7-10510U</test>
+    <test>Intel Xeon E3-1281 v3</test>
+    <test>AMD Ryzen 5 2400GE with Radeon Vega Graphics</test>
+    <test>Intel Core i7-8665U</test>
+    <test>Intel Xeon E3-1270 v5</test>
+    <test>Intel Xeon X5672</test>
+    <test>Intel Xeon E3-1270 v6</test>
+    <test>Intel Xeon X5677</test>
+    <test>Intel Xeon X 000</test>
+    <test>AMD Ryzen 5 PRO 2400GE w Radeon Vega Graphics</test>
+    <test>Intel Core i7-8706G</test>
+    <test>Intel Pentium X</test>
+    <test>Intel Xeon E3-1245 v6</test>
+    <test>Intel Xeon E5-2665 0</test>
+    <test>Intel Core i7-7820HK</test>
+    <test>Intel Xeon E-2226G</test>
+    <test>Intel Xeon X5647</test>
+    <test>Intel Xeon W5590</test>
+    <test>Intel Xeon E3-1535M v6</test>
+    <test>Intel Core i7-6700</test>
+    <test>Intel Core i7-8559U</test>
+    <test>Intel Xeon L 000</test>
+    <test>Intel Xeon E5-2683 v4</test>
+    <test>Intel Xeon E5-1630 v4</test>
+    <test>Intel Xeon Platinum 8259CL</test>
+    <test>Intel Xeon W3670</test>
+    <test>Intel Xeon E3-1276 v3</test>
+    <test>AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon E5-2648L</test>
+    <test>Intel Core i5-8300H</test>
+    <test>Intel Core i7-5775C</test>
+    <test>Intel Core i5-9300H</test>
+    <test>Intel Xeon W5580</test>
+    <test>Intel Xeon E5-2670 0</test>
+    <test>AMD Ryzen 5 3600 6-Core Processor</test>
+    <test>Intel Core i5-9600K</test>
+    <test>Intel Core i7-8705G</test>
+    <test>Intel Core i5-9600KF</test>
+    <test>Intel Core i7-4770K</test>
+    <test>Intel Xeon E3-1275 V2</test>
+    <test>Intel Core i7-8565U</test>
+    <test>AMD Opteron 6272</test>
+    <test>AMD Opteron 6276</test>
+    <test>Intel Xeon E3-1280 v3</test>
+    <test>Intel Xeon E3-1280 V2</test>
+    <test>Intel Xeon X5570</test>
+    <test>Intel Core i5-10210U</test>
+    <test>Intel Core i5-8600K</test>
+    <test>Intel Xeon E3-1245 v5</test>
+    <test>Intel Xeon E3-1271 v3</test>
+    <test>AMD Opteron 6380</test>
+    <test>Intel Core i5-9600</test>
+    <test>Intel Core i7-4790</test>
+    <test>Genuine Intel 000</test>
+    <test>AMD Ryzen 5 1400 Quad-Core</test>
+    <test>Intel Core i7-1068NG7</test>
+    <test>AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i7-7700T</test>
+    <test>Intel Xeon E5-4640 v4</test>
+    <test>Intel Xeon E5-2420 v2</test>
+    <test>Intel Xeon E3-1240 v5</test>
+    <test>Intel Xeon E3-1575M v5</test>
+    <test>Quad-Core Intel Xeon E5</test>
+    <test>Intel Xeon E5-2667 v3</test>
+    <test>Intel Core i5-9500F</test>
+    <test>Intel Core i7-8569U</test>
+    <test>AMD Opteron 8439 SE</test>
+    <test>Intel Core i5-8265UC</test>
+    <test>Intel Core i7-4820K</test>
+    <test>AMD Ryzen 5 1500X Quad-Core Processor</test>
+    <test>AMD EPYC 7301 16-Core</test>
+    <test>Intel Core i7-3770K</test>
+    <test>Intel Xeon Platinum 8175M</test>
+    <test>Intel Xeon E3-1230 v6</test>
+    <test>Intel Core i7-4790S</test>
+    <test>Intel Core i5-8365U</test>
+    <test>Intel Core i7-5850HQ</test>
+    <test>Intel Core i5-9500</test>
+    <test>Intel Xeon E5-1620 v4</test>
+    <test>Intel Xeon E3-1270 V2</test>
+    <test>Intel Xeon X5560</test>
+    <test>Intel Xeon E3-1275 v6</test>
+    <test>Intel Xeon E3-1275 v3</test>
+    <test>Intel Core i7-8557U</test>
+    <test>Intel Xeon E5-2673 v4</test>
+    <test>Intel Core i7-6700T</test>
+    <test>Intel Core i7-4770</test>
+    <test>Intel Core i7-8650U</test>
+    <test>Intel Xeon E3-1290 V2</test>
+    <test>Intel Core i7-6820EQ</test>
+    <test>Intel Xeon E5-2650 0</test>
+    <test>Intel Xeon E-2126G</test>
+    <test>Intel Core i5-8279U</test>
+    <test>Intel Core i5-1038NG7</test>
+    <test>Intel Core i7-2700K</test>
+    <test>Intel Xeon E3-1270 v3</test>
+    <test>AMD Ryzen 5 1600</test>
+    <test>Intel Xeon E5-2620 0</test>
+    <test>Intel Core i7-3820</test>
+    <test>Intel Core i5-8305G</test>
+    <test>Intel Xeon E3-1505M v6</test>
+    <test>Intel Core i7-6820HK</test>
+    <test>Intel Core i5-8259U</test>
+    <test>AMD Opteron 6328</test>
+    <test>Intel Xeon E3-1240 V2</test>
+    <test>Intel Core i5-8600</test>
+    <test>AMD Ryzen 5 1400 Processor</test>
+    <test>Intel Core i5-8257U</test>
+    <test>Intel Xeon E3-1246 v3</test>
+    <test>Intel Xeon E5-1630 v3</test>
+    <test>AMD Ryzen Embedded V1605B with Radeon Vega Gfx</test>
+    <test>Intel Core i5-8350U</test>
+    <test>Intel Core i7-8550U</test>
+    <test>AMD Ryzen 7 PRO 3700U w Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon E3-1545M v5</test>
+    <test>Intel Core i7-2600K</test>
+    <test>Intel Core i7-7700HQ</test>
+    <test>Intel Core i5-8265U</test>
+    <test>Intel Xeon E5-1620 v3</test>
+    <test>Intel Xeon X5687</test>
+    <test>Intel Core i7-7920HQ</test>
+    <test>AMD Opteron 22xx (Gen 2 Class Opteron)</test>
+    <test>Intel Core i5-9400F</test>
+    <test>Intel Core i7-5700HQ</test>
+    <test>AMD Opteron 8393 SE</test>
+    <test>Intel Core i5-9400</test>
+    <test>Intel Xeon E5-2430</test>
+    <test>AMD Opteron 2435</test>
+    <test>Intel Core i7-4940MX</test>
+    <test>AMD Ryzen 5 1600 Processor</test>
+    <test>Intel Core i7-5775R</test>
+    <test>AMD Ryzen 5 1500X</test>
+    <test>Intel Xeon E3-1230 v5</test>
+    <test>Intel Xeon Gold 6254</test>
+    <test>Intel Xeon E5-1620</test>
+    <test>Intel Xeon L7555</test>
+    <test>Intel Core i7-4770S</test>
+    <test>Intel Core i7-7820HQ</test>
+    <test>Intel Core i7-6770HQ</test>
+    <test>Intel Xeon E3-1245 v3</test>
+    <test>Intel Core i7-4770R</test>
+    <test>Intel Core i7-4771</test>
+    <test>Intel Xeon E3-1275L v3</test>
+    <test>Intel Core i7-6700TE</test>
+    <test>Intel Core i5-8500</test>
+    <test>AMD FX-9590 Eight-Core Processor</test>
+    <test>Intel Core i5-8400</test>
+    <test>AMD Opteron 2439 SE</test>
+    <test>Intel Xeon E5-2450L 0</test>
+    <test>AMD Ryzen 5 PRO 3500U w Radeon Vega Mobile Gfx</test>
+    <test>AMD Ryzen 5 Microsoft SurfaceEdition</test>
+    <test>Intel Xeon E5-2450L</test>
+    <test>Intel Xeon E3-1275</test>
+    <test>Intel Core i7-3920XM</test>
+    <test>Intel Core i7-3940XM</test>
+    <test>Intel Xeon X5492</test>
+    <test>AMD Ryzen 7 PRO 2700U w Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon E5-2420</test>
+    <test>Intel Core i5-8250U</test>
+    <test>Intel Xeon E3-1240 v6</test>
+    <test>Intel Xeon E3-1231 v3</test>
+    <test>Intel Core i7-6920HQ</test>
+    <test>Intel Core i5-8500B</test>
+    <test>Intel Core i7-975 Extreme333GHz</test>
+    <test>Intel Core i7-4790T</test>
+    <test>AMD Ryzen 3 1200 Quad-Core Processor</test>
+    <test>AMD Ryzen Threadripper 1920X 12-Core Processor</test>
+    <test>AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon E3-1245 V2</test>
+    <test>AMD Opteron 4334</test>
+    <test>Intel Core i7 X 870</test>
+    <test>Intel Core i5-9600T</test>
+    <test>Intel Core i7-3770</test>
+    <test>AMD FX9590 EightCore</test>
+    <test>AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon E3-1240 v3</test>
+    <test>Intel Xeon E5-2430L v2</test>
+    <test>Intel Xeon E3-1241 v3</test>
+    <test>Intel Xeon E3-1265L v3</test>
+    <test>Intel Xeon E5-1620 0</test>
+    <test>Intel Core i7 K 875</test>
+    <test>AMD Ryzen 7 Microsoft SurfaceEdition</test>
+    <test>Intel Xeon (Skylake IBRS)</test>
+    <test>Intel Core i7-975</test>
+    <test>Intel Xeon E3-1270</test>
+    <test>Intel Xeon E5-640</test>
+    <test>Intel Xeon E5-4640 v2</test>
+    <test>Intel Xeon E5-2673 v3</test>
+    <test>AMD Ryzen 5 PRO 2500U w Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i7-3610QE</test>
+    <test>Intel Xeon E5-2430 0</test>
+    <test>Intel Xeon E5-2660 0</test>
+    <test>AMD FX-9590 Eight-Core</test>
+    <test>Intel Core i7-6700HQ</test>
+    <test>Intel Xeon E5-620</test>
+    <test>Intel Core i7-4860HQ</test>
+    <test>Intel Xeon E3-1535M v5</test>
+    <test>Intel Core i7 S 870</test>
+    <test>Intel Core2 Extreme X9775</test>
+    <test>Intel Core i7-965</test>
+    <test>Intel Xeon E5-2623 v4</test>
+    <test>Intel Core i7-6820HQ</test>
+    <test>Intel Xeon X3480</test>
+    <test>Intel Core i7-4770T</test>
+    <test>Intel Core i7-880</test>
+    <test>Intel Xeon W3570</test>
+    <test>AMD Ryzen 5 1400 Quad-Core Processor</test>
+    <test>AMD Ryzen 7 2700U with Radeon Vega Mobile Gfx</test>
+    <test>AMD EPYC 7571</test>
+    <test>Intel Core (Skylake)</test>
+    <test>Intel Core i7-4910MQ</test>
+    <test>Intel Core i7-4980HQ</test>
+    <test>Intel Xeon X3470</test>
+    <test>Intel Core i7-3770T</test>
+    <test>Intel Xeon E5-520</test>
+    <test>AMD FX9370 EightCore</test>
+    <test>Intel Core i7-4900MQ</test>
+    <test>Intel Xeon E5-530</test>
+    <test>Intel Xeon E5-2667 0</test>
+    <test>Intel Xeon E3-1505M v5</test>
+    <test>Intel Core i7-4720HQ</test>
+    <test>AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx</test>
+    <test>Intel Xeon X3460</test>
+    <test>AMD Opteron 3380</test>
+    <test>Intel Core i7-960</test>
+    <test>Intel Core i7-4760HQ</test>
+    <test>Intel Core i7-4810MQ</test>
+    <test>Intel Core i7-4960HQ</test>
+    <test>Intel Xeon E5-2690 0</test>
+    <test>Intel Xeon E5-2650L</test>
+    <test>Intel Core i7-4870HQ</test>
+    <test>AMD Ryzen 7 1700 Eight-Core Processor</test>
+    <test>Virtual 82d9ed4018dd</test>
+    <test>Intel Core i7-870</test>
+    <test>Intel Xeon E3-1230 v3</test>
+    <test>Intel Xeon E5-1410</test>
+    <test>Intel Xeon X7560</test>
+    <test>Intel Core i7-4800MQ</test>
+    <test>AMD FX-9370 Eight-Core</test>
+    <test>Intel Xeon E3-1245</test>
+    <test>AMD FX-8350 Eight-Core Processor</test>
+    <test>Intel Xeon E3-1280</test>
+    <test>AMD Ryzen 5 1400</test>
+    <test>Intel Core i7-2600</test>
+    <test>Intel Xeon E3-1235</test>
+    <test>Intel Core i7-950</test>
+    <test>Intel Core i7-4700HQ</test>
+    <test>Intel Xeon E5-630</test>
+    <test>Intel Core i7-4710MQ</test>
+    <test>Intel Core i7-4700MQ</test>
+    <test>Intel Core i7-4930MX</test>
+    <test>Intel Core i7-3630QM</test>
+    <test>Intel Core i7-4710HQ</test>
+    <test>Intel Core i7-4722HQ</test>
+    <test>Intel Xeon E7-4820</test>
+    <test>Intel Core i7-1060NG7</test>
+    <test>Intel Xeon E5-2440 v2</test>
+    <test>Intel Core i7-940</test>
+    <test>Intel Core i7-860</test>
+    <test>Intel Core i7-2960XM</test>
+    <test>Intel Core i3-9350KF</test>
+    <test>Intel Xeon E5-2630 0</test>
+    <test>Intel Core i5-9500T</test>
+    <test>AMD FX-8370 Eight-Core</test>
+    <test>AMD FX8350 EightCore</test>
+    <test>AMD FX8370 EightCore</test>
+    <test>AMD FX-8350 Eight-Core</test>
+    <test>Intel Xeon L5638</test>
+    <test>Intel Xeon E5-2470 v2</test>
+    <test>Intel Core i7-4850HQ</test>
+    <test>Intel Xeon E3-1230 V2</test>
+    <test>AMD Ryzen 5 2600X Six-Core Processor</test>
+    <test>Intel Xeon E5-540</test>
+    <test>Intel Xeon E5-2430 v2</test>
+    <test>AMD Athlon</test>
+    <test>AMD Opteron 6176</test>
+    <test>Intel Core i5-9400T</test>
+    <test>Intel Core i7-3610QM</test>
+    <test>Intel Core i5-8500T</test>
+    <test>Intel Xeon E3-1230</test>
+    <test>Intel Xeon W3580</test>
+    <test>Intel Core i7-930</test>
+    <test>AMD Zen8350 EightCore</test>
+    <test>Intel Xeon X3450</test>
+    <test>Intel Core i7-4770HQ</test>
+    <test>Intel Xeon E3-1265L V2</test>
+    <test>Intel Xeon D-1541</test>
+    <test>Intel Core i7 S 860</test>
+    <test>Intel Core i7</test>
+    <test>Intel Xeon E3-12xx (Sandy Bridge)</test>
+    <test>Intel Core i3-1005G1</test>
+    <test>Intel Core i5-1030NG7</test>
+    <test>Intel Core 870</test>
+    <test>Intel Xeon W3540</test>
+    <test>AMD Opteron 8350</test>
+    <test>Intel Core i7-4712MQ</test>
+    <test>AMD FX-8320 Eight-Core Processor</test>
+    <test>AMD Opteron 4226</test>
+    <test>Intel Xeon X3440</test>
+    <test>Intel Core i7-4785T</test>
+    <test>Intel Xeon E3-12xx v2 (Ivy Bridge)</test>
+    <test>Intel Xeon L5630</test>
+    <test>Intel Xeon E3-1240</test>
+    <test>AMD Opteron 2389</test>
+    <test>AMD FX-8370E Eight-Core</test>
+    <test>Intel Xeon Bronze 3204</test>
+    <test>Intel Core i7-2710QE</test>
+    <test>Intel Core i7-3632QM</test>
+    <test>Intel Core i7-920</test>
+    <test>AMD Opteron 6234</test>
+    <test>Intel Core i5-8400T</test>
+    <test>AMD FX-8300 Eight-Core</test>
+    <test>Intel Xeon E-2224G</test>
+    <test>Intel Core i7-4712HQ</test>
+    <test>Intel Core i7-2840QM</test>
+    <test>Intel Core i7-4770TE</test>
+    <test>Intel Core i5-7640X</test>
+    <test>Intel Core i3-8350K</test>
+    <test>Intel Xeon E7-340</test>
+    <test>Intel Core i7 9xx (Nehalem Core i7 IBRS update)</test>
+    <test>Intel Core 860</test>
+    <test>Intel Core i7-4750HQ</test>
+    <test>AMD FX-8320 Eight-Core</test>
+    <test>Intel Core i7-4765T</test>
+    <test>AMD Opteron 6344</test>
+    <test>Intel Core i7-3770S</test>
+    <test>Intel Core i7-4702MQ</test>
+    <test>AMD FX-8300 Eight-Core Processor</test>
+    <test>AMD Opteron 62xx class</test>
+    <test>AMD Ryzen 7 1700X Eight-Core Processor</test>
+    <test>Common KVM</test>
+    <test>Intel Core i7-4702HQ</test>
+    <test>Intel Xeon E5-2440</test>
+    <test>AMD Ryzen 7 2700 Eight-Core Processor</test>
+    <test>AMD FX-8150 Eight-Core</test>
+    <test>AMD Ryzen 5 1500X Processor</test>
+    <test>AMD FX8320 EightCore</test>
+    <test>Intel Core i5-8600T</test>
+    <test>Intel Xeon X5365</test>
+    <test>AMD Ryzen 3 2300X Quad-Core</test>
+    <test>Intel Xeon E7-520</test>
+    <test>AMD Ryzen 7 2700X Eight-Core Processor</test>
+    <test>AMD Opteron 6172</test>
+    <test>Intel Xeon L5520</test>
+    <test>Intel Core i5-7600K</test>
+    <test>Intel Core i7-2920XM</test>
+    <test>AMD FX8150 EightCore</test>
+    <test>Intel Xeon E-2124G</test>
+    <test>Intel Xeon E3-1268L v3</test>
+    <test>AMD FX-8310 Eight-Core</test>
+    <test>Intel Core i7-3612QM</test>
+    <test>Intel Core i3-7350K</test>
+    <test>Intel Core X 920</test>
+    <test>Intel Xeon E5-2609 v4</test>
+    <test>QEMU Virtual version 25+</test>
+    <test>AMD Opteron 6238</test>
+    <test>AMD FX8370E EightCore</test>
+    <test>Intel Xeon W3565</test>
+    <test>AMD FX-8120 Eight-Core</test>
+    <test>AMD FX-8320E Eight-Core</test>
+    <test>AMD Opteron 8431</test>
+    <test>Intel Xeon</test>
+    <test>Quad-Core Intel Xeon</test>
+    <test>AMD FX8300 EightCore</test>
+    <test>AMD Ryzen 3 PRO 1300 Quad-Core</test>
+    <test>AMD FX8310 EightCore</test>
+    <test>AMD Opteron 8360 SE</test>
+    <test>Intel Xeon E5-462</test>
+    <test>Intel Core i3-9100F</test>
+    <test>Intel Xeon Bronze 3106</test>
+    <test>AMD Ryzen 3 3200G with Radeon Vega Graphics</test>
+    <test>Intel Xeon W3550</test>
+    <test>Intel Core i3-9100</test>
+    <test>Intel Xeon E-2124</test>
+    <test>Intel Xeon E5-2698B v3</test>
+    <test>AMD Phenom II X6 1100T</test>
+    <test>Intel Core i3-7320</test>
+    <test>AMD FX 8350 EightCore</test>
+    <test>Intel Xeon E5-2609 v3</test>
+    <test>AMD FX8320E EightCore</test>
+    <test>Intel Xeon E3-1265L</test>
+    <test>Intel Core i7 X 920</test>
+    <test>AMD Opteron 2431</test>
+    <test>AMD Phenom II X6 1090T</test>
+    <test>Intel Core i5-6600K</test>
+    <test>AMD Opteron 6180 SE</test>
+    <test>AMD FX-8150 Eight-Core Processor</test>
+    <test>Virtual a7769a6388d5</test>
+    <test>AMD Ryzen 3 1300X Quad-Core</test>
+    <test>Intel Core i7-2670QM</test>
+    <test>Intel Core (Broadwell)</test>
+    <test>AMD Ryzen 5 2600 Six-Core Processor</test>
+    <test>Intel Core i5-7600</test>
+    <test>Intel Xeon W3530</test>
+    <test>Intel Core i3-7300</test>
+    <test>AMD Ryzen 3 2200G with Radeon Vega Graphics</test>
+    <test>Intel Core i3-8300</test>
+    <test>AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics</test>
+    <test>Intel Xeon E7-8867 v3</test>
+    <test>AMD FX-8320E Eight-Core Processor</test>
+    <test>Intel Core (Broadwell IBRS)</test>
+    <test>Intel Core i7 X 940</test>
+    <test>Intel Xeon X5482</test>
+    <test>AMD FX8120 EightCore</test>
+    <test>Intel Xeon X5355</test>
+    <test>AMD Phenom II X6 1075T</test>
+    <test>Intel Pentium Gold G5420</test>
+    <test>Intel Pentium Gold G5600</test>
+    <test>AMD Phenom II X6 1090T Processor</test>
+    <test>Intel Xeon E5-2603 v4</test>
+    <test>AMD Phenom II X6 1055T Processor</test>
+    <test>Intel Core i3-7100</test>
+    <test>Intel Xeon E5-2609 v2</test>
+    <test>Intel Core i3-6320</test>
+    <test>Intel Xeon W3520</test>
+    <test>AMD FX-8370E Eight-Core Processor</test>
+    <test>Intel Core i3-8100</test>
+    <test>Intel Core i7-2630QM</test>
+    <test>Intel Core i7 Q 840</test>
+    <test>AMD Ryzen 3 1300X Processor</test>
+    <test>Intel Xeon E7-330</test>
+    <test>Intel Core i7-3840QM</test>
+    <test>AMD FX-8120 Eight-Core Processor</test>
+    <test>AMD Athlon 3000G with Radeon Vega Graphics</test>
+    <test>Intel Pentium G4620</test>
+    <test>Intel Pentium Gold G5500</test>
+    <test>Intel Core i5-7600T</test>
+    <test>Intel Core i5-7500</test>
+    <test>Intel Core i3-6300</test>
+    <test>AMD Opteron 4238</test>
+    <test>AMD FX-6350 Six-Core</test>
+    <test>AMD Phenom II X6 1065T</test>
+    <test>AMD FX6350</test>
+    <test>AMD Athlon 240GE with Radeon Vega Graphics</test>
+    <test>Intel Core i5-4690K</test>
+    <test>Intel Core i5-6600</test>
+    <test>Intel Core i3-8100B</test>
+    <test>Intel Xeon Gold 6142</test>
+    <test>AMD Six-Core</test>
+    <test>Intel Core i5-4670K</test>
+    <test>Intel Core i3-6100</test>
+    <test>Intel Xeon E7-220</test>
+    <test>Intel Xeon E3-1220 v6</test>
+    <test>Intel Xeon E5-2407 v2</test>
+    <test>AMD FX-8100 Eight-Core</test>
+    <test>Intel Core i5-5675R</test>
+    <test>Intel Xeon E5-345</test>
+    <test>AMD Ryzen 3 PRO 2200GE w Radeon Vega Graphics</test>
+    <test>AMD Phenom II X6 1055T</test>
+    <test>Intel Xeon X5472</test>
+    <test>Intel Xeon E5-472</test>
+    <test>AMD FX-6330 Six-Core</test>
+    <test>Intel Xeon X5450</test>
+    <test>AMD FX-6300 Processor</test>
+    <test>Intel Pentium G4600</test>
+    <test>Intel Xeon X5460</test>
+    <test>Intel Pentium Gold G5400</test>
+    <test>Intel Xeon E5-2609</test>
+    <test>Intel Core i3-10110U</test>
+    <test>Intel Core i7-3740QM</test>
+    <test>Intel Xeon E5-2609 0</test>
+    <test>AMD Ryzen 3 1200 Processor</test>
+    <test>Intel Xeon D-1521</test>
+    <test>AMD Ryzen 3 1200 Quad-Core</test>
+    <test>Intel Core i5-4690</test>
+    <test>AMD Opteron 2384</test>
+    <test>Intel Xeon E3-1225 v5</test>
+    <test>Intel Core i5-5675C</test>
+    <test>Intel Xeon X5470</test>
+    <test>Intel Core i3-8109U</test>
+    <test>Intel Xeon E7-540</test>
+    <test>Intel Xeon L5506</test>
+    <test>Intel Core i7-7567U</test>
+    <test>Intel Core i5-4670</test>
+    <test>AMD A12-9800 Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core i3-6098P</test>
+    <test>Intel Core i5-3570K</test>
+    <test>Intel Core i5-7400</test>
+    <test>AMD FX-6200 Six-Core</test>
+    <test>AMD PRO A12-9800 R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core Q 820</test>
+    <test>AMD FX-8370 Eight-Core Processor</test>
+    <test>AMD EPYC 7V12 64-Core</test>
+    <test>AMD FX-6300 Six-Core</test>
+    <test>Intel Xeon E7-450</test>
+    <test>Intel Pentium G4560</test>
+    <test>Intel Xeon E5-430</test>
+    <test>Intel Core i7-4700EQ</test>
+    <test>Intel Core i5-6500</test>
+    <test>Intel Core i5-7440HQ</test>
+    <test>AMD FX6300</test>
+    <test>Intel Core i7-3612QE</test>
+    <test>Intel Xeon E-2104G</test>
+    <test>Intel Core i7 Q 740</test>
+    <test>Intel Xeon E5-450</test>
+    <test>AMD Phenom II X6 1045T</test>
+    <test>Intel Xeon E3-1225 v6</test>
+    <test>Intel Core i3-6300T</test>
+    <test>AMD FX6200</test>
+    <test>Intel Core i5-7260U</test>
+    <test>AMD Ryzen 3 2200GE with Radeon Vega Graphics</test>
+    <test>Intel Xeon L5335</test>
+    <test>Intel Core i5-4590</test>
+    <test>Intel Core i5-2550K</test>
+    <test>Intel Core i3-4370</test>
+    <test>Intel Core i7-7660U</test>
+    <test>AMD Ryzen 3 1300X</test>
+    <test>Intel Core i5-4670S</test>
+    <test>Intel Core i3-8300T</test>
+    <test>Intel Core i5-6402P</test>
+    <test>Intel Xeon E5-440</test>
+    <test>AMD Opteron 8356</test>
+    <test>Intel Core i5-6600T</test>
+    <test>Intel Core i5-5575R</test>
+    <test>Intel Xeon E3-1230L v3</test>
+    <test>AMD Athlon 200GE with Radeon Vega Graphics</test>
+    <test>Intel Core i5-7287U</test>
+    <test>Intel Core 2 Duo P9xxx (Penryn Class Core 2)</test>
+    <test>Intel Xeon E5-420</test>
+    <test>Intel Core i3-4360</test>
+    <test>Intel Xeon L3426</test>
+    <test>Intel Xeon E3-1220 v5</test>
+    <test>Intel Xeon E3-1226 v3</test>
+    <test>AMD Athlon X4 845 Core</test>
+    <test>AMD Phenom II X6 1035T</test>
+    <test>AMD Opteron 4284</test>
+    <test>Intel Core i5-4690S</test>
+    <test>Intel Core i5-4570</test>
+    <test>Intel Core i3-8145U</test>
+    <test>Intel Core i7-7600U</test>
+    <test>AMD Opteron 63xx class</test>
+    <test>Intel Core i3-8100T</test>
+    <test>Intel Core i5-7500T</test>
+    <test>Intel Core i5-2500K</test>
+    <test>Intel Core i3-4350</test>
+    <test>Intel Core i5-3570</test>
+    <test>Intel Xeon E3-1225 V2</test>
+    <test>Intel Core i5-6400</test>
+    <test>Intel Xeon Gold 6150</test>
+    <test>Intel Core i7-7560U</test>
+    <test>Intel Xeon X5350</test>
+    <test>Intel Core i3-8121U</test>
+    <test>Intel Xeon E7-4830</test>
+    <test>Intel Core i5-4590S</test>
+    <test>AMD FX-6120 Six-Core</test>
+    <test>AMD Opteron 3280</test>
+    <test>Intel Core i3-7100T</test>
+    <test>Intel Core i5-3550</test>
+    <test>AMD Athlon X4 860K Core Processor</test>
+    <test>Intel Core i5-7360U</test>
+    <test>AMD Opteron 6204</test>
+    <test>Intel Xeon W-2104</test>
+    <test>AMD PRO A10-8770 R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Pentium Gold G5500T</test>
+    <test>Intel Core i5-3570S</test>
+    <test>AMD Ryzen 3 PRO 1200 Quad-Core</test>
+    <test>Intel Core i3-4170</test>
+    <test>Intel Core i7 Q 820</test>
+    <test>Intel Core i5-4570S</test>
+    <test>Intel Xeon Bronze 3104</test>
+    <test>AMD FX8100 EightCore</test>
+    <test>Intel Core i7-7500U</test>
+    <test>AMD Ryzen 5 1600 Six-Core Processor</test>
+    <test>Intel Core2 Extreme X9770</test>
+    <test>Intel Xeon E5-1607 v4</test>
+    <test>AMD Athlon X4 950 Core</test>
+    <test>AMD A129800 Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core Q 720</test>
+    <test>AMD A10-7890K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Xeon E5-410</test>
+    <test>Intel Xeon E3-12xx (Sandy Bridge IBRS update)</test>
+    <test>Intel Core i5-6440HQ</test>
+    <test>Intel Core i5-680</test>
+    <test>Intel Core i5-7300HQ</test>
+    <test>Intel Core i3-4160</test>
+    <test>Intel Core i5-3550S</test>
+    <test>AMD Athlon 220GE with Radeon Vega Graphics</test>
+    <test>AMD FX-6100 Processor</test>
+    <test>Intel Core i5-6500TE</test>
+    <test>AMD Athlon X4 870K Core</test>
+    <test>AMD Athlon X4 880K Core</test>
+    <test>Intel Core i5-7267U</test>
+    <test>Intel Core i5-7300U</test>
+    <test>Intel Core i3-4360T</test>
+    <test>AMD FX-6100 Six-Core</test>
+    <test>AMD Phenom II X4 980</test>
+    <test>Intel Core i5-3450</test>
+    <test>Intel Core i3-6100T</test>
+    <test>AMD Ryzen 7 1800X Eight-Core Processor</test>
+    <test>Intel Core i3-4330</test>
+    <test>AMD PRO A10-9700 R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Westmere E56xxL56xxX56xx (Nehalem-C)</test>
+    <test>Intel Core i5-4690T</test>
+    <test>Intel Xeon E3-1220 v3</test>
+    <test>AMD A10-9700 Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD Phenom II X4 B65</test>
+    <test>Intel Xeon L5430</test>
+    <test>AMD Opteron 4332 HE</test>
+    <test>AMD Opteron 2360 SE</test>
+    <test>Intel Core i3-4150</test>
+    <test>Intel Core i3-3250</test>
+    <test>Intel Core i5-2500</test>
+    <test>Intel Core i5-6500T</test>
+    <test>Intel Core i5-4460</test>
+    <test>Intel Core i3-4350T</test>
+    <test>AMD Phenom II X4 975</test>
+    <test>Intel Core i3-7167U</test>
+    <test>Intel Xeon E3-1225 v3</test>
+    <test>AMD Opteron 6128</test>
+    <test>Intel Core i3-7100H</test>
+    <test>Intel Xeon E3-1220 V2</test>
+    <test>Intel Core i3-1000NG4</test>
+    <test>AMD Opteron 2350</test>
+    <test>Intel Xeon L5420</test>
+    <test>Intel Core i3-8130U</test>
+    <test>AMD Athlon X4 860K Core</test>
+    <test>Intel Xeon Platinum 8168</test>
+    <test>AMD A10-8850 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Xeon E5-1607 v3</test>
+    <test>Intel Xeon X3370</test>
+    <test>AMD Opteron 6136</test>
+    <test>Intel Core i5-2450P</test>
+    <test>Intel Core i7-6567U</test>
+    <test>AMD Ryzen 3 1200</test>
+    <test>Intel Core i7 Q 720</test>
+    <test>Intel Core i5-4440</test>
+    <test>Intel Core i3-4130</test>
+    <test>AMD FX6120</test>
+    <test>Intel Core i5 K 655</test>
+    <test>Intel Core i3-9100T</test>
+    <test>AMD A10-7870K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i5-4460S</test>
+    <test>+8G</test>
+    <test>Intel Core i5-4570R</test>
+    <test>Intel Core i3-3240</test>
+    <test>AMD Opteron 6140</test>
+    <test>Intel Xeon E5-1603 v4</test>
+    <test>AMD Ryzen 3 PRO 2300U w Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i7-6650U</test>
+    <test>Intel Core i5-4340M</test>
+    <test>AMD A10-7850K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i3-3245</test>
+    <test>Virtual 714389bda930</test>
+    <test>Intel Xeon W-2102</test>
+    <test>AMD FX6100</test>
+    <test>Intel Pentium G4560T</test>
+    <test>AMD PRO A8-9600 R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i5-3350P</test>
+    <test>Intel Core i5-4570T</test>
+    <test>Intel Core i5-670</test>
+    <test>Intel Core i7-4600M</test>
+    <test>Intel Core i7 (Nehalem Class Core i7)</test>
+    <test>Intel Core i5-4330M</test>
+    <test>Intel Core i7-6560U</test>
+    <test>Intel Xeon E7-2830</test>
+    <test>Intel Core i5-3470T</test>
+    <test>AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i7-6600U</test>
+    <test>AMD Phenom II X4 970</test>
+    <test>AMD Ryzen 3 PRO 3300U w Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i3-560</test>
+    <test>AMD Phenom II X4 965 Processor</test>
+    <test>Intel Core i5-3340</test>
+    <test>Intel Core i5-660</test>
+    <test>Intel Core i5-3470</test>
+    <test>Intel Core i5-7200U</test>
+    <test>Intel Core i5-661</test>
+    <test>Intel Xeon E3-1225</test>
+    <test>Intel Core i3-4340</test>
+    <test>Intel Core i5-7400T</test>
+    <test>AMD A12-9800E Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD A8-7680 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Core i5-4430</test>
+    <test>Intel Core i7-4610M</test>
+    <test>AMD Phenom II X4 B60</test>
+    <test>AMD A109700 Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD A8-7670K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD Athlon X4 850 Core</test>
+    <test>Intel Core i5-6287U</test>
+    <test>Intel Core i3-2125</test>
+    <test>AMD Opteron 2427</test>
+    <test>Intel Core i3-4170T</test>
+    <test>Intel Core i3-3220</test>
+    <test>Intel Core i5-2380P</test>
+    <test>Intel Core i5-3340S</test>
+    <test>Intel Core i3-2130</test>
+    <test>Intel Core2 Extreme X9750</test>
+    <test>AMD A10-7850K APU with Radeon R7 Graphics</test>
+    <test>Intel Xeon X3380</test>
+    <test>Intel Core i5-3450S</test>
+    <test>AMD Athlon II X4 559</test>
+    <test>Intel Core i5-6300HQ</test>
+    <test>Intel Xeon L5320</test>
+    <test>Intel Core2 Extreme X9650</test>
+    <test>Intel Core i3-3210</test>
+    <test>AMD Phenom II X4 965</test>
+    <test>AMD A8-9600 Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Xeon E5-2603 v2</test>
+    <test>AMD Phenom II X4 B99</test>
+    <test>Intel Core2 QuadQ9650</test>
+    <test>Intel Xeon D1541</test>
+    <test>Intel Core i5-4430S</test>
+    <test>AMD A10-7860K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i5-3330</test>
+    <test>AMD Athlon 300U with Radeon Vega Mobile Gfx</test>
+    <test>AMD FX-770K Core</test>
+    <test>Intel Xeon E3-1260L</test>
+    <test>Intel Core i5-2320</test>
+    <test>AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx</test>
+    <test>Intel Core i5-3360M</test>
+    <test>AMD A10 PRO-7800B R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i7-5557U</test>
+    <test>AMD Athlon II X4 555</test>
+    <test>Intel Core i7-6660U</test>
+    <test>AMD Opteron 2378</test>
+    <test>AMD A10-6800B APU</test>
+    <test>Intel Xeon E5-405</test>
+    <test>Intel Core (Skylake IBRS)</test>
+    <test>AMD FX-870K Core</test>
+    <test>Intel Xeon E7-310</test>
+    <test>Intel Xeon X3360</test>
+    <test>AMD Opteron 6168</test>
+    <test>AMD FX-4330 Quad-Core</test>
+    <test>Intel Core i5-4310M</test>
+    <test>Intel Core (Haswell no TSX IBRS)</test>
+    <test>AMD A10-7700K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Core i5-4210H</test>
+    <test>Intel Xeon E5-2450 v2</test>
+    <test>Intel Xeon E5-2603 v3</test>
+    <test>Intel Core i5-4670T</test>
+    <test>Intel Core i5-650</test>
+    <test>AMD Opteron 6212</test>
+    <test>Intel Core i7-6500U</test>
+    <test>Intel Xeon X3363</test>
+    <test>Intel Core i5-4200H</test>
+    <test>Intel Core i5-4440S</test>
+    <test>Intel Core i5-6260U</test>
+    <test>AMD A10-8750 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>AMD A8-7650K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD A10 PRO-7850B R7 12 Compute Cores 4C+8G</test>
+    <test>AMD PRO A10-8750B R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i5-4300M</test>
+    <test>Intel Core i5-3570T</test>
+    <test>Intel Core i5-3380M</test>
+    <test>AMD A107890K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Xeon E5-2603 0</test>
+    <test>AMD Ryzen 3 2300U with Radeon Vega Mobile Gfx</test>
+    <test>AMD A8-8650 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Xeon E5-1607 v2</test>
+    <test>Intel Core i3-4160T</test>
+    <test>Intel Xeon E5-1607</test>
+    <test>AMD A106800K APU with Radeon HD Graphics</test>
+    <test>Intel Core i3-4330T</test>
+    <test>Intel Core i7-5550U</test>
+    <test>Intel Core i3-550</test>
+    <test>AMD A10-6800K APU</test>
+    <test>Intel Core i7-4578U</test>
+    <test>Intel Core i3-6167U</test>
+    <test>Intel Xeon E5-2407</test>
+    <test>Westmere E56xxL56xxX56xx (NehalemC)</test>
+    <test>Intel Core i7-2600S</test>
+    <test>Intel Core i3-2105</test>
+    <test>Intel Core i7-6498DU</test>
+    <test>AMD Opteron 2374 HE</test>
+    <test>AMD Opteron 2354</test>
+    <test>AMD FX-4350 Quad-Core</test>
+    <test>AMD Ryzen 3 3300U with Radeon Vega Mobile Gfx</test>
+    <test>AMD Phenom II X4 955</test>
+    <test>AMD Ryzen 5 1600X Six-Core Processor</test>
+    <test>Intel Core i3-2120</test>
+    <test>Intel Core i5-2310</test>
+    <test>Intel Core2 CPUQ9550</test>
+    <test>Intel Core i5-6400T</test>
+    <test>AMD Ryzen Threadripper 1950X 16-Core Processor</test>
+    <test>Intel Core i7 Core 2700X</test>
+    <test>Intel Xeon E5-606</test>
+    <test>Intel Core i5-6267U</test>
+    <test>AMD A10-6790K APU</test>
+    <test>Intel Core i5-2400</test>
+    <test>AMD Phenom II X4 960T</test>
+    <test>Intel Core i5-3610ME</test>
+    <test>Intel Core2 Q9650</test>
+    <test>Intel Core i7-5600U</test>
+    <test>Intel Core2 CPUQ8400</test>
+    <test>Intel Core2 QuadQ9550</test>
+    <test>AMD FX4350</test>
+    <test>Intel Core i5-6300U</test>
+    <test>AMD Athlon X4 840 Core</test>
+    <test>Intel Core i5-760</test>
+    <test>Intel Core2 QuadQ9500</test>
+    <test>Intel Xeon E5-1603 v3</test>
+    <test>QEMU Virtual version (cpu64-rhel6)</test>
+    <test>Intel Core i5-6198DU</test>
+    <test>AMD A10-7700K APU with Radeon R7 Graphics</test>
+    <test>Intel Xeon E5-607</test>
+    <test>Intel Core i5-2300</test>
+    <test>Intel Xeon E3-1220</test>
+    <test>AMD PRO A10-9700E R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD A10-6800K APU with Radeon HD Graphics</test>
+    <test>Intel Core2 QuadQ9505</test>
+    <test>QEMU Virtual version 1050</test>
+    <test>AMD A8-7600 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD Opteron 3365</test>
+    <test>AMD Phenom II X4 B50</test>
+    <test>AMD Athlon II X4 650</test>
+    <test>Intel Core i3-4150T</test>
+    <test>Intel Xeon L5410</test>
+    <test>AMD A10-7800 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i7-5U</test>
+    <test>AMD Opteron 4386</test>
+    <test>AMD Phenom II X4 840</test>
+    <test>AMD Phenom II X4 955 Processor</test>
+    <test>AMD Phenom II X4 B97</test>
+    <test>Intel Xeon X3353</test>
+    <test>Intel Core i5-5287U</test>
+    <test>Intel Core i5-3320M</test>
+    <test>AMD Phenom II X4 B35</test>
+    <test>AMD Phenom II X4 945 Processor</test>
+    <test>Intel Xeon E5-506</test>
+    <test>AMD A106790K APU with Radeon HD Graphics</test>
+    <test>AMD A10-6700 APU</test>
+    <test>Intel Core2 Extreme Q6800</test>
+    <test>AMD FX-9830P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core i5-8210Y</test>
+    <test>Intel Core i3-4130T</test>
+    <test>AMD A8-6600K APU</test>
+    <test>Intel Xeon E5-320</test>
+    <test>Intel Core i5-2500T</test>
+    <test>Intel Core i5-4308U</test>
+    <test>Intel Xeon X3350</test>
+    <test>AMD Phenom II X4 850</test>
+    <test>AMD FX-4170 Quad-Core</test>
+    <test>AMD FX-4350 Processor</test>
+    <test>Intel Xeon E5-1603</test>
+    <test>Intel Core i5-4210M</test>
+    <test>AMD A107870K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>AMD A89600 Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i5-4590T</test>
+    <test>Intel Core i3-540</test>
+    <test>AMD FX-4320 Quad-Core</test>
+    <test>AMD A106700 APU with Radeon HD Graphics</test>
+    <test>AMD FX4170</test>
+    <test>Intel Xeon E5-507</test>
+    <test>AMD A86600K APU with Radeon HD Graphics</test>
+    <test>Intel Core m3-8100Y</test>
+    <test>AMD FX4320</test>
+    <test>Intel Xeon E5-1607 0</test>
+    <test>AMD Athlon II X4 645</test>
+    <test>AMD A8-3870 APU</test>
+    <test>Intel Core2 Extreme Q6850</test>
+    <test>AMD Phenom II X4 B95</test>
+    <test>AMD Phenom II X4 940</test>
+    <test>Intel Core i5-4570TE</test>
+    <test>AMD FX670K</test>
+    <test>Intel Core i5-750</test>
+    <test>AMD FX-670K Quad-Core</test>
+    <test>AMD A10-5800K APU</test>
+    <test>Intel Xeon X5260</test>
+    <test>AMD FX-4300 Processor</test>
+    <test>Intel Xeon E3-12xx v2 (Ivy Bridge IBRS)</test>
+    <test>Intel Core i5-3340M</test>
+    <test>Intel Core i7-5650U</test>
+    <test>Intel Core i5-6200U</test>
+    <test>Intel Xeon X3330</test>
+    <test>Intel Core i3-2100</test>
+    <test>AMD A107850K APU with Radeon R7 Graphics</test>
+    <test>AMD Phenom II X4 945</test>
+    <test>Intel Core i5-4200M</test>
+    <test>Intel Core i5 M 580</test>
+    <test>AMD Athlon II X4 651 Quad-Core</test>
+    <test>Intel Core2 QuadQ9450</test>
+    <test>Intel Core i5</test>
+    <test>AMD A8-6500 APU with Radeon HD Graphics</test>
+    <test>AMD A107850K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core2 Q9550</test>
+    <test>AMD Opteron 885</test>
+    <test>Intel Core i7 M 640</test>
+    <test>AMD A10-6700 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon X4 760K Core</test>
+    <test>AMD Athlon II X4 640</test>
+    <test>AMD A8 PRO-7600B R7 10 Compute Cores 4C+6G</test>
+    <test>AMD A108850 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i3-530</test>
+    <test>AMD Phenom II X4 20</test>
+    <test>AMD FX9830P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD PRO A10-8770E R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD A12-9730P Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Xeon E5-2603</test>
+    <test>AMD Athlon X4 640</test>
+    <test>Intel Xeon Platinum 8171M</test>
+    <test>AMD A8-6600K APU with Radeon HD Graphics</test>
+    <test>Intel Core i3</test>
+    <test>Intel Xeon E3-1220L V2</test>
+    <test>Intel Core i7-4558U</test>
+    <test>Intel Core i3-3240T</test>
+    <test>Intel Core i7-3540M</test>
+    <test>AMD Phenom II X4 840T</test>
+    <test>Intel Core i3-7130U</test>
+    <test>AMD A105800K APU with Radeon HD Graphics</test>
+    <test>Intel Core2 QuadQ9400</test>
+    <test>AMD FX-4300 Quad-Core</test>
+    <test>AMD A10-5800B APU</test>
+    <test>Intel Xeon E5-335</test>
+    <test>Intel Core2 CPUQ9400</test>
+    <test>Intel Core i5-6360U</test>
+    <test>AMD A83870 APU with Radeon HD Graphics</test>
+    <test>Intel Core i3-3220T</test>
+    <test>Intel Core i5-2510E</test>
+    <test>AMD Phenom II X4 B55</test>
+    <test>AMD Phenom II X4 40</test>
+    <test>AMD Phenom II X4 B40</test>
+    <test>Intel Core i7-7Y75</test>
+    <test>Intel Core2 Q9505</test>
+    <test>Intel Core2 Q9500</test>
+    <test>Intel Core i7-5500U</test>
+    <test>Intel Core i7-3687U</test>
+    <test>AMD A10-9700E Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD PRO A108750B R7 12 Compute Cores 4C+8G</test>
+    <test>AMD FXB4150</test>
+    <test>AMD Phenom II X4 B45</test>
+    <test>AMD A8-6500B APU</test>
+    <test>AMD Athlon X4 830 Core</test>
+    <test>Intel Core (Haswell no TSX)</test>
+    <test>AMD A10 PRO7800B R7 12 Compute Cores 4C+8G</test>
+    <test>AMD A8-5600K APU</test>
+    <test>Intel Core i5-5257U</test>
+    <test>AMD A10-5800K APU with Radeon HD Graphics</test>
+    <test>AMD Ryzen 3 3250U with Radeon Graphics</test>
+    <test>AMD A8-3850 APU</test>
+    <test>AMD A107860K Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Pentium Silver J5005</test>
+    <test>Intel Core2 QuadQ8400</test>
+    <test>Intel Core i7-4600U</test>
+    <test>AMD FX4300</test>
+    <test>Intel Core i5-3230M</test>
+    <test>Intel Xeon E5-1603 0</test>
+    <test>Intel Xeon E5-2637</test>
+    <test>AMD Athlon X4 750K Core</test>
+    <test>Intel Core i5-3475S</test>
+    <test>Intel Core i5-2540M</test>
+    <test>Intel Core i5-4278U</test>
+    <test>AMD PRO A12-9800E R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core (Haswell)</test>
+    <test>Intel Core i7-8500Y</test>
+    <test>AMD Phenom II X4 973</test>
+    <test>AMD Phenom II X4 B93</test>
+    <test>Intel Core i5-7Y54</test>
+    <test>Intel Core i5 M 560</test>
+    <test>Intel Core i57Y54</test>
+    <test>AMD Opteron 2352</test>
+    <test>Intel Core2 Q9450</test>
+    <test>AMD A106800B APU with Radeon HD Graphics</test>
+    <test>Intel Xeon X3230</test>
+    <test>AMD Athlon II X4 635</test>
+    <test>AMD Athlon II X4 651</test>
+    <test>AMD A87650K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD A85600K APU with Radeon HD Graphics</test>
+    <test>Intel Core i5-4288U</test>
+    <test>Intel Core2 Q6700</test>
+    <test>Intel Core i7 M 620</test>
+    <test>AMD Athlon II X4 641 Quad-Core</test>
+    <test>AMD RX-427BB with AMD Radeon R7 Graphics</test>
+    <test>Intel Core i5-2390T</test>
+    <test>AMD Athlon II X4 553</test>
+    <test>Intel Core i7-4510U</test>
+    <test>AMD Athlon II X4 630</test>
+    <test>AMD A107700K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD Phenom II X4 20 Processor</test>
+    <test>Intel Core i3-5157U</test>
+    <test>Intel Core 750</test>
+    <test>AMD Phenom II X4 925</test>
+    <test>AMD A107700K APU with Radeon R7 Graphics</test>
+    <test>AMD Ryzen 9 3900X 12-Core Processor</test>
+    <test>Intel Core i5-5300U</test>
+    <test>AMD FX770K Core</test>
+    <test>Intel Core i3-6157U</test>
+    <test>AMD A86500 APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Q8400</test>
+    <test>AMD Phenom II X4 B25</test>
+    <test>AMD FX870K Core</test>
+    <test>AMD Opteron 6220</test>
+    <test>AMD FX4150</test>
+    <test>Intel Core i5 M 480</test>
+    <test>Intel Core i3-7100U</test>
+    <test>AMD Opteron 2356</test>
+    <test>Intel Xeon E5-504</test>
+    <test>QEMU Virtual version 10</test>
+    <test>Intel Core2 Q9400</test>
+    <test>Intel Core i7-2860QM</test>
+    <test>Intel Core2 QuadQ9300</test>
+    <test>Intel Core2 Extreme Q9300</test>
+    <test>AMD Phenom II X4 05e</test>
+    <test>AMD Phenom II X4 820</test>
+    <test>Intel Core i5-4460T</test>
+    <test>AMD FX-4130 Quad-Core</test>
+    <test>Intel Core2 QuadQ6700</test>
+    <test>Intel Core i5-7Y57</test>
+    <test>Intel Xeon X3430</test>
+    <test>AMD Phenom II X4 830</test>
+    <test>Intel Core i5-2405S</test>
+    <test>Intel Core2 QuadQ8300</test>
+    <test>AMD Athlon II X4 631 Quad-Core</test>
+    <test>AMD A6-3670 APU</test>
+    <test>Intel Core i7-4650U</test>
+    <test>AMD A8-6500 APU</test>
+    <test>AMD A83850 APU with Radeon HD Graphics</test>
+    <test>Intel Xeon L5408</test>
+    <test>AMD A10-5700 APU</test>
+    <test>Intel Core i77Y75</test>
+    <test>AMD Phenom II X4 920</test>
+    <test>AMD Ryzen 9 3950X 16-Core Processor</test>
+    <test>AMD A105800B APU with Radeon HD Graphics</test>
+    <test>AMD Athlon 64 FX74</test>
+    <test>Intel Core i7-9xx (Nehalem Class Core i7)</test>
+    <test>AMD PRO A108770E R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD Phenom II X4 910e</test>
+    <test>AMD PRO A8-8650B R7 10 Compute Cores 4C+6G</test>
+    <test>AMD PRO A88650B R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Core i3-3130M</test>
+    <test>AMD Phenom FX-5000 Quad-Core</test>
+    <test>AMD FX-4100 Processor</test>
+    <test>AMD Phenom II X4 10</test>
+    <test>AMD A87600 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD FX-8800P Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>AMD Athlon X4 630</test>
+    <test>AMD Athlon II X4 620e</test>
+    <test>AMD Athlon II X4 641</test>
+    <test>Procesor Intel Pentium II Xeon</test>
+    <test>AMD Athlon X4 740 Core</test>
+    <test>AMD A86500B APU with Radeon HD Graphics</test>
+    <test>AMD A108750 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i7-2760QM</test>
+    <test>Intel Core m3-7Y32</test>
+    <test>Intel Pentium Silver N5000</test>
+    <test>Intel Core i3-6100U</test>
+    <test>AMD Athlon X4 750 Core</test>
+    <test>AMD A8-5500B APU</test>
+    <test>AMD Athlon II X4 610e</test>
+    <test>Intel Xeon X3320</test>
+    <test>Intel Xeon5160</test>
+    <test>Intel Core m56Y54</test>
+    <test>AMD A107800 Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i5 M 540</test>
+    <test>Intel Xeon E7-4870 v2</test>
+    <test>Intel Xeon X3323</test>
+    <test>AMD PRO A10-9700B R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD A63670 APU with Radeon HD Graphics</test>
+    <test>Intel Core i5-4300U</test>
+    <test>Intel Core i5 M 460</test>
+    <test>Intel Core i5-2450M</test>
+    <test>AMD model unknown</test>
+    <test>Intel Pentium 5405U</test>
+    <test>Intel Core i7-4560U</test>
+    <test>Intel Core m7</test>
+    <test>Intel Core2 Q8300</test>
+    <test>AMD A87670K Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD FX-4100 Quad-Core</test>
+    <test>Intel Core m3-7Y30</test>
+    <test>AMD A12-9720P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD A8-5500 APU</test>
+    <test>Intel Core i5-3437U</test>
+    <test>AMD Phenom 9950 Quad-Core</test>
+    <test>Intel Core i7-4500U</test>
+    <test>AMD A105700 APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Q9300</test>
+    <test>Intel Xeon E5-2676 v3</test>
+    <test>Intel Core i3-3225</test>
+    <test>AMD FX-4200 Quad-Core</test>
+    <test>AMD Athlon II X4 620</test>
+    <test>AMD FX4130</test>
+    <test>Intel Xeon E5-2697 v2</test>
+    <test>Intel Atom C2758</test>
+    <test>AMD Opteron 4180</test>
+    <test>Intel Core i5 M 520</test>
+    <test>AMD FX4100</test>
+    <test>Intel Core i5-5200U</test>
+    <test>AMD Phenom II X4 910</test>
+    <test>AMD Phenom II X4 905e</test>
+    <test>AMD FX-9800P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Xeon 5160</test>
+    <test>Intel Core i3-4330TE</test>
+    <test>Intel Core2 Extreme</test>
+    <test>AMD Athlon II X3 460</test>
+    <test>AMD PRO A12-9800B R7 12 COMPUTE CORES 4C+8G</test>
+    <test>Intel Core2 Q6600</test>
+    <test>Intel Xeon5150</test>
+    <test>Intel Core2</test>
+    <test>Intel Xeon E5-310</test>
+    <test>AMD Athlon II X4 557</test>
+    <test>Intel Core2 CPUQ8200</test>
+    <test>AMD A8-3820 APU</test>
+    <test>Intel Core2 QuadQ6600</test>
+    <test>Intel Core i7-3537U</test>
+    <test>AMD Phenom II X4 810</test>
+    <test>Intel Core m76Y75</test>
+    <test>Intel Core i7-4550U</test>
+    <test>Intel Core m57Y54</test>
+    <test>Intel Core m7-6Y75</test>
+    <test>Intel Core i3-3120M</test>
+    <test>Intel Core i5-4310U</test>
+    <test>Intel Core2 QuadQ8200</test>
+    <test>AMD A129720P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD A10-9630P Radeon R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core2 CPUQ6600</test>
+    <test>Intel Core i3-7020U</test>
+    <test>Intel Core i5-2430M</test>
+    <test>AMD PRO A128830B R7 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Pentium 4415U</test>
+    <test>DualCore AMD Opteron 2222</test>
+    <test>AMD A6-3650 APU</test>
+    <test>Intel Celeron N4120</test>
+    <test>Intel Core i7-3689Y</test>
+    <test>Intel Core m37Y30</test>
+    <test>AMD Athlon X4 620</test>
+    <test>Intel Xeon E7-8837</test>
+    <test>Intel Core i5-5350U</test>
+    <test>Intel Core i5-2520M</test>
+    <test>Intel Pentium 4405U</test>
+    <test>Intel Core i5-4258U</test>
+    <test>AMD Opteron 2220</test>
+    <test>AMD Phenom II X3 B77</test>
+    <test>Intel Xeon E5-1620 v2</test>
+    <test>Intel Core2 CPUQ8300</test>
+    <test>Intel Core i7-3555LE</test>
+    <test>AMD A85500B APU with Radeon HD Graphics</test>
+    <test>Intel Core i3 M 390</test>
+    <test>Intel Core i5-2410M</test>
+    <test>Intel Core i5 M 450</test>
+    <test>e Intel Pentium II Xeon</test>
+    <test>Intel Celeron J4105</test>
+    <test>AMD Phenom II X4 805</test>
+    <test>AMD Opteron 285</test>
+    <test>Intel Core i3-4000M</test>
+    <test>AMD Opteron 290</test>
+    <test>AMD A8 PRO7600B R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Pentium 4417U</test>
+    <test>Intel Core i5-4210U</test>
+    <test>AMD Athlon II X4 631</test>
+    <test>AMD A8-3800 APU</test>
+    <test>Intel Pentium II Xeon</test>
+    <test>Intel Core2 Q8200</test>
+    <test>AMD FX-4130 Processor</test>
+    <test>AMD PRO A12-8830B R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD A10-9620P Radeon R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i3-2100T</test>
+    <test>Intel Core i3 M 380</test>
+    <test>AMD A63650 APU with Radeon HD Graphics</test>
+    <test>Intel Core i3-3110M</test>
+    <test>Intel Core i7 L 640</test>
+    <test>AMD A88650 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD A83820 APU with Radeon HD Graphics</test>
+    <test>AMD Phenom II X3 740</test>
+    <test>AMD Engineering Sample</test>
+    <test>Intel Core i5-8200Y</test>
+    <test>AMD Phenom FX5000</test>
+    <test>Intel Xeon E5-2403</test>
+    <test>AMD Phenom 9850 Quad-Core</test>
+    <test>Intel Core i7-2820QM</test>
+    <test>Intel Core m5-6Y54</test>
+    <test>AMD Phenom 9950</test>
+    <test>Intel Xeon E5-2403 v2</test>
+    <test>Intel Core i5 M 430</test>
+    <test>AMD Athlon II X4 605e</test>
+    <test>Intel Core m5-6Y57</test>
+    <test>Intel Core m56Y57</test>
+    <test>AMD PRO A129800B R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD Athlon II X3 455</test>
+    <test>Intel Core i3-2120T</test>
+    <test>Intel Core i5-3337U</test>
+    <test>AMD Athlon X4 730 Core</test>
+    <test>Intel Xeon E5-1650 v2</test>
+    <test>Intel Core i3-5020U</test>
+    <test>Vultr Virtual 2</test>
+    <test>AMD A85500 APU with Radeon HD Graphics</test>
+    <test>Intel Core i7-4610Y</test>
+    <test>AMD Athlon II X3 450</test>
+    <test>Intel Xeon5140</test>
+    <test>DualCore AMD Opteron 2220</test>
+    <test>AMD A87500 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>Intel Xeon 5150</test>
+    <test>AMD Phenom 9750 Quad-Core</test>
+    <test>Intel Xeon X3220</test>
+    <test>Intel Pentium J4205</test>
+    <test>AMD Athlon X4 645</test>
+    <test>AMD FX8800P Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>DualCore AMD Opteron 2220 SE</test>
+    <test>Intel Pentium G4520</test>
+    <test>Intel Core i3-2332M</test>
+    <test>Intel Core (Broadwell no TSX IBRS)</test>
+    <test>Intel Core i5-4200U</test>
+    <test>AMD A12-9700P Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD Athlon II X3 445</test>
+    <test>AMD FX-4150 Quad-Core</test>
+    <test>Intel Core i7-3517U</test>
+    <test>Intel Xeon X5270</test>
+    <test>AMD FX9800P Radeon R7 12 COMPUTE CORES 4C+8G</test>
+    <test>AMD A83800 APU with Radeon HD Graphics</test>
+    <test>AMD Phenom II X3 B75</test>
+    <test>AMD FX4200</test>
+    <test>Intel Xeon E5-2420 0</test>
+    <test>Intel Pentium N4200</test>
+    <test>Intel Pentium G4500</test>
+    <test>Intel Core i3-4100M</test>
+    <test>HP Hexa-Core</test>
+    <test>AMD Athlon II X4 615e</test>
+    <test>AMD PRO A12-8800B R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Celeron J3455</test>
+    <test>AMD FX-7600P Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel Core i3 M 370</test>
+    <test>AMD Phenom 9850</test>
+    <test>Intel Core m36Y30</test>
+    <test>AMD PRO A8-9600B R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i3-5010U</test>
+    <test>Intel Core i3-6006U</test>
+    <test>Intel Xeon D-1518</test>
+    <test>AMD Opteron 2218</test>
+    <test>Intel Xeon L5240</test>
+    <test>Intel Celeron N4100</test>
+    <test>Intel Core m5</test>
+    <test>AMD A8-7410 APU with AMD Radeon R5 Graphics</test>
+    <test>Intel Core2 Q9100</test>
+    <test>Intel Core i7 L 620</test>
+    <test>AMD A10 Extreme Edition Radeon R8 4C+8G</test>
+    <test>AMD Athlon X3 440</test>
+    <test>Intel Pentium Pro</test>
+    <test>Intel Core i3-2370M</test>
+    <test>AMD A109620P Radeon R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i5-5250U</test>
+    <test>Intel Core i7-2617M</test>
+    <test>Intel Core2 QuadQ9100</test>
+    <test>Intel Core i3-2312M</test>
+    <test>AMD Phenom 9750B</test>
+    <test>Intel Core i5-4302Y</test>
+    <test>AMD Athlon 5370 APU with Radeon R3</test>
+    <test>QEMU Virtual version (cpu64rhel6)</test>
+    <test>AMD PRO A128800B R7 12 Compute Cores 4C+8G</test>
+    <test>AMD Athlon II X3 440</test>
+    <test>AMD A6-3620 APU</test>
+    <test>AMD Phenom 9600B Quad-Core</test>
+    <test>AMD Opteron 2373 EE</test>
+    <test>Intel Xeon X3210</test>
+    <test>AMD A6-7310 APU with AMD Radeon R4 Graphics</test>
+    <test>Intel Core i7-3517UE</test>
+    <test>AMD Phenom 9650 Quad-Core</test>
+    <test>AMD Phenom II X3 B73</test>
+    <test>AMD Athlon II X4 6400e</test>
+    <test>AMD A10-9600P Radeon R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core M</test>
+    <test>AMD Opteron 880</test>
+    <test>Intel Core i3 M 350</test>
+    <test>AMD A8-6410 APU with AMD Radeon R5 Graphics</test>
+    <test>AMD Phenom II X3 720</test>
+    <test>Intel Pentium G4400</test>
+    <test>AMD A129700P Radeon R7 10 COMPUTE CORES 4C+6G</test>
+    <test>AMD Phenom 9600 Quad-Core</test>
+    <test>AMD Opteron 280</test>
+    <test>Intel Xeon E5-4607</test>
+    <test>QEMU Virtual version 111</test>
+    <test>Intel Core i7-2637M</test>
+    <test>Intel Celeron G4930</test>
+    <test>AMD Athlon X3 435</test>
+    <test>Intel Core2 QuadQ9000</test>
+    <test>Intel Core i7-3520M</test>
+    <test>Intel Xeon E7-4870</test>
+    <test>AMD A63620 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II X3 435</test>
+    <test>AMD Athlon X3 445</test>
+    <test>Intel CoreQ 720</test>
+    <test>QEMU Virtual version 014</test>
+    <test>Intel Xeon Gold 6126</test>
+    <test>Intel Xeon E5-603</test>
+    <test>DualCore AMD Opteron 2216 HE</test>
+    <test>AMD Phenom II X3 715</test>
+    <test>AMD Phenom 9750</test>
+    <test>Intel Core i3-2350M</test>
+    <test>Intel Celeron N3450</test>
+    <test>AMD GX424CC SOC with Radeon R5E Graphics</test>
+    <test>Intel Core i3-5005U</test>
+    <test>Intel Pentium G3258</test>
+    <test>QEMU Virtual version 153</test>
+    <test>AMD A83550MX APU with Radeon HD Graphics</test>
+    <test>AMD PRO A10-8730B R5 10 COMPUTE CORES 4C+6G</test>
+    <test>DualCore AMD Opteron 2218</test>
+    <test>AMD A6-3600 APU</test>
+    <test>AMD Phenom II X920</test>
+    <test>Intel Core i5-4260U</test>
+    <test>AMD A10-5750M APU</test>
+    <test>AMD Phenom 9600B</test>
+    <test>AMD Phenom II N970 Quad-Core</test>
+    <test>Intel Core M-5Y71</test>
+    <test>AMD Phenom 9650</test>
+    <test>AMD GX-420CA SOC</test>
+    <test>Intel Core2 Q9000</test>
+    <test>Intel Xeon E7-430</test>
+    <test>AMD A10-8700P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>AMD Phenom 9600</test>
+    <test>AMD A4-6250J APU with AMD Radeon R3 Graphics</test>
+    <test>Intel Core i3-2348M</test>
+    <test>AMD Athlon 5350 APU with Radeon R3</test>
+    <test>AMD A6-5200 APU with Radeon HD Graphics</test>
+    <test>AMD Phenom 9550 Quad-Core</test>
+    <test>Intel Pentium III Xeon</test>
+    <test>AMD A10-5757M APU</test>
+    <test>Intel Celeron G3950</test>
+    <test>AMD A6-6310 APU with AMD Radeon R4 Graphics</test>
+    <test>Intel Core m3-6Y30</test>
+    <test>AMD Phenom II X3 710</test>
+    <test>AMD A8-8600P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Atom E3-950</test>
+    <test>Intel Pentium 3825U</test>
+    <test>Intel Core M-5Y51</test>
+    <test>Intel Core M5Y10c</test>
+    <test>AMD A87410 APU with AMD Radeon R5 Graphics</test>
+    <test>AMD Athlon II X4 600e</test>
+    <test>AMD Phenom II X3 700e</test>
+    <test>Intel Core i5-3317U</test>
+    <test>Intel Core M5Y71</test>
+    <test>Intel Pentium G3450</test>
+    <test>AMD A10-7400P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>AMD A4-7210 APU with AMD Radeon R3 Graphics</test>
+    <test>AMD A63600 APU with Radeon HD Graphics</test>
+    <test>Intel Core i3-4025U</test>
+    <test>Intel Core i3-2330M</test>
+    <test>Intel Pentium G3470</test>
+    <test>Intel Core i7 U 660</test>
+    <test>Intel Core i3 M 330</test>
+    <test>Intel Core i7 U 680</test>
+    <test>Intel Celeron G4900</test>
+    <test>Intel Pentium G3460</test>
+    <test>AMD A109600P Radeon R5 10 COMPUTE CORES 4C+6G</test>
+    <test>Intel Core i3-2330E</test>
+    <test>Intel Core i5-3439Y</test>
+    <test>Intel Celeron G4920</test>
+    <test>QEMU Virtual version 0123</test>
+    <test>Intel Core i3-2328M</test>
+    <test>HP HexaCore 20GHz</test>
+    <test>Intel Xeon 5140</test>
+    <test>AMD FX7600P Radeon R7 12 Compute Cores 4C+8G</test>
+    <test>Intel 5Y10</test>
+    <test>AMD Athlon II X3 420e</test>
+    <test>Intel Pentium G3430</test>
+    <test>Intel 5Y70</test>
+    <test>AMD A6-5200 APU</test>
+    <test>Intel Core i3-2310M</test>
+    <test>Intel Core i3-5015U</test>
+    <test>AMD Phenom 9550</test>
+    <test>Intel Pentium G3260</test>
+    <test>AMD A86410 APU with AMD Radeon R5 Graphics</test>
+    <test>Intel Core2 Duo E8600</test>
+    <test>AMD Phenom 9500</test>
+    <test>Intel Core M-5Y10c</test>
+    <test>Intel Core i5-5U</test>
+    <test>Intel Core i7-2720QM</test>
+    <test>Dual-Core Intel Xeon</test>
+    <test>Intel Pentium G3420</test>
+    <test>Intel Core i5-4250U</test>
+    <test>AMD Athlon II X3 425</test>
+    <test>AMD A6-7480 Radeon R5 8 Compute Cores 2C+6G</test>
+    <test>AMD Eng Sample Mobile 2585A1</test>
+    <test>AMD Athlon Silver 3050U with Radeon Graphics</test>
+    <test>Intel Core i7-2640M</test>
+    <test>AMD Phenom 9500 Quad-Core</test>
+    <test>Intel Pentium G3440</test>
+    <test>AMD A67310 APU with AMD Radeon R4 Graphics</test>
+    <test>AMD Opteron 1352</test>
+    <test>AMD A108700P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Xeon 5148</test>
+    <test>Intel Pentium G2140</test>
+    <test>AMD Phenom II X2 570</test>
+    <test>e Intel Pentium III Xeon</test>
+    <test>AMD Opteron 2423 HE</test>
+    <test>Intel Core i3-4110M</test>
+    <test>AMD A8-3530MX APU</test>
+    <test>AMD PRO A10-8700B R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Core M5Y31</test>
+    <test>Intel Pentium G4500T</test>
+    <test>AMD Phenom 8750 Triple-Core</test>
+    <test>AMD PRO A88600B R6 10 Compute Cores 4C+6G</test>
+    <test>AMD A10-4600M APU</test>
+    <test>Intel Core m3</test>
+    <test>Intel Core i3-6100H</test>
+    <test>Intel Core i7-2620M</test>
+    <test>Intel Celeron G4900T</test>
+    <test>AMD Opteron 1354</test>
+    <test>AMD PRO A4-3350B APU with Radeon R4 Graphics</test>
+    <test>Intel Pentium G3240</test>
+    <test>Intel 5Y10a</test>
+    <test>AMD A47210 APU with AMD Radeon R3 Graphics</test>
+    <test>AMD Phenom II N950 Quad-Core</test>
+    <test>Intel Pentium G4400T</test>
+    <test>Intel Celeron G3930</test>
+    <test>Intel Core i3-4030U</test>
+    <test>Intel Xeon E3-110</test>
+    <test>AMD Phenom 8850</test>
+    <test>AMD A6-9500 Radeon R5 8 COMPUTE CORES 2C+6G</test>
+    <test>Intel Pentium G2130</test>
+    <test>AMD Opteron 6174</test>
+    <test>AMD PRO A8-8600B R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Core i5-3210M</test>
+    <test>Intel Core i5 U 560</test>
+    <test>Intel Pentium G3250</test>
+    <test>AMD A105750M APU with Radeon HD Graphics</test>
+    <test>AMD A6-9400 Radeon R5 6 COMPUTE CORES 2C+4G</test>
+    <test>Intel Core M5Y51</test>
+    <test>Intel Atom x7Z8750</test>
+    <test>Intel Core i7-3635QM</test>
+    <test>AMD FX-7500 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD PRO A108700B R6 10 Compute Cores 4C+6G</test>
+    <test>Pentium Dual-CoreCPUE6800</test>
+    <test>AMD Athlon X3 425</test>
+    <test>AMD A46250J APU with AMD Radeon R3 Graphics</test>
+    <test>AMD PRO A4-8350B R5 6 Compute Cores 2C+4G</test>
+    <test>Intel Xeon MP</test>
+    <test>Intel Celeron G3900</test>
+    <test>Pentium DualCoreE6800</test>
+    <test>AMD A66310 APU with AMD Radeon R4 Graphics</test>
+    <test>AMD GX420CA SOC with Radeon HD Graphics</test>
+    <test>Intel Core2 Duo E8500</test>
+    <test>Intel Xeon E3-120</test>
+    <test>AMD Phenom II N970</test>
+    <test>AMD Phenom II X2 B57</test>
+    <test>AMD Phenom 8750</test>
+    <test>Intel Pentium G2120</test>
+    <test>Intel Core2 Duo E8435</test>
+    <test>e Intel Pentium II</test>
+    <test>Intel Pentium II</test>
+    <test>AMD Phenom 8850B</test>
+    <test>Intel Core i3-3227U</test>
+    <test>AMD Phenom 9450e</test>
+    <test>Intel Celeron G3900T</test>
+    <test>AMD A83530MX APU with Radeon HD Graphics</test>
+    <test>AMD PRO A6-8570 R5 8 COMPUTE CORES 2C+6G</test>
+    <test>Intel Pentium G3220</test>
+    <test>AMD A105757M APU with Radeon HD Graphics</test>
+    <test>AMD Opteron 270</test>
+    <test>Intel Atom E3-940</test>
+    <test>Intel Core i7-3667U</test>
+    <test>AMD Phenom II N930 Quad-Core</test>
+    <test>AMD Phenom II X2 565</test>
+    <test>AMD A6-8550 Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>AMD A8-3510MX APU</test>
+    <test>AMD Phenom II X3 720 Processor</test>
+    <test>AMD A107400P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>AMD Phenom 9350e Quad-Core</test>
+    <test>AMD A6-7470K Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>Processador Intel Pentium III Xeon</test>
+    <test>AMD Athlon II X3 405e</test>
+    <test>AMD A83510MX APU with Radeon HD Graphics</test>
+    <test>AMD Opteron 2346 HE</test>
+    <test>AMD Phenom II N870 Triple-Core</test>
+    <test>Intel Core i7-2610UE</test>
+    <test>Intel Xeon5130</test>
+    <test>AMD R464L APU with Radeon HD Graphics</test>
+    <test>AMD A65200 APU with Radeon HD Graphics</test>
+    <test>Intel Core i7-3720QM</test>
+    <test>AMD Phenom II N950</test>
+    <test>AMD E2-7110 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD A4-6210 APU with AMD Radeon R3 Graphics</test>
+    <test>Intel Pentium G870</test>
+    <test>AMD Phenom II X2 521</test>
+    <test>Intel Pentium G3260T</test>
+    <test>AMD Eng Sample ZM232863C44513223169900685</test>
+    <test>Intel Atom x5Z8550</test>
+    <test>Intel Xeon E5-4640 v3</test>
+    <test>Intel Xeon E7-4807</test>
+    <test>Procesor Intel Pentium III Xeon</test>
+    <test>AMD A10-7300 Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Xeon X5272</test>
+    <test>Intel Celeron G1830</test>
+    <test>AMD Phenom II X2 511</test>
+    <test>AMD PRO A6-9500 R5 8 COMPUTE CORES 2C+6G</test>
+    <test>Pentium Dual-CoreCPUE5800</test>
+    <test>AMD Athlon II X2 B28</test>
+    <test>Intel Pentium G2030</test>
+    <test>Intel Core i5-4300Y</test>
+    <test>Intel Xeon 5120</test>
+    <test>AMD Phenom 9350e</test>
+    <test>Intel Core M-5Y31</test>
+    <test>DualCore AMD Opteron 2216</test>
+    <test>AMD A8-5550M APU</test>
+    <test>Pentium Dual-CoreCPUE6700</test>
+    <test>Intel Atom x7Z8700</test>
+    <test>x86 Family 6 Model 23 Stepping 10</test>
+    <test>Intel Core i3-3217U</test>
+    <test>AMD Opteron 275</test>
+    <test>AMD PRO A6-9500E R5 6 COMPUTE CORES 2C+4G</test>
+    <test>AMD Phenom 8750B</test>
+    <test>Intel Pentium G3250T</test>
+    <test>AMD Phenom II X2 560</test>
+    <test>AMD A6-3430MX APU</test>
+    <test>AMD Athlon II X2 265</test>
+    <test>Intel Core i5-3339Y</test>
+    <test>Intel Core2 Duo E8400</test>
+    <test>AMD Phenom II X3 705e</test>
+    <test>Pentium Dual-CoreCPUE6600</test>
+    <test>AMD A8-5557M APU</test>
+    <test>AMD Athlon II X2 4400e</test>
+    <test>Intel Core2 Extreme X9100</test>
+    <test>Intel Pentium III Xeonprosessor</test>
+    <test>Pentium DualCoreE5800</test>
+    <test>Intel Pentium G6960</test>
+    <test>Intel Core i3-4005U</test>
+    <test>AMD A6-7400K Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>Intel Core2 Duo E7-600</test>
+    <test>Intel Xeon E7-2870</test>
+    <test>Intel Core i5-4220Y</test>
+    <test>Intel Celeron G1630</test>
+    <test>AMD Phenom 8650</test>
+    <test>AMD Phenom II X2 555</test>
+    <test>Pentium DualCoreE6600</test>
+    <test>Intel Celeron G1840</test>
+    <test>Intel Pentium G860</test>
+    <test>Intel Pentium G2010</test>
+    <test>Intel Core2 Duo E7600</test>
+    <test>Intel Pentium III Xeon suoritin</test>
+    <test>Intel Pentium E5700</test>
+    <test>AMD A8-3500M APU</test>
+    <test>Intel Pentium G2020</test>
+    <test>Pentium DualCoreE6700</test>
+    <test>Intel Core2 E8500</test>
+    <test>Intel Pentium G3240T</test>
+    <test>AMD A104600M APU with Radeon HD Graphics</test>
+    <test>AMD Phenom 8650 Triple-Core</test>
+    <test>AMD PRO A6-8570E R5 6 COMPUTE CORES 2C+4G</test>
+    <test>Intel Pentium G850</test>
+    <test>AMD A6-3500 APU</test>
+    <test>Intel Core i7 U 640</test>
+    <test>Intel Atom Z3775</test>
+    <test>Intel Xeon5110</test>
+    <test>Intel Xeon X7542</test>
+    <test>AMD Athlon II X2 270</test>
+    <test>AMD Opteron 4171 HE</test>
+    <test>AMD Phenom 8600B</test>
+    <test>Intel Core2 Extreme X9000</test>
+    <test>Intel Core2 Duo E7-500</test>
+    <test>AMD Phenom 8600</test>
+    <test>Intel Pentium G645</test>
+    <test>AMD Athlon II X2 260</test>
+    <test>AMD A8-3520M APU</test>
+    <test>AMD A10 PRO-7350B R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Pentium 4415Y</test>
+    <test>AMD A10-5745M APU</test>
+    <test>Intel Core i5-4200Y</test>
+    <test>Intel Xeon 5130</test>
+    <test>AMD Phenom II X2 550</test>
+    <test>AMD A63430MX APU with Radeon HD Graphics</test>
+    <test>Intel Atom Z3770</test>
+    <test>Intel Core i5 U 430</test>
+    <test>Intel Celeron G1820</test>
+    <test>AMD Phenom II X2 B55</test>
+    <test>AMD Phenom 9150e Quad-Core</test>
+    <test>Pentium Dual-CoreCPUE6500</test>
+    <test>AMD Athlon II X3 400e</test>
+    <test>Intel Celeron G3920</test>
+    <test>Intel Core2 Duo T9900</test>
+    <test>AMD A63500 APU with Radeon HD Graphics</test>
+    <test>AMD A85557M APU with Radeon HD Graphics</test>
+    <test>AMD A87200P Radeon R5 8 Compute Cores 4C+4G</test>
+    <test>AMD Phenom II N930</test>
+    <test>Pentium DualCoreE5700</test>
+    <test>Pentium DualCoreE6500</test>
+    <test>AMD A83520M APU with Radeon HD Graphics</test>
+    <test>Intel Pentium G3220T</test>
+    <test>Intel Core2 Duo E6850</test>
+    <test>AMD Athlon X2 370K</test>
+    <test>AMD A63410MX APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Duo E7500</test>
+    <test>Intel Core i3-4010U</test>
+    <test>Intel Celeron G1850</test>
+    <test>Intel Celeron E3500</test>
+    <test>AMD Athlon 5150 APU with Radeon R3</test>
+    <test>Intel Pentium G840</test>
+    <test>AMD A66420K APU with Radeon HD Graphics</test>
+    <test>AMD A46210 APU with AMD Radeon R3 Graphics</test>
+    <test>AMD A99430 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Core2 Duo T9800</test>
+    <test>AMD Phenom II P960 Quad-Core</test>
+    <test>AMD Athlon II X2 280</test>
+    <test>AMD A85550M APU with Radeon HD Graphics</test>
+    <test>AMD</test>
+    <test>Intel Pentium G2030T</test>
+    <test>Intel Atom Z3795</test>
+    <test>QEMU Virtual version 212</test>
+    <test>AMD Phenom II N870</test>
+    <test>AMD A6-9500E Radeon R5 6 COMPUTE CORES 2C+4G</test>
+    <test>Intel Celeron G1620</test>
+    <test>AMD Phenom II X2 B59</test>
+    <test>AMD Phenom 8600B Triple-Core</test>
+    <test>AMD Phenom 8550 Triple-Core</test>
+    <test>Intel Celeron G1840T</test>
+    <test>AMD Athlon II X2 B26</test>
+    <test>AMD A4 PRO-7300B APU</test>
+    <test>AMD A63420M APU with Radeon HD Graphics</test>
+    <test>AMD A4-6320 APU</test>
+    <test>AMD Opteron 4274 HE</test>
+    <test>AMD Phenom 8550</test>
+    <test>AMD Phenom 9100e Quad-Core</test>
+    <test>AMD Athlon II X2 250 Processor</test>
+    <test>AMD A6-6400K APU with Radeon HD Graphics</test>
+    <test>AMD Phenom 8600 Triple-Core</test>
+    <test>AMD Phenom II N640 Dual-Core</test>
+    <test>Intel Pentium G6951</test>
+    <test>AMD Athlon II X2 255</test>
+    <test>AMD Athlon II X2 245 Processor</test>
+    <test>Intel Core2 E7500</test>
+    <test>AMD A8-7100 Radeon R5 8 Compute Cores 4C+4G</test>
+    <test>AMD E27110 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD A4 PRO3340B with Radeon HD Graphics</test>
+    <test>Intel Atom x5Z8500</test>
+    <test>AMD A6-3420M APU</test>
+    <test>AMD A6-6400K APU</test>
+    <test>Pentium Dual-CoreCPUE5700</test>
+    <test>Intel Core i7 U 620</test>
+    <test>AMD A66400K APU with Radeon HD Graphics</test>
+    <test>Pentium Dual-CoreCPUE6300</test>
+    <test>Intel Core2 Duo E7-400</test>
+    <test>Intel Celeron G555</test>
+    <test>Intel Pentium 4405Y</test>
+    <test>AMD PRO A6-7350B R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD A4-7300 APU</test>
+    <test>AMD A9-9430 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel PentiumG6950</test>
+    <test>AMD Phenom 9100e</test>
+    <test>Intel Core2 Duo E7400</test>
+    <test>Intel Core2 Duo P9700</test>
+    <test>Intel Pentium G640</test>
+    <test>Intel Celeron G1610</test>
+    <test>Intel Celeron G1820T</test>
+    <test>AMD A6 PRO-7400B R5 6 Compute Cores 2C+4G</test>
+    <test>AMD Phenom X4 GP9500</test>
+    <test>AMD Athlon II X2 250e</test>
+    <test>Intel Core2 Duo E8200</test>
+    <test>AMD A4-5100 APU</test>
+    <test>Pentium Dual-CoreCPUE5500</test>
+    <test>Pentium DualCoreE6300</test>
+    <test>Intel Core2 Duo P9500</test>
+    <test>AMD A6-3410MX APU</test>
+    <test>Intel Core2 Duo T7700</test>
+    <test>Intel Core2 X6800</test>
+    <test>AMD Phenom 8450e</test>
+    <test>Intel Xeon 3070</test>
+    <test>AMD Athlon X2 245</test>
+    <test>Intel Core i5-4202Y</test>
+    <test>Intel Core2 Duo E8335</test>
+    <test>AMD Athlon II X2 4450e</test>
+    <test>AMD A67470K Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>AMD A8-5545M APU</test>
+    <test>AMD A8-4500M APU</test>
+    <test>QEMU Virtual version 200</test>
+    <test>AMD A4-5000 APU with Radeon HD Graphics</test>
+    <test>QEMU Virtual version 0125</test>
+    <test>Intel Core2 Duo E7300</test>
+    <test>AMD Phenom II N660 Dual-Core</test>
+    <test>AMD A4-5050 APU</test>
+    <test>AMD Phenom 9150e</test>
+    <test>Pentium DualCoreE5500</test>
+    <test>AMD A105745M APU with Radeon HD Graphics</test>
+    <test>AMD A67400K Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>AMD Phenom 8450</test>
+    <test>Pentium Dual-CoreCPUE5400</test>
+    <test>Intel Core i5 U 470</test>
+    <test>Intel Pentium G630</test>
+    <test>AMD A46320 APU with Radeon HD Graphics</test>
+    <test>Intel Core i5-2537M</test>
+    <test>AMD Opteron 6278</test>
+    <test>Intel Xeon E7-4850</test>
+    <test>AMD Phenom 8450 Triple-Core</test>
+    <test>AMD A83500M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II X2 250</test>
+    <test>Intel Core2 Duo E8235</test>
+    <test>AMD Phenom II N850 Triple-Core</test>
+    <test>Intel Core2 Duo E7-300</test>
+    <test>DualCore AMD Opteron 1222</test>
+    <test>Intel Pentium G2020T</test>
+    <test>Intel Core2 Duo T9600</test>
+    <test>AMD A104657M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II X2 245</test>
+    <test>AMD Athlon II X2 B22</test>
+    <test>Intel Core2 Duo E7-200</test>
+    <test>Intel Core2 E8400</test>
+    <test>AMD A46300B APU with Radeon HD Graphics</test>
+    <test>Intel CeleronE3300</test>
+    <test>AMD Phenom II N850</test>
+    <test>AMD A4-6300 APU</test>
+    <test>Pentium DualCoreE5400</test>
+    <test>Intel Pentium G6950</test>
+    <test>AMD A6-6420K APU</test>
+    <test>AMD Phenom II P960</test>
+    <test>Intel Xeon E5-502</test>
+    <test>AMD Athlon II X2 B24</test>
+    <test>AMD Phenom 8400</test>
+    <test>Intel Pentium 2030M</test>
+    <test>Intel Core2 E6600</test>
+    <test>AMD Embedded G-Series GX-420GI Radeon R7E</test>
+    <test>Intel Core2 Duo E8300</test>
+    <test>AMD A47300 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II X2 220</test>
+    <test>AMD Athlon II X2 245e</test>
+    <test>Intel Celeron 3965U</test>
+    <test>AMD GX-415GA SOC</test>
+    <test>AMD A99420 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD A9-9420 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Phenom II N830 Triple-Core</test>
+    <test>Intel CeleronE3400</test>
+    <test>Intel Core2 Extreme X7900</test>
+    <test>Intel Pentium G620</test>
+    <test>Intel Xeon E7-2860</test>
+    <test>AMD A88600P Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>Intel Core2 Duo P8800</test>
+    <test>Intel Core i3-4020Y</test>
+    <test>Intel Core2 Duo E7200</test>
+    <test>Intel Core2 Duo T9300</test>
+    <test>QEMU Virtual version 112</test>
+    <test>AMD A8-7200P Radeon R5 8 Compute Cores 4C+4G</test>
+    <test>AMD A99410 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Core2 Duo T9550</test>
+    <test>AMD A65400K APU with Radeon HD Graphics</test>
+    <test>Intel Celeron J4005</test>
+    <test>AMD A6-5400K APU</test>
+    <test>AMD A10-4655M APU</test>
+    <test>AMD FX7500 Radeon R7 10 Compute Cores 4C+6G</test>
+    <test>AMD Athlon 7750 DualCore</test>
+    <test>AMD Phenom II X640 DualCore</test>
+    <test>Pentium DualCoreE5300</test>
+    <test>AMD A9-9425 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Core2 Duo</test>
+    <test>Intel Core2 Duo E6750</test>
+    <test>Intel Pentium G645T</test>
+    <test>AMD Athlon II X2 240</test>
+    <test>AMD Phenom II X2 545</test>
+    <test>Intel Celeron E1400</test>
+    <test>Intel Core i5-4210Y</test>
+    <test>Intel Core2 Duo E8135</test>
+    <test>Intel Atom E3845</test>
+    <test>AMD Athlon 7850 DualCore</test>
+    <test>Pentium Dual-CoreCPUE5300</test>
+    <test>Intel Core26700</test>
+    <test>AMD Athlon II X2 240e</test>
+    <test>AMD A4-6300B APU</test>
+    <test>Intel Core2 6700</test>
+    <test>Intel Core2 Extreme X7800</test>
+    <test>AMD Athlon X2 215</test>
+    <test>AMD Phenom 8250e</test>
+    <test>Pentium DualCoreE5200</test>
+    <test>Intel PentiumJ2900</test>
+    <test>Intel Pentium G640T</test>
+    <test>Intel Core2 Duo T9400</test>
+    <test>AMD A46300 APU with Radeon HD Graphics</test>
+    <test>AMD A66400B APU with Radeon HD Graphics</test>
+    <test>AMD A6-5400B APU</test>
+    <test>Intel Celeron E3-300</test>
+    <test>AMD A6-5357M APU</test>
+    <test>Intel Pentium 4410Y</test>
+    <test>AMD Phenom II N660 DualCore</test>
+    <test>Intel Xeon W3505</test>
+    <test>AMD Athlon 7850 Dual-Core</test>
+    <test>AMD Athlon II X2 235e</test>
+    <test>Intel Pentium J2900</test>
+    <test>AMD Phenom 8400 Triple-Core</test>
+    <test>AMD Opteron X2150 APU</test>
+    <test>Intel Pentium 2020M</test>
+    <test>AMD Athlon II X2 215</test>
+    <test>Intel Core2 Duo P9400</test>
+    <test>Intel Core2 E7400</test>
+    <test>AMD A63400M APU with Radeon HD Graphics</test>
+    <test>Intel Xeon E5-240</test>
+    <test>AMD A43400 APU with Radeon HD Graphics</test>
+    <test>AMD A9-9410 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Phenom II P840 Triple-Core</test>
+    <test>AMD Phenom II P920 Quad-Core</test>
+    <test>AMD A8 PRO7150B R5 10 Compute Cores 4C+6G</test>
+    <test>Intel Core2 6600</test>
+    <test>Intel Pentium CPUN3710</test>
+    <test>AMD A43420 APU with Radeon HD Graphics</test>
+    <test>AMD A4-5000 APU</test>
+    <test>Intel Core2 Duo T9500</test>
+    <test>AMD Phenom II N830</test>
+    <test>AMD Opteron X3216 APU</test>
+    <test>Intel Celeron G540</test>
+    <test>Intel Xeon 3060</test>
+    <test>Intel Core2 Duo P8700</test>
+    <test>Intel PentiumN3540</test>
+    <test>AMD Athlon 7750 Dual-Core</test>
+    <test>AMD A65400B APU with Radeon HD Graphics</test>
+    <test>Pentium Dual-CoreCPUE5200</test>
+    <test>AMD A4-5300B APU</test>
+    <test>Intel Celeron E3300</test>
+    <test>AMD Athlon X2 250</test>
+    <test>AMD Athlon 64 X2 6400+</test>
+    <test>AMD A45100 APU with Radeon HD Graphics</test>
+    <test>Intel Celeron G550</test>
+    <test>Intel Core i5 U 540</test>
+    <test>AMD A4-3420 APU</test>
+    <test>AMD Athlon 64 X2 6000+</test>
+    <test>AMD A4 Micro-6400T APU + AMD Radeon R3 Graphics</test>
+    <test>Intel Celeron E3-200</test>
+    <test>AMD E2-6110 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD A8 PRO-7150B R5 10 Compute Cores 4C+6G</test>
+    <test>Intel Core2 Duo E4700</test>
+    <test>AMD Phenom II N640 DualCore</test>
+    <test>AMD A4-3400 APU</test>
+    <test>Intel Pentium 3550M</test>
+    <test>AMD Opteron 4122</test>
+    <test>AMD A104655M APU with Radeon HD Graphics</test>
+    <test>Intel Celeron E1600</test>
+    <test>AMD Athlon II X3 415e</test>
+    <test>AMD Phenom 8250</test>
+    <test>AMD A10 PRO7350B R6 10 Compute Cores 4C+6G</test>
+    <test>AMD A84500M APU with Radeon HD Graphics</test>
+    <test>AMD Opteron 185</test>
+    <test>Intel Xeon W3503</test>
+    <test>Intel Pentium N3540</test>
+    <test>Intel Celeron E3-400</test>
+    <test>Intel Xeon 3075</test>
+    <test>AMD Phenom II P860</test>
+    <test>AMD Phenom II P940</test>
+    <test>AMD Phenom II N620 Dual-Core</test>
+    <test>AMD A6-3400M APU</test>
+    <test>AMD Athlon 64 FX62</test>
+    <test>Intel Core2 Duo T7800</test>
+    <test>AMD A4-5300 APU</test>
+    <test>AMD Athlon 64 X2 5800+</test>
+    <test>Intel Core i3-2375M</test>
+    <test>AMD A4-4020 APU</test>
+    <test>Intel Celeron G530</test>
+    <test>Intel Core i5-3427U</test>
+    <test>Intel Pentium N3530</test>
+    <test>Intel Celeron E3400</test>
+    <test>AMD Phenom II X2 B53</test>
+    <test>Intel Pentium DualE2220</test>
+    <test>AMD Athlon 64 FX60</test>
+    <test>Intel Xeon E7-2850</test>
+    <test>AMD Athlon 5600B</test>
+    <test>Intel PentiumN3710</test>
+    <test>Intel Core26600</test>
+    <test>Intel Core2 Duo P7570</test>
+    <test>Intel Pentium N3710</test>
+    <test>Intel Core2 T7600</test>
+    <test>Intel Celeron N4000</test>
+    <test>Intel Celeron G1620T</test>
+    <test>AMD A9-9400 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD PRO A6-9500B R5 6 COMPUTE CORES 2C+4G</test>
+    <test>AMD A85545M APU with Radeon HD Graphics</test>
+    <test>Intel Celeron 3955U</test>
+    <test>Intel Pentium G630T</test>
+    <test>Intel Pentium J3710</test>
+    <test>AMD Athlon X2 340</test>
+    <test>AMD Athlon 7550 DualCore</test>
+    <test>AMD Athlon X2 240</test>
+    <test>AMD Turion II P560 Dual-Core</test>
+    <test>AMD Opteron 4170 HE</test>
+    <test>AMD Athlon 64 X2 5600+</test>
+    <test>AMD A107300 Radeon R6 10 Compute Cores 4C+6G</test>
+    <test>AMD A43300 APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Duo P8600</test>
+    <test>AMD E26110 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD Phenom II N620 DualCore</test>
+    <test>AMD Athlon 7550 Dual-Core</test>
+    <test>Intel PentiumN3530</test>
+    <test>AMD Opteron 265</test>
+    <test>AMD A45300 APU with Radeon HD Graphics</test>
+    <test>Intel Core i3-2377M</test>
+    <test>Athlon 64 5000+</test>
+    <test>QEMU Virtual version 091</test>
+    <test>AMD Phenom II P920</test>
+    <test>Intel Atom Z3745</test>
+    <test>Intel Core2 Duo E4600</test>
+    <test>AMD TurionX2 Ultra Mobile ZM86</test>
+    <test>Intel Core2 Duo P8400</test>
+    <test>Intel PentiumN3520</test>
+    <test>AMD A45300B APU with Radeon HD Graphics</test>
+    <test>AMD Phenom II P650 Dual-Core</test>
+    <test>Intel Pentium B980</test>
+    <test>AMD A45000 APU with Radeon HD Graphics</test>
+    <test>AMD GX415GA SOC with Radeon HD Graphics</test>
+    <test>Intel Pentium G620T</test>
+    <test>Intel Core2 Duo T8300</test>
+    <test>AMD Athlon 64 X2 5400+</test>
+    <test>Intel Atom x7-Z8750</test>
+    <test>Intel Pentium J2850</test>
+    <test>Intel PentiumJ3710</test>
+    <test>Intel Xeon E5-1680 v2</test>
+    <test>AMD Athlon 5200B</test>
+    <test>AMD A99400 Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Pentium 3560M</test>
+    <test>AMD Athlon X2 340 Dual Core</test>
+    <test>Intel CeleronJ1900</test>
+    <test>Intel Core2 6420</test>
+    <test>Intel Core2 Duo P7370</test>
+    <test>DualCore AMD Opteron 1218</test>
+    <test>QEMU Virtual version 0141</test>
+    <test>Intel Atom Z3740</test>
+    <test>Intel Pentium P6300</test>
+    <test>Intel Core2 Duo E6550</test>
+    <test>Intel Core2 Duo E6540</test>
+    <test>Intel Core2 T7400</test>
+    <test>Intel Pentium E6500</test>
+    <test>Intel Pentium N3520</test>
+    <test>Pentium DualCore T4500</test>
+    <test>Intel Core2 6400</test>
+    <test>AMD Athlon 5200 DualCore</test>
+    <test>AMD Athlon 64 X2 5200+</test>
+    <test>Intel Celeron G550T</test>
+    <test>Intel Core i7-3820QM</test>
+    <test>DualCore AMD Opteron 2212</test>
+    <test>Intel Pentium E6600</test>
+    <test>AMD Phenom II P650 DualCore</test>
+    <test>Intel Celeron J1900</test>
+    <test>Intel Core i5 U 520</test>
+    <test>AMD A4-4000 APU</test>
+    <test>AMD E2-3200 APU</test>
+    <test>Intel Pentium DualE2200</test>
+    <test>Intel Core i3-2367M</test>
+    <test>AMD E23200 APU with Radeon HD Graphics</test>
+    <test>AMD Turion II Ultra DualCore Mobile M640</test>
+    <test>Intel Celeron J3355</test>
+    <test>Intel Atom x5-Z8550</test>
+    <test>AMD A4-3300 APU</test>
+    <test>Intel Core2 Duo T6670</test>
+    <test>AMD Turion II Ultra Mobile M620</test>
+    <test>AMD Phenom II P840</test>
+    <test>Intel Celeron 2950M</test>
+    <test>AMD Athlon 7450 DualCore</test>
+    <test>Intel Core2 Duo P9600</test>
+    <test>Intel Core2 Duo T8100</test>
+    <test>AMD A6-5350M APU</test>
+    <test>Intel Atom x5Z8330</test>
+    <test>AMD Turion II P560 DualCore</test>
+    <test>Intel Xeon E5-205</test>
+    <test>AMD A69210 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Core2 Duo P7450</test>
+    <test>Athlon 4850e</test>
+    <test>Intel Pentium B970</test>
+    <test>AMD A44020 APU with Radeon HD Graphics</test>
+    <test>Intel Xeon 3065</test>
+    <test>Pentium DualCore T4400</test>
+    <test>Intel PentiumN3700</test>
+    <test>AMD Athlon 5050e</test>
+    <test>Intel Atom x7-Z8700</test>
+    <test>Intel Core2 Duo E4500</test>
+    <test>AMD Phenom II P820 Triple-Core</test>
+    <test>Intel Xeon E5-503</test>
+    <test>Intel Pentium N3700</test>
+    <test>Intel Pentium DualCPUE2220</test>
+    <test>QEMU Virtual version 0151</test>
+    <test>AMD A4-5150M APU</test>
+    <test>AMD A87100 Radeon R5 8 Compute Cores 4C+4G</test>
+    <test>AMD Turion II N530 DualCore</test>
+    <test>AMD Turion II N530 Dual-Core</test>
+    <test>Intel Core2 T6600</test>
+    <test>Intel Core2 Duo T6570</test>
+    <test>Pentium T4400</test>
+    <test>Intel Xeon 3050</test>
+    <test>AMD Phenom II P820</test>
+    <test>AMD Opteron 250</test>
+    <test>Intel Pentium E5200</test>
+    <test>Intel Pentium CPUN3540</test>
+    <test>Intel Celeron E3200</test>
+    <test>Intel Core2 Duo T6600</test>
+    <test>AMD Athlon 5400B</test>
+    <test>AMD Athlon 64 X2 5000+</test>
+    <test>Pentium T4500</test>
+    <test>Intel Core i3-4010Y</test>
+    <test>Intel Core i3-4012Y</test>
+    <test>Celeron DualCore T3500</test>
+    <test>Intel Core2 4400</test>
+    <test>AMD Athlon64 X24200+</test>
+    <test>AMD Turion II Ultra DualCore Mobile M660</test>
+    <test>Intel Atom x5Z8350</test>
+    <test>Athlon 64 4400+</test>
+    <test>AMD Turion II P540 Dual-Core</test>
+    <test>AMD A6-9230 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Celeron G540T</test>
+    <test>AMD A6-9225 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Opteron 6134</test>
+    <test>AMD Turion II Ultra DualCore Mobile M600</test>
+    <test>AMD Sempron X2 190</test>
+    <test>Intel Core26420</test>
+    <test>Intel Pentium DualE2180</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-66</test>
+    <test>Pentium DualCoreE2210</test>
+    <test>Intel Core2 Duo T5850</test>
+    <test>Intel Core i5-2400S</test>
+    <test>AMD Opteron 175</test>
+    <test>AMD Opteron 180</test>
+    <test>AMD Athlon 5000 DualCore</test>
+    <test>AMD Opteron 252</test>
+    <test>Intel Celeron N3350</test>
+    <test>AMD A44000 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon 4850B</test>
+    <test>Intel Core2 Duo T6500</test>
+    <test>Intel AtomZ3795</test>
+    <test>Pentium DualCore T4300</test>
+    <test>AMD Turion II Ultra DualCore Mobile M620</test>
+    <test>AMD Turion II DualCore Mobile M540</test>
+    <test>Intel Core2 Duo P7350</test>
+    <test>Intel Core26400</test>
+    <test>Intel Atom Z3735E</test>
+    <test>Intel Core Duo T2700</test>
+    <test>Intel Xeon 5110</test>
+    <test>Intel Pentium A1018</test>
+    <test>AMD Turion II Mobile M520</test>
+    <test>Intel Pentium B960</test>
+    <test>AMD Athlon 5000B</test>
+    <test>Intel Core2 Duo T6400</test>
+    <test>AMD A6-9220 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Turion II P540 DualCore</test>
+    <test>Intel Core i5-3470S</test>
+    <test>AMD Athlon 4850e</test>
+    <test>AMD A65350M APU with Radeon HD Graphics</test>
+    <test>Intel Pentium DualCPUE2200</test>
+    <test>Intel Celeron N3160</test>
+    <test>Intel Pentium DualT3400</test>
+    <test>Intel Xeon E5-2407 0</test>
+    <test>AMD E2-3800 APU</test>
+    <test>Celeron T3300</test>
+    <test>Intel Core i5-2467M</test>
+    <test>AMD Turion II P520 Dual-Core</test>
+    <test>Intel PentiumP6100</test>
+    <test>Intel CeleronJ3160</test>
+    <test>Intel Celeron J3160</test>
+    <test>AMD Athlon X2 BE2400</test>
+    <test>AMD Athlon II M340</test>
+    <test>AMD A65357M APU with Radeon HD Graphics</test>
+    <test>AMD Opteron 254</test>
+    <test>Intel Core2 Duo L9600</test>
+    <test>AMD A6-9210 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Core i3-2365M</test>
+    <test>AMD Athlon 64 X2 4800+</test>
+    <test>Intel PentiumP6200</test>
+    <test>DualCore AMD Opteron 1214</test>
+    <test>AMD A8-4555M APU</test>
+    <test>Intel Atom x5Z8300</test>
+    <test>AMD TurionX2 Mobile RM76</test>
+    <test>Celeron T3500</test>
+    <test>Intel Core2 Duo P7550</test>
+    <test>Intel Celeron 4205U</test>
+    <test>Intel Pentium P6200</test>
+    <test>AMD Turion II Mobile M500</test>
+    <test>Intel Celeron P4600</test>
+    <test>Intel Core2 Duo T5900</test>
+    <test>Intel Pentium E5300</test>
+    <test>Intel Atom Z3740D</test>
+    <test>AMD Sempron 3850 APU with Radeon R3</test>
+    <test>Celeron DualCore T3300</test>
+    <test>AMD Athlon II N330 DualCore</test>
+    <test>AMD A4 Micro6400T APU + AMD Radeon R3 Graphics</test>
+    <test>Intel Pentium B950</test>
+    <test>Pentium T4300</test>
+    <test>AMD Turion DualCore ZM82</test>
+    <test>Intel Core2 6300</test>
+    <test>Intel Core 2 Solo</test>
+    <test>Intel Core2 6320</test>
+    <test>Intel Celeron 3867U</test>
+    <test>Intel Core i3 U 380</test>
+    <test>Intel Pentium CPUN3700</test>
+    <test>Intel Pentium DualCPUT3400</test>
+    <test>AMD A45150M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II P360 Dual-Core</test>
+    <test>AMD A43310MX APU with Radeon HD Graphics</test>
+    <test>AMD Turion II DualCore Mobile M520</test>
+    <test>AMD Athlon X4 530 Core</test>
+    <test>Intel Celeron G1610T</test>
+    <test>Intel Core2 Duo E6400</test>
+    <test>Intel Xeon 3040</test>
+    <test>Pentium DualCore T4200</test>
+    <test>Intel Core 2 Duo</test>
+    <test>Genuine Intel 2160</test>
+    <test>Intel Pentium 3805U</test>
+    <test>Intel Core2 4300</test>
+    <test>Intel CeleronN2940</test>
+    <test>Intel Core2 Duo T7500</test>
+    <test>AMD Athlon X2 DualCore QL67</test>
+    <test>Pentium T4200</test>
+    <test>Intel Atom Z3735G</test>
+    <test>Intel Core i3-3229Y</test>
+    <test>Intel Celeron 1005M</test>
+    <test>AMD Athlon 64 X2 4600+</test>
+    <test>AMD Turion II P520 DualCore</test>
+    <test>Intel Atom Z3736F</test>
+    <test>Intel Pentium 2127U</test>
+    <test>Intel Atom Z3735F</test>
+    <test>AMD Athlon II P360 DualCore</test>
+    <test>Intel Celeron N2940</test>
+    <test>AMD E23800 APU with Radeon HD Graphics</test>
+    <test>Intel Atom x5-Z8500</test>
+    <test>Intel Celeron B840</test>
+    <test>Celeron DualCore T3100</test>
+    <test>Procesor Intel Pentium II</test>
+    <test>Intel Core2 T5600</test>
+    <test>Intel Pentium DualE2160</test>
+    <test>Intel Core2 Duo T5870</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL68</test>
+    <test>Intel Pentium DualCPUT3200</test>
+    <test>Intel Celeron 3865U</test>
+    <test>Intel Pentium DualT3200</test>
+    <test>Intel Pentium B940</test>
+    <test>AMD TurionX2 Ultra Mobile ZM82</test>
+    <test>AMD A4-3310MX APU</test>
+    <test>AMD A6-4400M APU</test>
+    <test>Intel Pentium DualCPUE2180</test>
+    <test>Intel Celeron E1500</test>
+    <test>Intel Core Duo T2600</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL66</test>
+    <test>Genuine Intel T1700</test>
+    <test>AMD Athlon II P340 Dual-Core</test>
+    <test>AMD Turion II DualCore Mobile M500</test>
+    <test>Intel Pentium P6100</test>
+    <test>Intel Core2 Duo L9400</test>
+    <test>AMD Athlon 4450e</test>
+    <test>Intel Celeron 3765U</test>
+    <test>AMD Athlon II P340 DualCore</test>
+    <test>AMD A6-1450 APU</test>
+    <test>AMD TurionX2 Mobile RM74</test>
+    <test>Intel Celeron 3215U</test>
+    <test>Intel Atom Z3745D</test>
+    <test>Intel Core i5-3330S</test>
+    <test>Intel Core2 Duo E4400</test>
+    <test>AMD A8-4555M APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Duo T7300</test>
+    <test>AMD Athlon X2 BE2350</test>
+    <test>Intel Core2 E7600</test>
+    <test>AMD Athlon64 X23800+</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM86</test>
+    <test>AMD QC4000</test>
+    <test>Intel Celeron N2930</test>
+    <test>AMD Athlon II M320</test>
+    <test>AMD Athlon 64 X2 4400+</test>
+    <test>Intel Celeron 1000M</test>
+    <test>AMD Athlon II DualCore M340</test>
+    <test>AMD Opteron 248</test>
+    <test>DualCore AMD Opteron 1212</test>
+    <test>AMD AthlonX2 QL66</test>
+    <test>AMD A43330MX APU with Radeon HD Graphics</test>
+    <test>AMD Athlon64 X24400+</test>
+    <test>AMD Opteron 170</test>
+    <test>Intel CeleronN2920</test>
+    <test>AMD Turion X2 Ultra Mobile ZM-82</test>
+    <test>DualCore AMD Opteron 1216</test>
+    <test>Intel Core26300</test>
+    <test>Celeron DualCore T3000</test>
+    <test>Intel Atom x5-E8000</test>
+    <test>AMD Turion II Neo N54L DualCore</test>
+    <test>Intel Core i3 U 330</test>
+    <test>Intel Celeron N3150</test>
+    <test>Intel Celeron P4500</test>
+    <test>AMD A6-9200 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-64</test>
+    <test>Intel Pentium P6000</test>
+    <test>Intel Pentium DualT2390</test>
+    <test>AMD A84555M APU with Radeon HD Graphics</test>
+    <test>Intel Core2 Duo T5750</test>
+    <test>Intel Core2 Duo T5800</test>
+    <test>AMD Opteron 165</test>
+    <test>Intel AtomE3845</test>
+    <test>AMD PRO A4-4350B R4 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Atom Z3735D</test>
+    <test>QEMU Virtual version 0140</test>
+    <test>AMD Athlon 4450B</test>
+    <test>Intel Celeron N2920</test>
+    <test>AMD Turion X2 Mobile RM-74</test>
+    <test>Celeron T3000</test>
+    <test>Intel CeleronN3150</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM84</test>
+    <test>Intel Celeron 1037U</test>
+    <test>Intel Core2 Duo T7250</test>
+    <test>Intel Pentium DualT2410</test>
+    <test>AMD Athlon II P320 DualCore</test>
+    <test>AMD A65345M APU with Radeon HD Graphics</test>
+    <test>Genuine Intel T1500</test>
+    <test>AMD Athlon II P320 Dual-Core</test>
+    <test>AMD Athlon 64 X2 4200+</test>
+    <test>Intel Celeron U1800</test>
+    <test>Genuine Intel T2600</test>
+    <test>Intel Core2 T7200</test>
+    <test>AMD Turion 64 X2 TL62</test>
+    <test>Genuine Intel T2500</test>
+    <test>AMD A4-3330MX APU</test>
+    <test>AMD E2-9010 Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>AMD Athlon II DualCore M320</test>
+    <test>Intel Celeron J1850</test>
+    <test>Intel Braswell E8000 core104GHZ</test>
+    <test>QEMU Virtual version 0121</test>
+    <test>AMD AthlonX2 QL62</test>
+    <test>AMD A4-9120 Radeon R3 4 COMPUTE CORES 2C+2G</test>
+    <test>AMD Turion II Neo N54L Dual-Core</test>
+    <test>AMD Opteron 6132 HE</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL64</test>
+    <test>Intel Core26320</test>
+    <test>Intel Xeon L5609</test>
+    <test>AMD R272F APU with Radeon HD Graphics</test>
+    <test>AMD A43305M APU with Radeon HD Graphics</test>
+    <test>QEMU Virtual version 0150</test>
+    <test>AMD Athlon X2 BE2300</test>
+    <test>Genuine Intel 2140</test>
+    <test>Intel Pentium 2117U</test>
+    <test>Intel Core2 Duo L7700</test>
+    <test>AMD Turion DualCore RM75</test>
+    <test>Intel Core i3-2357M</test>
+    <test>AMD A4-9125 Radeon R3 4 COMPUTE CORES 2C+2G</test>
+    <test>AMD E29010 Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>Intel Core Duo T2500</test>
+    <test>AMD TurionX2 Ultra Mobile ZM84</test>
+    <test>AMD Turion II Ultra Mobile M600</test>
+    <test>AMD AthlonX2 QL64</test>
+    <test>(up to 14GHz)</test>
+    <test>Intel Core24300</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM82</test>
+    <test>Celeron T3100</test>
+    <test>AMD A4-3305M APU</test>
+    <test>Intel Pentium 3556U</test>
+    <test>AMD Turion X2 Ultra Mobile ZM-80</test>
+    <test>e Intel Pentium Pro</test>
+    <test>Intel Core2 Duo E4300</test>
+    <test>Athlon 4050e</test>
+    <test>AMD Athlon DualCore QL64</test>
+    <test>Intel Pentium DualE2140</test>
+    <test>AMD Athlon 64 X2 TK55</test>
+    <test>Intel Pentium 3558U</test>
+    <test>Intel Pentium DualCPUE2160</test>
+    <test>AMD A43320M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon 4050e</test>
+    <test>AMD A6-9220C Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD A64400M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon 7450 Dual-Core</test>
+    <test>AMD Athlon 64 X2 BE2350</test>
+    <test>AMD Athlon 64 X2 3600+</test>
+    <test>AMD Sempron 2200</test>
+    <test>AMD Athlon 5000 Dual-Core</test>
+    <test>Intel Celeron 3855U</test>
+    <test>AMD Turion X2 DualCore Mobile RM75</test>
+    <test>Intel Celeron B830</test>
+    <test>AMD A4-4300M APU</test>
+    <test>Intel Core Duo T2450</test>
+    <test>AMD A43300M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II M300</test>
+    <test>Intel Core2 Duo T5550</test>
+    <test>AMD Athlon II DualCore M300</test>
+    <test>Intel Celeron 3205U</test>
+    <test>Intel Core2 Duo T5670</test>
+    <test>AMD A87050 Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>AMD TurionX2 Mobile RM72</test>
+    <test>AMD Athlon 64 X2 4000+</test>
+    <test>AMD A61450 APU with Radeon HD Graphics</test>
+    <test>Intel CeleronN3160</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM85</test>
+    <test>AMD A4-3320M APU</test>
+    <test>AMD Athlon X2 QL-65</test>
+    <test>AMD E29000 Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>Intel Pentium DualCPUT2370</test>
+    <test>AMD A9-9420e Radeon R5 5 COMPUTE CORES 2C+3G</test>
+    <test>Intel Xeon E7-8850</test>
+    <test>AMD Turion X2 DualCore Mobile RM72</test>
+    <test>Intel Core2 Duo U9600</test>
+    <test>AMD Athlon X2 DualCore QL65</test>
+    <test>AMD Athlon DualCore QL62</test>
+    <test>AMD Turion X2 Mobile RM-70</test>
+    <test>Intel Pentium DualT2370</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM87</test>
+    <test>Intel Atom E3-845</test>
+    <test>Intel Core24400</test>
+    <test>AMD Athlon X2 QL-62</test>
+    <test>AMD Sempron 2100</test>
+    <test>AMD Athlon X2 DualCore QL64</test>
+    <test>AMD A8-7050 Radeon R5 6 Compute Cores 2C+4G</test>
+    <test>AMD Athlon DualCore QL65</test>
+    <test>Intel Core2 T5300</test>
+    <test>AMD A69200 Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Turion X2 DualCore Mobile RM74</test>
+    <test>Intel Core2 Duo T5470</test>
+    <test>Genuine Intel2160</test>
+    <test>Intel Pentium DualCPUT2390</test>
+    <test>Genuine Intel T2400</test>
+    <test>Genuine Intel L2400</test>
+    <test>AMD Turion 64 X2 TL58</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL60</test>
+    <test>AMD Turion X2 Ultra DualCore Mobile ZM80</test>
+    <test>AMD Turion 64 X2 TL60</test>
+    <test>Intel Celeron G465</test>
+    <test>AMD Turion X2 Mobile RM-72</test>
+    <test>AMD E2-9030 Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>AMD Turion X2 Mobile RM-75</test>
+    <test>AMD E23000M APU with Radeon HD Graphics</test>
+    <test>AMD Athlon II X2 270u</test>
+    <test>Intel Celeron B820</test>
+    <test>AMD Turion DualCore RM70</test>
+    <test>AMD Athlon 64 X2 3800+</test>
+    <test>Intel Core2 L7400</test>
+    <test>Intel Core Duo T2400</test>
+    <test>AMD Athlon DualCore QL60</test>
+    <test>AMD A4-3300M APU</test>
+    <test>AMD Opteron 246</test>
+    <test>AMD A44300M APU with Radeon HD Graphics</test>
+    <test>AMD TurionX2 Mobile RM70</test>
+    <test>Intel Pentium D</test>
+    <test>Intel Core Duo T2350</test>
+    <test>AMD Athlon 64 FX59</test>
+    <test>DualCore AMD Opteron 1210</test>
+    <test>Intel Core2 Duo T7100</test>
+    <test>Intel Pentium N3510</test>
+    <test>Intel Celeron 2980U</test>
+    <test>Genuine Intel T2130</test>
+    <test>Intel Pentium DualT2330</test>
+    <test>Intel Celeron 1017U</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL62</test>
+    <test>Processador Intel Pentium II</test>
+    <test>AMD Sempron 150</test>
+    <test>AMD Athlon X2 DualCore QL62</test>
+    <test>AMD Athlon II X2 260u</test>
+    <test>Intel Celeron B815</test>
+    <test>AMD Turion DualCore ZM80</test>
+    <test>AMD Athlon 64 X2 DualCore TK57</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-58</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL58</test>
+    <test>AMD A6-7000 Radeon R4 5 Compute Cores 2C+3G</test>
+    <test>AMD Athlon QL-64</test>
+    <test>Genuine Intel2140</test>
+    <test>AMD AthlonX2 QL60</test>
+    <test>AMD Turion DualCore RM72</test>
+    <test>Intel Celeron E1200</test>
+    <test>AMD Athlon 64 X2 TK-55</test>
+    <test>Genuine Intel 1300</test>
+    <test>AMD Athlon 64 FX57</test>
+    <test>Genuine Intel T2300</test>
+    <test>Genuine Intel T2080</test>
+    <test>AMD Turion II Neo K625 Dual-Core</test>
+    <test>Genuine Intel T1600</test>
+    <test>Genuine Intel T2250</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL56</test>
+    <test>Intel Core2 Duo L7500</test>
+    <test>AMD Turion X2 DualCore Mobile RM77</test>
+    <test>AMD Athlon X2 DualCore QL60</test>
+    <test>Intel Celeron 887</test>
+    <test>Intel Celeron 3965Y</test>
+    <test>AMD Athlon QL-60</test>
+    <test>AMD Athlon X2 QL-64</test>
+    <test>Intel Core2 T5500</test>
+    <test>Intel Pentium DualCPUE2140</test>
+    <test>AMD GX217GA SOC with Radeon HD Graphics</test>
+    <test>AMD Athlon 64 X2 DualCore TK55</test>
+    <test>Intel Core Duo T2250</test>
+    <test>AMD Athlon 64 X2 3400+</test>
+    <test>AMD Athlon 64 X2 TK53</test>
+    <test>Intel Celeron G460</test>
+    <test>Intel Atom x5-Z8350</test>
+    <test>AMD A6 PRO7050B R4 5 Compute Cores 2C+3G</test>
+    <test>AMD E2-9000 Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>Intel Atom E3-930</test>
+    <test>Intel Celeron 1007U</test>
+    <test>AMD Turion X2 DualCore Mobile RM70</test>
+    <test>Intel Core Duo L2500</test>
+    <test>Genuine Intel T2050</test>
+    <test>Intel Atom x5-Z8330</test>
+    <test>Intel Pentium 997</test>
+    <test>Intel Core2 Duo T5450</test>
+    <test>Intel Celeron 2957U</test>
+    <test>Intel Core2 Duo L9300</test>
+    <test>Procesor Intel Pentium III</test>
+    <test>Intel Celeron G470</test>
+    <test>Intel CeleronN2930</test>
+    <test>AMD E2-3000M APU</test>
+    <test>AMD Athlon 64 X2 DualCore TK53</test>
+    <test>AMD Athlon Neo X2 6850e</test>
+    <test>AMD A6-4455M APU</test>
+    <test>AMD E2-3000 APU</test>
+    <test>Genuine Intel T2060</test>
+    <test>Intel Pentium E5400</test>
+    <test>Intel Celeron B800</test>
+    <test>Intel Core Duo L2400</test>
+    <test>Intel Pentium III</test>
+    <test>AMD Turion 64 X2</test>
+    <test>e Intel Pentium III</test>
+    <test>AMD A6-9220e Radeon R4 5 COMPUTE CORES 2C+3G</test>
+    <test>AMD Athlon QL-62</test>
+    <test>Intel Pentium DualT2310</test>
+    <test>Intel Core Duo T2300</test>
+    <test>Intel Celeron N2910</test>
+    <test>AMD Athlon LE1660</test>
+    <test>Intel Atom x5-Z8300</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-60</test>
+    <test>Intel Core i5-2557M</test>
+    <test>Intel Pentium DualCPUT2330</test>
+    <test>Genuine Intel T1400</test>
+    <test>AMD Turion II Neo K645 DualCore</test>
+    <test>Intel Celeron 877</test>
+    <test>Intel Celeron B810</test>
+    <test>AMD E23000 APU with Radeon HD Graphics</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL52</test>
+    <test>AMD A6 PRO-7050B R4 5 Compute Cores 2C+3G</test>
+    <test>AMD Athlon LE1640</test>
+    <test>AMD A67000 Radeon R4 5 Compute Cores 2C+3G</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL50</test>
+    <test>Intel Celeron CPUN3060</test>
+    <test>AMD Athlon II X2 250u</test>
+    <test>Intel Pentium 987</test>
+    <test>AMD Turion 64 Mobile Technology ML44</test>
+    <test>AMD Sempron 130</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-52</test>
+    <test>AMD Turion II Neo N40L Dual-Core</test>
+    <test>Genuine Intel U7300</test>
+    <test>AMD Opteron 244</test>
+    <test>Intel Celeron 2955U</test>
+    <test>AMD Turion 64 X2 Mobile Technology TL-56</test>
+    <test>Genuine Intel 1500</test>
+    <test>AMD Athlon 64 FX55</test>
+    <test>AMD Athlon 64 FX53</test>
+    <test>Intel Core2 Duo T5250</test>
+    <test>AMD Athlon Neo X2 L325</test>
+    <test>AMD Turion II Neo K625 DualCore</test>
+    <test>AMD Sempron 145</test>
+    <test>Intel Core2 Duo L7300</test>
+    <test>Intel Celeron 570</test>
+    <test>AMD Turion II Neo N40L DualCore</test>
+    <test>AMD Athlon 64 X2 DualCore TK42</test>
+    <test>AMD A4-4355M APU</test>
+    <test>AMD Turion 64 Mobile Technology ML42</test>
+    <test>AMD Turion RM-70</test>
+    <test>Intel Celeron CPUN2840</test>
+    <test>Genuine Intel L2300</test>
+    <test>Intel CeleronJ3060</test>
+    <test>Intel Core2 Duo T5270</test>
+    <test>AMD Opteron 148</test>
+    <test>AMD A4-9120e Radeon R3 4 COMPUTE CORES 2C+2G</test>
+    <test>Intel Celeron N2840</test>
+    <test>Intel CeleronJ1800</test>
+    <test>Intel CeleronN2840</test>
+    <test>AMD A64455M APU with Radeon HD Graphics</test>
+    <test>Intel Pentium 4</test>
+    <test>Intel Core2 Duo U7700</test>
+    <test>Intel Celeron J1800</test>
+    <test>AMD Sempron 2650 APU with Radeon R3</test>
+    <test>AMD Opteron 152</test>
+    <test>AMD Athlon 64 3300+</test>
+    <test>Intel Core i7-2677M</test>
+    <test>AMD Sempron 140</test>
+    <test>Intel Atom 330</test>
+    <test>Intel Celeron CPUN2830</test>
+    <test>Intel Atom Z2760</test>
+    <test>Intel Xeon E7-4860</test>
+    <test>AMD Athlon LE1620</test>
+    <test>AMD Athlon 64 3400+</test>
+    <test>AMD GX212JC SOC with Radeon R2E Graphics</test>
+    <test>Intel CeleronN3060</test>
+    <test>Intel Core2 Duo U9400</test>
+    <test>AMD Athlon 64 X2 TK-42</test>
+    <test>Intel Celeron 867</test>
+    <test>Intel Celeron 857</test>
+    <test>AMD Athlon XPM</test>
+    <test>AMD Athlon II Neo K345 DualCore</test>
+    <test>Intel Pentium DualCPUT2310</test>
+    <test>Intel Pentium 5</test>
+    <test>Genuine Intel U4100</test>
+    <test>Intel Celeron900</test>
+    <test>Intel Celeron925</test>
+    <test>Intel Atom E3827</test>
+    <test>Intel Core2 Duo U7600</test>
+    <test>AMD Athlon X2 QL-60</test>
+    <test>AMD Athlon2800+</test>
+    <test>Intel Pentium 967</test>
+    <test>AMD A44355M APU with Radeon HD Graphics</test>
+    <test>Intel Celeron U3600</test>
+    <test>AMD E2-9000e Radeon R2 4 COMPUTE CORES 2C+2G</test>
+    <test>AMD E1-7010 APU with AMD Radeon R2 Graphics</test>
+    <test>Intel Celeron N2820</test>
+    <test>AMD V160</test>
+    <test>Intel Pentium U5400</test>
+    <test>AMD Athlon XP 3200+</test>
+    <test>Intel Core2 U7600</test>
+    <test>AMD GT56N</test>
+    <test>AMD Athlon XP3200+</test>
+    <test>Intel Celeron J3060</test>
+    <test>AMD Athlon LE1600</test>
+    <test>Intel Pentium III family1266MHz</test>
+    <test>AMD Athlon XP2800+</test>
+    <test>mobile AMD Athlon XP2800+</test>
+    <test>Intel Core2 T5200</test>
+    <test>Intel Core2 Duo L7100</test>
+    <test>AMD Athlon Neo X2 L335</test>
+    <test>Intel CeleronN2830</test>
+    <test>AMD Turion 64 Mobile Technology ML40</test>
+    <test>Intel Celeron N2830</test>
+    <test>AMD Athlon XP 2700+</test>
+    <test>e Intel Celeron</test>
+    <test>AMD E16015 APU with Radeon R2 Graphics</test>
+    <test>AMD E2-7015 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD Sempron LE1250</test>
+    <test>Intel Celeron N3060</test>
+    <test>Intel Core Duo</test>
+    <test>AMD E12500 APU with Radeon HD Graphics</test>
+    <test>AMD Sempron LE1300</test>
+    <test>Intel Pentium U5600</test>
+    <test>AMD Opteron 144</test>
+    <test>Intel CeleronN2820</test>
+    <test>AMD Athlon XP 3100+</test>
+    <test>AMD Athlon 64 X2 TK-53</test>
+    <test>AMD Athlon 64 4000+</test>
+    <test>AMD E22000 APU with Radeon HD Graphics</test>
+    <test>Mobile AMD Athlon 64 3400+</test>
+    <test>AMD E17010 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD E1-2500 APU</test>
+    <test>Intel Core2 Duo U7500</test>
+    <test>AMD Athlon XP 3000+</test>
+    <test>AMD Turion 64 Mobile Technology MT37</test>
+    <test>AMD Athlon II Neo N36L DualCore</test>
+    <test>AMD E1-6015 APU with Radeon R2 Graphics</test>
+    <test>Intel Atom D2700</test>
+    <test>AMD Athlon X2 3250e</test>
+    <test>mobile AMD Athlon XPM 2800+</test>
+    <test>Mobile AMD Athlon 64 4000+</test>
+    <test>AMD E21800 APU with Radeon HD Graphics</test>
+    <test>Intel Celeron M 450</test>
+    <test>Intel Pentium III S 1400MHz</test>
+    <test>AMD Athlon XP2600+</test>
+    <test>AMD Athlon 1640B</test>
+    <test>Intel Celeron450</test>
+    <test>AMD E16010 APU with AMD Radeon R2 Graphics</test>
+    <test>AMD G-T56N</test>
+    <test>AMD E2-2000 APU</test>
+    <test>AMD Athlon LE-1660</test>
+    <test>AMD Athlon 64 3800+</test>
+    <test>AMD Athlon XP3000+</test>
+    <test>Intel Celeron 1019Y</test>
+    <test>Intel Core2 U7500</test>
+    <test>Intel Core2 U7700</test>
+    <test>Intel Celeron N3010</test>
+    <test>AMD E450D APU with Radeon HD Graphics</test>
+    <test>AMD Athlon XP 2800+</test>
+    <test>AMD Turion 64 Mobile Technology MK38</test>
+    <test>Intel Celeron N2807</test>
+    <test>AMD E350</test>
+    <test>AMD Athlon XP2400+</test>
+    <test>AMD E350D APU with Radeon HD Graphics</test>
+    <test>AMD E16015 APU with Radeon HD Graphics</test>
+    <test>AMD E2-1800 APU</test>
+    <test>AMD E1-6010 APU with AMD Radeon R2 Graphics</test>
+    <test>mobile AMD Athlon XPM 2600+</test>
+    <test>Intel Celeron N3000</test>
+    <test>AMD Sempron 3300+</test>
+    <test>Unknown Typ</test>
+    <test>AMD Sempron LE1200</test>
+    <test>Mobile AMD Sempron 3300+</test>
+    <test>Intel Celeron N2815</test>
+    <test>Intel Core2 Duo U9300</test>
+    <test>AMD Athlon XP 2900+</test>
+    <test>Intel CeleronN2815</test>
+    <test>AMD Sempron M120</test>
+    <test>Intel Celeron 925</test>
+    <test>Intel Celeron N2808</test>
+    <test>Intel Celeron 847E</test>
+    <test>Intel Pentium D266GHz</test>
+    <test>Intel Pentium 3560Y</test>
+    <test>AMD Turion 64 Mobile Technology ML37</test>
+    <test>AMD Athlon II Neo K325 DualCore</test>
+    <test>Intel Celeron 900</test>
+    <test>AMD Athlon XP 2400+</test>
+    <test>Intel CeleronN3050</test>
+    <test>Intel Core Duo U2400</test>
+    <test>Genuine Intel U2500</test>
+    <test>AMD Athlon QI46</test>
+    <test>AMD Turion 64 Mobile Technology MT32</test>
+    <test>AMD E1-6015 APU</test>
+    <test>AMD E450 APU with Radeon HD Graphics</test>
+    <test>Intel Core Duo U2500</test>
+    <test>Mobile AMD Athlon 64 3000+</test>
+    <test>AMD E3-50D APU with Radeon HD Graphics</test>
+    <test>mobile AMD Athlon XPM 2400+</test>
+    <test>AMD Athlon XP 2600+</test>
+    <test>Mobile AMD Sempron 3800+</test>
+    <test>Intel Atom N2800</test>
+    <test>AMD V140</test>
+    <test>Mobile AMD Sempron 3600+</test>
+    <test>AMD Sempron LE-1250</test>
+    <test>Intel Celeron CPUN3050</test>
+    <test>Genuine Intel 585</test>
+    <test>AMD E3-50 APU with Radeon HD Graphics</test>
+    <test>Intel Pentium 2129Y</test>
+    <test>AMD E3-50</test>
+    <test>Genuine Intel U2300</test>
+    <test>AMD Athlon II Neo K325 Dual-Core</test>
+    <test>Mobile AMD Athlon XP 2500+</test>
+    <test>AMD Sempron2600+</test>
+    <test>AMD Sempron LE1150</test>
+    <test>mobile AMD Athlon XP2500+</test>
+    <test>Genuine Intel T1350</test>
+    <test>Intel Celeron 560</test>
+    <test>Mobile AMD Sempron 3100+</test>
+    <test>AMD E-350</test>
+    <test>AMD Hammer Family Model Unknown</test>
+    <test>AMD V120</test>
+    <test>AMD Turion 64 Mobile Technology MK36</test>
+    <test>Unknow Type</test>
+    <test>Intel Celeron N2806</test>
+    <test>Intel Celeron N3050</test>
+    <test>Genuine Intel U2400</test>
+    <test>AMD Sempron LE1100</test>
+    <test>Intel Celeron 847</test>
+    <test>AMD GT48E</test>
+    <test>Intel Pentium III family1133MHz</test>
+    <test>Intel Celeron M 530</test>
+    <test>Intel Atom D525</test>
+    <test>AMD Turion 64 Mobile Technology MT34</test>
+    <test>Intel Pentium M</test>
+    <test>AMD Sempron SI42</test>
+    <test>Intel Atom D2550</test>
+    <test>AMD E-450 APU</test>
+    <test>Mobile AMD Athlon 64 3700+</test>
+    <test>AMD Sempron 3500+</test>
+    <test>AMD Athlon XP 2500+</test>
+    <test>AMD E350 APU with Radeon HD Graphics</test>
+    <test>Mobile AMD Sempron</test>
+    <test>Intel Celeron U3400</test>
+    <test>AMD E-350D APU</test>
+    <test>AMD Athlon II 170u</test>
+    <test>AMD Athlon 64 2800+</test>
+    <test>AMD Athlon X2 L310</test>
+    <test>AMD Turion 64 Mobile Technology ML34</test>
+    <test>AMD E-350 APU</test>
+    <test>AMD Turion 64 Mobile Technology ML32</test>
+    <test>Intel Celeron M 440</test>
+    <test>Mobile AMD Athlon XP 2400+</test>
+    <test>AMD Turion 64 Mobile ML32</test>
+    <test>Mobile Intel Pentium 4</test>
+    <test>mobile AMD Athlon XPM 2200+</test>
+    <test>mobile AMD Athlon XP2200+</test>
+    <test>Intel Celeron 530</test>
+    <test>mobile AMD Athlon XP2400+</test>
+    <test>AMD Turion 64</test>
+    <test>Genuine Intel T1300</test>
+    <test>Mobile AMD Athlon 64 3200+</test>
+    <test>AMD Opteron 146</test>
+    <test>AMD Sempron 2600+</test>
+    <test>AMD Sempron SI40</test>
+    <test>AMD Athlon XP 2200+</test>
+    <test>Intel Celeron M 430</test>
+    <test>AMD E11500 APU with Radeon HD Graphics</test>
+    <test>Intel Celeron N2810</test>
+    <test>AMD Athlon TF36</test>
+    <test>Unknown Type</test>
+    <test>AMD Athlon 64 3200+</test>
+    <test>Intel Atom N570</test>
+    <test>Mobile AMD Sempron 3400+</test>
+    <test>AMD Athlon XP 2100+</test>
+    <test>Mobile AMD Sempron 3000+</test>
+    <test>AMD Athlon II Neo K125</test>
+    <test>Intel Celeron M 520</test>
+    <test>AMD Sempron</test>
+    <test>Mobile AMD Sempron 3500+</test>
+    <test>Intel Atom N2600</test>
+    <test>mobile AMD Athlon XP2000+</test>
+    <test>Intel Celeron 1300MHz</test>
+    <test>Mobile AMD Athlon XPM 3000+</test>
+    <test>AMD E11200 APU with Radeon HD Graphics</test>
+    <test>Intel Atom D510</test>
+    <test>Intel Pentium M 1600MHz</test>
+    <test>AMD Turion 64 Mobile Technology ML28</test>
+    <test>Intel AtomE3827</test>
+    <test>Intel Atom330</test>
+    <test>Intel Celeron M 420</test>
+    <test>AMD Sempron 2400+</test>
+    <test>VIA Eden X2 U4200 10+ GHz</test>
+    <test>Mobile AMD Sempron 3200+</test>
+    <test>Intel Celeron M 1500MHz</test>
+    <test>AMD Turion 64 Mobile Technology ML30</test>
+    <test>Intel Celeron G440</test>
+    <test>Intel Core i7-2675QM</test>
+    <test>Intel Pentium M 1700MHz</test>
+    <test>AMD Sempron 2500+</test>
+    <test>AMD Sempron 3600+</test>
+    <test>AMD Athlon 64 3500+</test>
+    <test>AMD E1-1500 APU</test>
+    <test>Mobile AMD Sempron 2800+</test>
+    <test>AMD E300 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon XP 2000+</test>
+    <test>Procesor Intel Celeron</test>
+    <test>Intel Celeron M</test>
+    <test>mobile AMD Athlon XPM 2000+</test>
+    <test>AMD Sempron 2300+</test>
+    <test>AMD Athlon LE-1600</test>
+    <test>AMD E1-1200 APU</test>
+    <test>Intel Celeron 1400MHz</test>
+    <test>Intel Pentium M 1500MHz</test>
+    <test>AMD A41200 APU with Radeon HD Graphics</test>
+    <test>AMD C60</test>
+    <test>Intel Core2 Solo U3500</test>
+    <test>Intel Atom N550</test>
+    <test>Intel Celeron M 410</test>
+    <test>AMD Sempron2200+</test>
+    <test>mobile AMD Athlon XP 1800+</test>
+    <test>AMD E12100 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon XP2000+</test>
+    <test>AMD E1-2100 APU</test>
+    <test>AMD Sempron SI-42</test>
+    <test>AMD Turion 64 Mobile Technology MT30</test>
+    <test>AMD E3-00 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon XP 1900+</test>
+    <test>AMD Athlon XP 1800+</test>
+    <test>Intel Celeron 540</test>
+    <test>Intel Celeron M 1400MHz</test>
+    <test>AMD A41250 APU with Radeon HD Graphics</test>
+    <test>AMD E-450 APU with Radeon HD Graphics</test>
+    <test>Intel Celeron 450</test>
+    <test>Intel Celeron D 220</test>
+    <test>Intel Pentium M 1400MHz</test>
+    <test>Intel Celeron 550</test>
+    <test>AMD Sempron 2200+</test>
+    <test>Genuine Intel 575</test>
+    <test>AMD E-300 APU</test>
+    <test>Intel Core2 Duo P9300</test>
+    <test>Intel Celeron N2805</test>
+    <test>AMD Athlon XP 1700+</test>
+    <test>AMD C70 APU with Radeon HD Graphics</test>
+    <test>AMD Athlon 64 3700+</test>
+    <test>Intel Atom Z550</test>
+    <test>AMD Athlon 64 3000+</test>
+    <test>AMD C60 APU with Radeon HD Graphics</test>
+    <test>AMD GT40N</test>
+    <test>AMD A4-1250 APU</test>
+    <test>AMD Athlon MP</test>
+    <test>AMD Sempron LE-1300</test>
+    <test>AMD Athlon XP 1600+</test>
+    <test>AMD Sempron 210U</test>
+    <test>AMD Sempron 3000+</test>
+    <test>AMD Athlon XP1700+</test>
+    <test>Intel Celeron</test>
+    <test>VIA Nano U2250 (16GHz Capable)</test>
+    <test>AMD Athlon TF20</test>
+    <test>Intel Celeron 420</test>
+    <test>AMD Sempron 3200+</test>
+    <test>AMD Athlon Neo MV40</test>
+    <test>VIA Nano U22501300+MHz</test>
+    <test>AMD Athlon XP1600+</test>
+    <test>Genuine Intel N270</test>
+    <test>Intel Celeron 430</test>
+    <test>Intel Pentium III Mobile 1200MHz</test>
+    <test>AMD Sempron 3400+</test>
+    <test>Genuine Intel 230</test>
+    <test>AMD A4-1200 APU</test>
+    <test>AMD Athlon XP</test>
+    <test>Intel Pentium M 1300MHz</test>
+    <test>AMD Athlon II Neo K145</test>
+    <test>AMD Sempron SI-40</test>
+    <test>Mobile Intel Pentium III M1200MHz</test>
+    <test>Intel Celeron 220</test>
+    <test>AMD Athlon II 160u</test>
+    <test>Intel Core Solo U1500</test>
+    <test>AMD C50</test>
+    <test>AMD Duron</test>
+    <test>AMD Athlon XP 1500+</test>
+    <test>AMD Z01</test>
+    <test>Intel Core Solo U1400</test>
+    <test>Intel Core i5-2500S</test>
+    <test>Intel Atom N475</test>
+    <test>Intel Core Solo</test>
+    <test>Mobile AMD Athlon XP 1500+</test>
+    <test>Intel Core i7-3615QM</test>
+    <test>Genuine Intel U1400</test>
+    <test>Intel Celeron 1100MHz</test>
+    <test>Intel Atom Z540</test>
+    <test>AMD Sempron M100</test>
+    <test>Intel Atom N280</test>
+    <test>Intel Celeron 1200MHz</test>
+    <test>Intel Pentium III suoritin</test>
+    <test>Intel Atom N270</test>
+    <test>AMD C-60 APU</test>
+    <test>AMD Duron p</test>
+    <test>Intel Atom 230</test>
+    <test>Intel Pentium III Mobile 1133MHz</test>
+    <test>Intel Celeron 215</test>
+    <test>Intel Atom Z530</test>
+    <test>Intel Pentium III Mobile 1066MHz</test>
+    <test>Intel Pentium M 1200MHz</test>
+    <test>AMD Sempron 2300</test>
+    <test>AMD Sempron 3800+</test>
+    <test>Intel Celeron 1000MHz</test>
+    <test>AMD C-70 APU</test>
+    <test>Intel Celeron 1066MHz</test>
+    <test>AMD Sempron 3100+</test>
+    <test>AMD Athlon TF-20</test>
+    <test>AMD Turion Neo X2 L625</test>
+    <test>AMD Athlon 2650e</test>
+    <test>Intel Core2 SoloU3500</test>
+    <test>Intel Pentium M 1100MHz</test>
+    <test>Intel Pentium 4 Family</test>
+    <test>Mobile Intel Celeron 1200MHz</test>
+    <test>Intel Atom N470</test>
+    <test>AMD C-50</test>
+    <test>AMD Athlon L110</test>
+    <test>Intel Atom D2500</test>
+    <test>Intel AtomE3826</test>
+    <test>AMD E240</test>
+    <test>Intel Pentium III Mobile 1000MHz</test>
+    <test>Intel Atom Z670</test>
+    <test>Intel Celeron M 1300MHz</test>
+    <test>AMD Sempron 2800+</test>
+    <test>AMD Athlon Neo MV-40</test>
+    <test>Genuine Intel U1300</test>
+    <test>Intel Pentium III Mobile 866MHz</test>
+    <test>Intel Pentium M900MHz</test>
+    <test>Intel Celeron D</test>
+    <test>Intel Atom Z520</test>
+    <test>Intel Celeron 723</test>
+    <test>Genuine Intel U2700</test>
+    <test>Intel Pentium III Mobile 933MHz</test>
+    <test>Intel Pentium M 1000MHz</test>
+    <test>Intel Celeron743</test>
+    <test>Intel Atom Z560</test>
+    <test>Intel Atom Z515</test>
+    <test>Intel Atom N2100</test>
+    <test>AMD V105</test>
+    <test>AMD C-60</test>
+    <test>Mobile Intel Pentium III M1000MHz</test>
+    <test>Mobile Intel Celeron</test>
+    <test>Intel Celeron 743</test>
+    <test>Intel Celeron M900MHz</test>
+    <test>Intel Pentium 4 1800MHz</test>
+    <test>AMD C30</test>
+    <test>Intel Atom N435</test>
+    <test>AMD E-240</test>
+    <test>Mobile Intel Pentium 4 M</test>
+    <test>Intel Celeron 440</test>
+    <test>VIA C7M 6300MHz</test>
+    <test>AMD Athlon 2850e</test>
+    <test>Intel Pentium 4 Mobile</test>
+    <test>Intel Pentium III Mobile 800MHz</test>
+    <test>Intel Celeron D220</test>
+    <test>VIA C7D 1800MHz</test>
+    <test>Intel Atom D425</test>
+    <test>Intel Pentium 4 1700MHz</test>
+    <test>Genuine Intel 800MHz</test>
+    <test>Intel Atom N455</test>
+    <test>VIA C7 1500MHz</test>
+    <test>Intel Atom D410</test>
+    <test>VIA C7M 1600MHz</test>
+    <test>Intel Pentium 4 1600MHz</test>
+    <test>Intel Atom Z510</test>
+    <test>Intel Pentium 4 1500MHz</test>
+    <test>VIA Esther 1500MHz</test>
+    <test>Intel Pentium 4 1400MHz</test>
+    <test>Intel Pentium 4 1300MHz</test>
+    <test>Intel Atom N450</test>
+    <test>Transmeta Crusoe TM5800</test>
+    <test>AMDK7</test>
+    <test>VIA C7M 1200MHz</test>
+    <test>Intel Core i5-2435M</test>
+    <test>VIA Nehemiah</test>
+    <test>Intel Core i5-2415M</test>
+    <test>Intel Core i7-2635QM</test>
+    <test>586</test>
+    <test>Geode Integrated by AMD PCS</test>
+    <test>Intel Core i5-3335S</test>
+    <test>Intel Core2 Quad Q9300</test>
+    <test>AMD A10-5800K APU with Radeon(tm) HD Graphics</test>
+    <test>Intel Core2 Quad Q9450</test>
+    <test>Intel Core2 Quad Q9500</test>
+    <test>AMD FX(tm)-6300 Six-Core Processor</test>
+    <test>AMD FX(tm)-8350 Eight-Core Processor</test>
+    <test>AMD FX(tm)-9590 Eight-Core Processor</test>
+</ssds>

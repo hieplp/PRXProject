@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><hdds xmlns="prx/xml">
+    <hdd>
+        <name>HDD 10TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>10</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8532_o_cung_hdd_wd_gold_10tb.jpg</image>
+        <price>13990000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 8TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>8</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8528_o_cung_hdd_wd_gold_8tb.jpg</image>
+        <price>11480000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 6TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>6</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8533_o_cung_hdd_western_digital_gold_6tb_3_5quot_sata.jpg</image>
+        <price>9190000</price>
+        <interface>SATA 3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 10TB WD 3.5 ĐỎ 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>10</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8522_o_cung_hdd_wd_red_10tb_3_5quot_sata.jpg</image>
+        <price>7990000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 6TB WD BLACK 7200RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>6</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8508_o_cung_hdd_wd_black_6tb_3_5quot_sata_3.jpg</image>
+        <price>6940000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 4TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>4</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8530_o_cung_4tb_wd_enterprise_gold_datacenter_1.jpg</image>
+        <price>6840000</price>
+        <interface>SATA 3 (6Gb/s)</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 8TB WD- Red 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>8</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8521_o_cung_hdd_wd_red_8tb_3_5quot_sata.jpg</image>
+        <price>6700000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 6TB RED PRO 256MB, 7200RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>6</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8524_o_cung_hdd_wd_red_pro_6tb_3_5quot_sata.jpg</image>
+        <price>6490000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 4TB WD -Black 7200RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>4</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8506_o_cung_wd_hdd_black_4tb_3_5quot_sata_3.jpg</image>
+        <price>5190000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 6TB WD- Red 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>6</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8519_o_cung_hdd_wd_red_6tb_3_5quot_sata_1.jpg</image>
+        <price>4580000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 6TB WD Blue</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>6</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8494_o_cung_wd_hdd_blue_6tb_3_5quot_sata_3_1.jpg</image>
+        <price>4340000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 2TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>2</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8527_o_cung_wd_gold_2tb_1.jpg</image>
+        <price>3480000</price>
+        <interface>SATA 3 (6Gb/s)</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 2TB WD BLACK 5N 7200RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>2</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8504_o_cung_wd_hdd_black_2tb_3_5quot_sata_3_1.jpg</image>
+        <price>3100000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 4TB WD -Red 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>4</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8517_hdd_wd_red_4tb_3_5quot_sata_3.jpg</image>
+        <price>2990000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD HP 2TB SATA 6Gb/s 7200 HDD/ 1Y WTY_QB576AA</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>2</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_13969_1y_wty_qb576aa.jpg</image>
+        <price>2759000</price>
+        <interface>Sata 6Gbit/s</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 4TB WD- Blue</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>4</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8489_o_cung_wd_hdd_blue_4tb_3_5quot_sata_3_1.jpg</image>
+        <price>2640000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 3TB WD -Red 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>3</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8515_o_cung_hdd_wd_red_3tb_3_5quot_sata_3.jpg</image>
+        <price>2490000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD 1TB WD 3.5 7200RPM VÀNG</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8523_o_cung_1tb_wd_enterprise_gold_datacenter_1.jpg</image>
+        <price>2480000</price>
+        <interface>SATA 3 (6Gb/s)</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 3TB WD- Blue 3.5"</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>3</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8488_o_cung_wd_hdd_blue_3tb_3_5quot_sata_3.jpg</image>
+        <price>2140000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 2TB WD Red 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>2</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8512_o_cung_hdd_wd_red_2tb_3_5quot_sata_3.jpg</image>
+        <price>2020000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD HP 1TB SATA 6Gb/s 7200 HDD/ 1Y WTY_LQ037AA</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_13968_hdd_hp_1tb_sata_.png</image>
+        <price>1876000</price>
+        <interface>Sata 6Gbit/s</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 1TB WD BLACK 5N 7200RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8501_o_cung_wd_hdd_black_1tb_3_5quot_sata_3_1.jpg</image>
+        <price>1840000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD Laptop 1TB WD  Black Sata3 (6Gb/s) - 7200 Rpm, Cache 32M</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8526_o_cung_wd_hdd_black_1tb_2_5quot_sata_3_1.jpg</image>
+        <price>1780000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 500gb WD  Black 7200RPM</name>
+        <capacity>
+            <type>GB</type>
+            <quantity>500</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8498_o_cung_wd_hdd_black_500gb_3_5quot_sata_3.jpg</image>
+        <price>1640000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 1TB WD -Red 5400rpm</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8511_o_cung_hdd_wd_red_1tb_3_5quot_sata_3.jpg</image>
+        <price>1580000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 2TB WD Blue - 5400RPM</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>2</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8479_o_cung_wd_hdd_blue_2tb_3_5quot_sata_3.jpg</image>
+        <price>1430000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD Laptop 1TB WD Blue (Sata)</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8516_o_cung_wd_blue_1tb_25quot_sata3_128mb_1.jpg</image>
+        <price>1275000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD Laptop 500GB WD 2.5 7200RPM ĐEN</name>
+        <capacity>
+            <type>GB</type>
+            <quantity>500</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8520_o_cung_wd_hdd_black_500gb_2_5quot_sata_3_1.png</image>
+        <price>990000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD Laptop 500gb WD Scorpio Blue (WD5000LPCX)</name>
+        <capacity>
+            <type>GB</type>
+            <quantity>500</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8509_o_cung_wd_blue_500_gb_25quot_sata3_16mb_cache.jpg</image>
+        <price>990000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 1TB WD -Blue</name>
+        <capacity>
+            <type>TB</type>
+            <quantity>1</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8466_o_cung_wd_hdd_blue_1tb_3_5quot_sata_6gb.jpg</image>
+        <price>980000</price>
+        <interface>SATA3</interface>
+        <speed>7200</speed>
+    </hdd>
+    <hdd>
+        <name>HDD PC 500gb WD Blue - WD5000AZLX</name>
+        <capacity>
+            <type>GB</type>
+            <quantity>500</quantity>
+        </capacity>
+        <image>https://mega.com.vn/media/product/250_8453_o_cung_wd_hdd_blue_500gb_1.jpg</image>
+        <price>920000</price>
+        <interface>SATA3</interface>
+        <speed>5400</speed>
+    </hdd>
+</hdds>

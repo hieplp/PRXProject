@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ssds xmlns="prx/xml">
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 4TB Sata III(MZ-76Q4T0BW)</name>
+        <capacity>4Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_431_o_cung_ssd_samsung_860_qvo_4tb_sata3_1.jpg</image>
+        <price>17850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 1920GB Ironwolf 110 ZA1920NM10011</name>
+        <capacity>1,92TB</capacity>
+        <image>https://mega.com.vn/media/product/250_11230_o_cung_seagate_ironwolf_110_2_5_quot1_92tb_sata.JPG</image>
+        <price>15500000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 2TB (MZ-V7S2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_433_o_cung_ssd_samsung_970_evo_plus_2tb_pcie_1.jpg</image>
+        <price>14990000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 512GB PCIe SSD/1Y WTY_M1F74AA</name>
+        <capacity>512Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13976_ssd_hp_z_turbo_drive_g2_512gb_pcie_ssd_1y_wty_m1f74aa_2.jpg</image>
+        <price>12453000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 2TB - (9JSE6P200-00)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11741_o_cung_ssd_aorus_nvme_gen_4_2tb_1.png</image>
+        <price>11900000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 2000GB SKC2000M8/2000G</name>
+        <capacity>2000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10680_o_cung_ssd_kingston_kc2000_2000gb_nvme_1.jpg</image>
+        <price>10400000</price>
+        <interface>PCI</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 1920GB SUV500 SATA(6Gb/s) Read 520 Mb/s Write 500Mb/s</name>
+        <capacity>1920Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8427_o_cung_ssd_kingston_1920gb_suv500_sata6gb_1.jpg</image>
+        <price>10250000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung 860QVO - 2TB Sata III( MZ-76Q2T0BW)</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_432_o_cung_ssd_samsung_860_qvo_2tb_sata3_1.jpg</image>
+        <price>8850000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD 2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8454_o_cung_ssd_western_blue_2tb_3d_nand_2_5_inch_sata_1.png</image>
+        <price>7990000</price>
+        <interface>2.5 SATA</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2-2280  2TB Blue SATA III / Read up to 560MB / Write up to 530MB</name>
+        <capacity>2Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_8460_o_cung_ssd_western_blue_2tb_m2_2280_3d_1.jpg</image>
+        <price>7990000</price>
+        <interface>M2 2280</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Seagate 960GB Ironwolf 110 ZA960NM10011</name>
+        <capacity>960GB</capacity>
+        <image>https://mega.com.vn/media/product/250_11221_o_cung_ssd_seagate_ironwolf_110_960gb_1.jpg</image>
+        <price>7490000</price>
+        <interface>SATA 3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Samsung  970EVO Plus - 1TB (MZ-V7S1T0BW)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_430_o_cung_ssd_samsung_970_evo_plus_1tb_pcie_1.jpg</image>
+        <price>7490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB EXO Read 500 Mb/s-Write 480Mb/s(Thế hệ 2 loại C)</name>
+        <capacity>480Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8443_o_cung_ssd_kingston_960gb_savage_exo_1.jpg</image>
+        <price>7190000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>Ổ cứng SSD Kingmax PX4480  1TB M.2 NVMe</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_15604_o_cung_ssd_kingmax_1tb_m_2_nvme.jpg</image>
+        <price>6800000</price>
+        <interface>PCIe NVMe Gen 4 x4</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Crucial MX500 2TB CT2000MX500SSD1 CT2000MX500SSD1</name>
+        <capacity>2TB</capacity>
+        <image>https://mega.com.vn/media/product/250_13842_ssd_crucial_mx500_2tb_ct2000mx500ssd1_2.jpg</image>
+        <price>6650000</price>
+        <interface>Sata III 6Gbit/s</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Gigabyte Aorus NVMe Gen 4 SSD 1TB - (9JSE6P100-00)</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_11738_o_cung_aorus_nvme_gen_4_ssd_1tb_1.png</image>
+        <price>6500000</price>
+        <interface>M2</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston 960GB FURY Read 550 Mb/s-Write 480Mb/s</name>
+        <capacity>960Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_8435_o_cung_ssd_kingston_480gb_1.jpg</image>
+        <price>5740000</price>
+        <interface>SATA3</interface>
+    </ssd>
+    <ssd>
+        <name>SSD HP Z Turbo Drive G2 256GB PCIe SSD/ 1Y WTY_M1F73AA</name>
+        <capacity>256Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_13975_ssd_hp_z_turbo_drive_g2_256gb_pcie_ssd_1y_wty_m1f73aa_1.jpg</image>
+        <price>5605000</price>
+        <interface>PCI Express 3.0</interface>
+    </ssd>
+    <ssd>
+        <name>SSD WD M.2 1TB Black M2-2280 ( PCIe Gen3x4/SN750/ Read up to 3470MB/s - Write up to 3000MB/s )</name>
+        <capacity>1Tb</capacity>
+        <image>https://mega.com.vn/media/product/250_461_o_cung_ssd_western_black_1tb_pcie_nvme_gen3_m22280_1.jpg</image>
+        <price>5490000</price>
+        <interface>PCIE</interface>
+    </ssd>
+    <ssd>
+        <name>SSD Kingston KC2000 M.2 PCIe Gen3 x4 NVMe 1000GB SKC2000M8/1000G</name>
+        <capacity>1000Gb</capacity>
+        <image>https://mega.com.vn/media/product/250_10677_o_cung_ssd_kingston_kc2000_1000gb_nvme_1.jpg</image>
+        <price>5100000</price>
+        <interface>PCI</interface>
+    </ssd>
+</ssds>

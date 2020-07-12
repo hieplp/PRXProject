@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><psus xmlns="prx/xml">
+    <psu>
+        <name>Nguồn máy tính FSP HPT1200M (tản nhiệt nước)</name>
+        <brand>FSP</brand>
+        <image>https://mega.com.vn/media/product/250_10769_nguon_may_tinh_1200w_hpt1200m_tan_nhiet_nuoc_1.jpg</image>
+        <price>15300000</price>
+        <tdp>1200</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cosair AX1600i - 80 Plus Platinum CP-9020087-NA</name>
+        <brand>Corsair</brand>
+        <image>https://mega.com.vn/media/product/250_13099_nguon_may_tinh_cosair_ax1600i_80_plus_platinum_cp_9020087_na_1.png</image>
+        <price>11990000</price>
+        <tdp>1600</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Platinum 2000W SF-2000F14HP</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12270_nguon_super_flower_leadex_platinum_2000w.jpg</image>
+        <price>11200000</price>
+        <tdp>2000</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Titanium 1600W SF-1600F14HT</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12262_nguon_super_flower_leadex_titanium_1600w_1.png</image>
+        <price>9450000</price>
+        <tdp>1600</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cosair AX1200i - 80 Plus Platinum CP-9020008-NA</name>
+        <brand>Corsair</brand>
+        <image>https://mega.com.vn/media/product/250_13097_nguon_may_tinh_cosair_ax1200i_80_plus_platinum_cp_9020008_na_1.png</image>
+        <price>9200000</price>
+        <tdp>1200</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Platinum 1600W SF-1600F14HP</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12267_nguon_super_flower_leadex_platinum_1600w.jpg</image>
+        <price>9050000</price>
+        <tdp>1600</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn máy tính Asus Rog-Thor-1200P</name>
+        <brand/>
+        <image>https://mega.com.vn/media/product/250_6453_bo_nguon_cao_cap_asus_rog_thor_1200p_platinum_1200w_1.png</image>
+        <price>8970000</price>
+        <tdp/>
+        <efficiency/>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Thermaltake Toughpower iRGB 1250W -Titanium (PS-TPI-1250DPCTEU-T)</name>
+        <brand>Thermaltake</brand>
+        <image>https://mega.com.vn/media/product/250_12166_nguon_may_tinh_toughpower_irgb_1250w_titanium_1.jpg</image>
+        <price>8500000</price>
+        <tdp>1250</tdp>
+        <efficiency/>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Antec HCP-1300 Platinum 80 PLUS®</name>
+        <brand>Antec</brand>
+        <image>https://mega.com.vn/media/product/250_12359_hcp_1300w_platinum_1.jpg</image>
+        <price>6990000</price>
+        <tdp>1300</tdp>
+        <efficiency>94</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Rosewill HERCULES-1600S - 1600W</name>
+        <brand>Rosewill</brand>
+        <image>https://mega.com.vn/media/product/250_16064_nguon_rosewill_hercules_1600s.jpg</image>
+        <price>6900000</price>
+        <tdp>16000</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cooler master  V 1300 PLATINUM-1300W</name>
+        <brand>Cooler Master</brand>
+        <image>https://mega.com.vn/media/product/250_11126_nguon_may_tinh_cooler_master_v_1300_platinum_1300w.jpg</image>
+        <price>6880000</price>
+        <tdp>1300</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính SeaSonic 1000W Prime Ultra 1000TR</name>
+        <brand>Seasonic</brand>
+        <image>https://mega.com.vn/media/product/250_9104_nguon_may_tinh_1000w_prime_ultra_1000tr_1.jpg</image>
+        <price>6880000</price>
+        <tdp>1000</tdp>
+        <efficiency>92</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Antec SP1300 Platinum 80Plus</name>
+        <brand>Antec</brand>
+        <image>https://mega.com.vn/media/product/250_14898_nguon_may_tinh_antec_sp1300_platinum_80plus_1.jpg</image>
+        <price>6790000</price>
+        <tdp>1300</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Titanium 1000W SF-1000F14HT</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12261_nguon_super_flower_leadex_titanium_1000w_1.jpg</image>
+        <price>6790000</price>
+        <tdp>1000</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Platinum 1200W SF-1200F14MP</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12269_nguon_super_flower_leadex_platinum_1200w_1.png</image>
+        <price>6500000</price>
+        <tdp>1200</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cosair HX1200-CP-9020140-NA</name>
+        <brand>Corsair</brand>
+        <image>https://mega.com.vn/media/product/250_8604_bo_nguon_corsair_hx1200_1200w_1.png</image>
+        <price>6500000</price>
+        <tdp>1200</tdp>
+        <efficiency>87</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính SeaSonic 1300W Prime 1300PD</name>
+        <brand>Seasonic</brand>
+        <image>https://mega.com.vn/media/product/250_9097_nguon_may_tinh_1300w_prime_1300pd_1.png</image>
+        <price>6500000</price>
+        <tdp>1300</tdp>
+        <efficiency>92</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính SeaSonic 1300W Prime Ultra 1300GD</name>
+        <brand>Seasonic</brand>
+        <image>https://mega.com.vn/media/product/250_9130_nguon_may_tinh_1300w_prime_ultra_1300gd_1.png</image>
+        <price>6200000</price>
+        <tdp>1300</tdp>
+        <efficiency>87</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Antec SP1000 Platinum 80Plus</name>
+        <brand>Antec</brand>
+        <image>https://mega.com.vn/media/product/250_14897_nguon_may_tinh_antec_sp1000_platinum_80plus.jpg</image>
+        <price>6050000</price>
+        <tdp>1000</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cooler master  V 1000 PLATINUM- 1000W</name>
+        <brand>Cooler Master</brand>
+        <image>https://mega.com.vn/media/product/250_11124_nguon_may_tinh_cooler_master_v_1000_platinum_1000w.png</image>
+        <price>6000000</price>
+        <tdp>1000</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn máy tính Asus Rog-Thor-850P</name>
+        <brand/>
+        <image>https://mega.com.vn/media/product/250_6454_bo_nguon_cao_cap_asus_rog_thor_850p_platinum_850w_1.png</image>
+        <price>5990000</price>
+        <tdp/>
+        <efficiency/>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Thermaltake Toughpower iRGB 1200W - Platinum (PS-TPI-1200F2FDPE-1)</name>
+        <brand>Thermaltake</brand>
+        <image>https://mega.com.vn/media/product/250_12165_nguon_toughpower_irgb_1200w_platinum_1.jpg</image>
+        <price>5800000</price>
+        <tdp>1200</tdp>
+        <efficiency/>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Corsair HX1000 80 Plus Platinum CP-9020139-NA</name>
+        <brand>Corsair</brand>
+        <image>https://mega.com.vn/media/product/250_13095_nguon_may_tinh_corsair_hx1000_80_plus_platinum_cp_9020139_na_1.png</image>
+        <price>5700000</price>
+        <tdp>1000</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Titanium 850W SF-850F14HT</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12260_nguon_super_flower_leadex_titanium_850w_1.png</image>
+        <price>5650000</price>
+        <tdp>850</tdp>
+        <efficiency>85</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Antec HCP-1000 Platinum 80 PLUS®</name>
+        <brand>Antec</brand>
+        <image>https://mega.com.vn/media/product/250_12358_nguon_may_tinh_hcp_1000w_platinum_1.png</image>
+        <price>5380000</price>
+        <tdp>1000</tdp>
+        <efficiency>94</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính Cooler master  V 850 PLATINUM 850W</name>
+        <brand>Cooler Master</brand>
+        <image>https://mega.com.vn/media/product/250_11118_nguon_may_tinh_cooler_master_v_850_platinum_850w.jpg</image>
+        <price>5350000</price>
+        <tdp>850</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Platinum 1000W SF-1000F14MP</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12265_nguon_super_flower_leadex_platinum_1000w_1.png</image>
+        <price>5200000</price>
+        <tdp>1000</tdp>
+        <efficiency>80</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Super Flower Leadex Titanium 750W SF-750F14HT</name>
+        <brand>Super Flower</brand>
+        <image>https://mega.com.vn/media/product/250_12259_nguon_super_flower_leadex_titanium_750w_2.png</image>
+        <price>5090000</price>
+        <tdp>750</tdp>
+        <efficiency>85</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn máy tính FSP Aurum PT 1200W</name>
+        <brand>FSP</brand>
+        <image>https://mega.com.vn/media/product/250_10766_nguon_may_tinh_aurum_pt_1200w_2.jpg</image>
+        <price>5070000</price>
+        <tdp>1200</tdp>
+        <efficiency>90</efficiency>
+    </psu>
+    <psu>
+        <name>Nguồn Máy Tính SeaSonic 1000W Prime Ultra 1000GD</name>
+        <brand>Seasonic</brand>
+        <image>https://mega.com.vn/media/product/250_9129_nguon_may_tinh_1000w_prime_ultra_1000gd.png</image>
+        <price>4980000</price>
+        <tdp>1000</tdp>
+        <efficiency>87</efficiency>
+    </psu>
+</psus>

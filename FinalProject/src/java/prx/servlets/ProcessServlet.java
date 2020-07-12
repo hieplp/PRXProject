@@ -5,30 +5,22 @@
  */
 package prx.servlets;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import prx.utils.CrawlUtils;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMResult;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
-import javax.xml.xpath.XPath;
-import javax.xml.xpath.XPathConstants;
-import javax.xml.xpath.XPathExpressionException;
-import org.w3c.dom.Document;
-import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
-import prx.utils.CrawlUtils;
-import prx.utils.FileUtils;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import prx.utils.XMLUtils;
 
 /**
@@ -46,64 +38,35 @@ public class ProcessServlet extends HttpServlet {
         try {
             String url = HOME_PAGE;
 
-//        String realPath = getServletContext().getRealPath("/");
-//        String filePath = realPath + XML_PATH;
+            String realPath = getServletContext().getRealPath("/");
+            System.out.println(realPath + "\\crawl-xml\\novabench\\gpu\\ultimate_rs.xml");
+            realPath = realPath.replace("\\build", "") + "WEB-INF";
+//            // run crawler
+//            DOMResult cpuDOMRs = CrawlUtils.crawl(realPath + "\\crawl-xml\\novabench\\cpu\\ultimate.xml",
+//                    realPath + "\\crawl-xml\\novabench\\cpu\\product.xsl");
+//            XMLUtils.transformDOMToFile(cpuDOMRs.getNode(), realPath + "\\crawl-xml\\novabench\\cpu\\ultimate_rs.xml");
 //
-//        String xmlFileDes = realPath + "WEB-INF/studentAccounts.xml";
-//        xmlFileDes = xmlFileDes.replace("\\build", "");
-//        FileUtils.getHTMLContent("https://www.kimovil.com/en/all-smartphone-brands", xmlFileDes);
-            // run crawler
-            DOMResult rs = CrawlUtils.crawl("D:\\PRX\\Projects\\FinalProject\\src\\java\\config\\ultimate.xml", "D:\\PRX\\Projects\\FinalProject\\src\\java\\config\\product.xsl");
-            // init transformer
-            TransformerFactory factory = TransformerFactory.newInstance();
-            Transformer transformer = factory.newTransformer();
-            StreamResult result = new StreamResult(new FileOutputStream("D:\\PRX\\Projects\\FinalProject\\src\\java\\config\\ultimate_rs.xml"));
-            // transform to xml file
-            transformer.transform(new DOMSource(rs.getNode()), result);
+//            DOMResult gpuDOMRs = CrawlUtils.crawl(realPath + "\\crawl-xml\\novabench\\cpu\\ultimate.xml",
+//                    realPath + "\\crawl-xml\\novabench\\cpu\\product.xsl");
+//            XMLUtils.transformDOMToFile(gpuDOMRs.getNode(), realPath + "\\crawl-xml\\novabench\\cpu\\ultimate_rs.xml");
 
+//            DOMResult lpDOMRs = CrawlUtils.crawl(realPath + "\\crawl-xml\\mega\\ram\\laptop\\ultimate.xml",
+//                    realPath + "\\crawl-xml\\mega\\ram\\laptop\\product.xsl");
+//            XMLUtils.transformDOMToFile(lpDOMRs.getNode(), realPath + "\\crawl-xml\\mega\\ram\\laptop\\ultimate_rs.xml");
+
+            DOMResult storageDOMRs = CrawlUtils.crawl(realPath + "\\crawl-xml\\mega\\cpu\\ultimate.xml",
+                    realPath + "\\crawl-xml\\mega\\cpu\\product.xsl");
+            XMLUtils.transformDOMToFile(storageDOMRs.getNode(), realPath + "\\crawl-xml\\mega\\cpu\\ultimate_rs.xml");
+//            
+//            DOMResult ramDOMRs = CrawlUtils.crawl(realPath + "\\crawl-xml\\mega\\mainboard\\ultimate.xml",
+//                    realPath + "\\crawl-xml\\mega\\mainboard\\product.xsl");
+//            XMLUtils.transformDOMToFile(ramDOMRs.getNode(), realPath + "\\crawl-xml\\mega\\mainboard\\ultimate_rs.xml");
             response.sendRedirect(url);
 
         } catch (TransformerException ex) {
             Logger.getLogger(ProcessServlet.class.getName()).log(Level.SEVERE, null, ex);
         }
-//        try {
-//            String url = HOME_PAGE;
-//
-//            String realPath = getServletContext().getRealPath("/");
-//            String filePath = realPath + XML_PATH;
-//
-//            String xmlFileDes = realPath + "WEB-INF/studentAccounts.xml";
-//            xmlFileDes = xmlFileDes.replace("\\build", "");
-//            FileUtils.getHTMLContent("https://www.kimovil.com/en/all-smartphone-brands", xmlFileDes);
-//            response.sendRedirect(url);
-//            InputStream is = FileUtils.getInputStreamFromUrl("https://www.kimovil.com/en/all-smartphone-brands");
-//            if (is != null) {
-//                Document document = XMLUtils.parseInputStreamToDOM(is);
-//                is.close();
-//                String exp = "//*[@id='inline-search-list']/li[@class='item']";
-//                XPath xPath = XMLUtils.getXPath();
-//                NodeList brands = (NodeList) xPath.evaluate(exp, document, XPathConstants.NODESET);
-//                if (brands != null) {
-//                    for (int i = 0; i < brands.getLength(); i++) {
-//                        exp = "div/a/@href";
-//                        String link = (String) xPath.evaluate(exp, brands.item(i), XPathConstants.STRING);
-//                        System.out.println(link);
-//                        exp = "div/a/div/img/@data-src";
-//                        String image = (String) xPath.evaluate(exp, brands.item(i), XPathConstants.STRING);
-//                        System.out.println(image);
-//                        exp = "div/a/div/h3";
-//                        String brandName = (String) xPath.evaluate(exp, brands.item(i), XPathConstants.STRING);
-//                        System.out.println(brandName);
-//                        exp = "div/a/div/p";
-//                        String quantity = (String) xPath.evaluate(exp, brands.item(i), XPathConstants.STRING);
-//                        System.out.println(quantity);
-//                        System.out.println("-------------");
-//                    }
-//                }
-//            }
-//        } catch (SAXException | ParserConfigurationException | XPathExpressionException ex) {
-//            Logger.getLogger(ProcessServlet.class.getName()).log(Level.SEVERE, null, ex);
-//        }
+
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">

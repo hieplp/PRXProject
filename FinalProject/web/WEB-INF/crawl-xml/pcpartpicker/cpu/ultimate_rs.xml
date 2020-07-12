@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cpus xmlns="prx/xml">
+    <cpu>
+        <name>CPU AMD Threadripper 3990X</name>
+        <image>https://mega.com.vn/media/product/250_15074_cpu_amd_threadripper_3990x_5.jpg</image>
+        <price>102899000</price>
+        <socket>TRX4</socket>
+        <tdp>280</tdp>
+        <brand>AMD</brand>
+        <speed>4.3Ghz</speed>
+        <core>64</core>
+        <thread>128</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Threadripper 3970X</name>
+        <image>https://mega.com.vn/media/product/250_13557_cpu_amd_threadripper_3970x.PNG</image>
+        <price>51900000</price>
+        <socket>TR4</socket>
+        <tdp>280</tdp>
+        <brand>AMD</brand>
+        <speed>4.5GHz</speed>
+        <core>32</core>
+        <thread>64</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen Threadripper 2990WX</name>
+        <image>https://mega.com.vn/media/product/250_288_chip_amd_cpu_ryzen_threadripper_threadripper_2990wx_1.jpg</image>
+        <price>40480000</price>
+        <socket>TR4</socket>
+        <tdp>250</tdp>
+        <brand>AMD</brand>
+        <speed>4.2Ghz</speed>
+        <core>32</core>
+        <thread>64</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Threadripper 3960X</name>
+        <image>https://mega.com.vn/media/product/250_13558_cpu_amd_threadripper_3960x.PNG</image>
+        <price>34900000</price>
+        <socket>TR4</socket>
+        <tdp>280</tdp>
+        <brand>AMD</brand>
+        <speed>3.8GHz</speed>
+        <core>24</core>
+        <thread>48</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel core i9-10980XE</name>
+        <image>https://mega.com.vn/media/product/250_15941_cpu_intel_core_i9_10980xe.png</image>
+        <price>28800000</price>
+        <socket>LGA1200</socket>
+        <tdp>165</tdp>
+        <brand>Intel</brand>
+        <speed>4.6Ghz</speed>
+        <core>18</core>
+        <thread>36</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen Threadripper 2970WX</name>
+        <image>https://mega.com.vn/media/product/250_274_chip_amd_cpu_ryzen_threadripper_2970wx_1.jpg</image>
+        <price>26300000</price>
+        <socket>TR4</socket>
+        <tdp>250</tdp>
+        <brand>AMD</brand>
+        <speed>4.2Ghz</speed>
+        <core>24</core>
+        <thread>48</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 9 3950X</name>
+        <image>https://mega.com.vn/media/product/250_12879_cpu_amd_ryzen_9_3950x_3.jpg</image>
+        <price>19600000</price>
+        <socket>AM4</socket>
+        <tdp>105</tdp>
+        <brand>AMD</brand>
+        <speed>4.7Ghz</speed>
+        <core>16</core>
+        <thread>32</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen Threadripper 2950X </name>
+        <image>https://mega.com.vn/media/product/250_275_chip_amd_cpu_ryzen_threadripper_2950x_4.jpg</image>
+        <price>17500000</price>
+        <socket>TR4</socket>
+        <tdp>180</tdp>
+        <brand>AMD</brand>
+        <speed>4.4Ghz</speed>
+        <core>16</core>
+        <thread>32</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel core i9-10900X</name>
+        <image>https://mega.com.vn/media/product/250_12922_cpu_intel_core_i9_10900x_1.png</image>
+        <price>15900000</price>
+        <socket>FCLGA2066</socket>
+        <tdp>165</tdp>
+        <brand>Intel</brand>
+        <speed>4.5Ghz</speed>
+        <core>10</core>
+        <thread>20</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel core I9 -9900KS</name>
+        <image>https://mega.com.vn/media/product/250_12866_cpu_intel_core_i9_9900ks_2.png</image>
+        <price>13880000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>5.00Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu core i9-9820X</name>
+        <image>https://mega.com.vn/media/product/250_8312_chip_intel_cpu_core_i9_9820x.png</image>
+        <price>13880000</price>
+        <socket>FCLGA2066</socket>
+        <tdp>165</tdp>
+        <brand>Intel</brand>
+        <speed>4.20Ghz</speed>
+        <core>10</core>
+        <thread>20</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel core i9-10900K</name>
+        <image>https://mega.com.vn/media/product/250_15087_cpu_intel_core_i9_10900k_1.png</image>
+        <price>13800000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>5.3Ghz</speed>
+        <core>10</core>
+        <thread>20</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel core i9-10900 Box</name>
+        <image>https://mega.com.vn/media/product/250_15088_cpu_intel_core_i9_10900_2.png</image>
+        <price>12100000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>5.1Ghz</speed>
+        <core>10</core>
+        <thread>20</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 9 3900X with Wraith Prism cooler</name>
+        <image>https://mega.com.vn/media/product/250_278_chip_amd_cpu_ryzen_9_3900x_3.jpg</image>
+        <price>11900000</price>
+        <socket>AM4</socket>
+        <tdp>105</tdp>
+        <brand>AMD</brand>
+        <speed>4.6Ghz</speed>
+        <core>12</core>
+        <thread>24</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i9 -9900K Box</name>
+        <image>https://mega.com.vn/media/product/250_249_chip_intel_cpu_core_i9_9900k_1.jpg</image>
+        <price>11575000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>5.00Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen Threadripper 2920X</name>
+        <image>https://mega.com.vn/media/product/250_276_chip_amd_cpu_ryzen_threadripper_2920x_1.jpg</image>
+        <price>11000000</price>
+        <socket>TR4</socket>
+        <tdp>180</tdp>
+        <brand>AMD</brand>
+        <speed>4.3Ghz</speed>
+        <core>12</core>
+        <thread>24</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i9 -9900KF 16M, 3.6GHZ TURBO 5.0GHZ CORE 8</name>
+        <image>https://mega.com.vn/media/product/250_12725_cpu_core_i9_9900kf.jpg</image>
+        <price>10980000</price>
+        <socket>LGA1152</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>5.00Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Xeon E5 - 2620 V4</name>
+        <image>https://mega.com.vn/media/product/250_12455_chip_intel_cpu_xeon_e5_2620_v4.jpg</image>
+        <price>10670000</price>
+        <socket>LGA2011-3</socket>
+        <tdp>85</tdp>
+        <brand>Intel</brand>
+        <speed/>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i7- 10700K</name>
+        <image>https://mega.com.vn/media/product/250_15086_cpu_intel_core_i7_10700k_3_01.png</image>
+        <price>10500000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>5.1Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i7 -8700K Box</name>
+        <image>https://mega.com.vn/media/product/250_246_chip_intel_cpu_core_i7_8700k.jpg</image>
+        <price>9800000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>4.70Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i7 -9700K Box</name>
+        <image>https://mega.com.vn/media/product/250_253_chip_intel_cpu_core_i7_9700k_1.jpg</image>
+        <price>9700000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>4.90Ghz</speed>
+        <core>8</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 7 3800X with Wraith Prism cooler</name>
+        <image>https://mega.com.vn/media/product/250_277_chip_amd_cpu_ryzen_7_3800x_3.jpg</image>
+        <price>8990000</price>
+        <socket>AM4</socket>
+        <tdp>105</tdp>
+        <brand>AMD</brand>
+        <speed>4.5Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i7- 10700 Box</name>
+        <image>https://mega.com.vn/media/product/250_15085_cpu_intel_core_i7_10700_3.png</image>
+        <price>8820000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.8Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i7 -9700 Box</name>
+        <image>https://mega.com.vn/media/product/250_12005_chip_intel_cpu_core_i7_9700_box.jpg</image>
+        <price>8700000</price>
+        <socket>LGA1151v2</socket>
+        <tdp>56</tdp>
+        <brand>Intel</brand>
+        <speed/>
+        <core>8</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD RYZEN 7 3700X with Wraith Prism cooler</name>
+        <image>https://mega.com.vn/media/product/250_282_chip_amd_cpu_ryzen_7_3700x_5.jpg</image>
+        <price>8100000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.4Ghz</speed>
+        <core>8</core>
+        <thread>16</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i7 -8700 Box</name>
+        <image>https://mega.com.vn/media/product/250_263_chip_intel_cpu_core_i7_8700.jpg</image>
+        <price>8090000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.60Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Xeon E-2146G</name>
+        <image>https://mega.com.vn/media/product/250_252_chip_intel_cpu_xeon_e_2146g.jpg</image>
+        <price>7900000</price>
+        <socket>LGA1151</socket>
+        <tdp>80</tdp>
+        <brand>Intel</brand>
+        <speed>3.50Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i7 -9700F Box</name>
+        <image>https://mega.com.vn/media/product/250_12006_cpu_core_i7_9700f_box_1.PNG</image>
+        <price>7790000</price>
+        <socket>LGA1151v2</socket>
+        <tdp>56</tdp>
+        <brand>Intel</brand>
+        <speed/>
+        <core>8</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Xeon E-2236</name>
+        <image>https://mega.com.vn/media/product/250_13672_cpu_intel_xeon_e_2236.png</image>
+        <price>7650000</price>
+        <socket>FCLGA1151</socket>
+        <tdp>80</tdp>
+        <brand>Intel</brand>
+        <speed/>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel XEON E-2136-R3WW</name>
+        <image>https://mega.com.vn/media/product/250_8341_chip_intel_cpu_xeon_e_2136.png</image>
+        <price>7450000</price>
+        <socket>FCLGA1151-v2</socket>
+        <tdp>80</tdp>
+        <brand>Intel</brand>
+        <speed>3.3-4.5Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i5 -8600K Box</name>
+        <image>https://mega.com.vn/media/product/250_240_chip_intel_cpu_core_i5_8600k.jpg</image>
+        <price>7280000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>4.30Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Xeon E3-1230v6 </name>
+        <image>https://mega.com.vn/media/product/250_8328_chip_intel_cpu_xeon_e3_1230.jpg</image>
+        <price>6670000</price>
+        <socket>LGA1151</socket>
+        <tdp>72</tdp>
+        <brand>Intel</brand>
+        <speed>3.5GHz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i5 -8600 Box</name>
+        <image>https://mega.com.vn/media/product/250_235_chip_intel_cpu_core_i5_8600.jpg</image>
+        <price>6350000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.30Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i5 -8500 Box</name>
+        <image>https://mega.com.vn/media/product/250_224_chip_intel_cpu_core_i5_8500.jpg</image>
+        <price>6230000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.10Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i5- 10600 Box</name>
+        <image>https://mega.com.vn/media/product/250_15084_cpu_intel_core_i5_10600_3.png</image>
+        <price>5950000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.8Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i5- 9600K </name>
+        <image>https://mega.com.vn/media/product/250_234_chip_intel_cpu_core_i5_9600k_1.jpg</image>
+        <price>5950000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>4.60Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD RYZEN 5 3600X with Wraith Spire cooler</name>
+        <image>https://mega.com.vn/media/product/250_287_chip_amd_cpu_ryzen_5_3600x_2.jpg</image>
+        <price>5600000</price>
+        <socket>AM4</socket>
+        <tdp>95</tdp>
+        <brand>AMD</brand>
+        <speed>4.4Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i5- 10500 Box</name>
+        <image>https://mega.com.vn/media/product/250_15083_cpu_intel_core_i5_10500_5_01.png</image>
+        <price>5490000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.5Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel I5-9500 BOX</name>
+        <image>https://mega.com.vn/media/product/250_11927_chip_intel_cpu_core_i5_9500_1.png</image>
+        <price>5200000</price>
+        <socket>LGA1151</socket>
+        <tdp/>
+        <brand>Intel</brand>
+        <speed/>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Xeon E3-1220V6 </name>
+        <image>https://mega.com.vn/media/product/250_8321_chip_intel_cpu_xeon_e3_1220v6.png</image>
+        <price>5190000</price>
+        <socket>LGA1151</socket>
+        <tdp>75</tdp>
+        <brand>Intel</brand>
+        <speed>3.0Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i5 -8400 Box</name>
+        <image>https://mega.com.vn/media/product/250_248_chip_intel_cpu_core_i5_8400_1.jpg</image>
+        <price>4980000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.0Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU INTEL I5-9600KF BOX</name>
+        <image>https://mega.com.vn/media/product/250_11926_chip_intel_cpu_core_i5_9600kf_box_1.png</image>
+        <price>4900000</price>
+        <socket>LGA1151</socket>
+        <tdp>95</tdp>
+        <brand>Intel</brand>
+        <speed>3.70 GHz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD RYZEN 5 3600 with Wraith Stealth cooler</name>
+        <image>https://mega.com.vn/media/product/250_281_chip_amd_cpu_ryzen_5_3600_2.jpg</image>
+        <price>4800000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.2Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i5- 10400 Box</name>
+        <image>https://mega.com.vn/media/product/250_15082_cpu_intel_core_i5_10400_4.png</image>
+        <price>4720000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.3Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu I5-9400 Box</name>
+        <image>https://mega.com.vn/media/product/250_11337_chip_intel_cpu_core_i5_9400_1.png</image>
+        <price>4450000</price>
+        <socket>LGA1151 v2</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.1Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i5- 10400F</name>
+        <image>https://mega.com.vn/media/product/250_15219_cpu_intel_core_i5_10400f.jpg</image>
+        <price>4230000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.3Ghz</speed>
+        <core>6</core>
+        <thread>12</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD RYZEN 5 3400G</name>
+        <image>https://mega.com.vn/media/product/250_285_chip_amd_cpu_ryzen_5_3400g_5.jpg</image>
+        <price>3900000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.2Ghz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 5 3500X 3.6 GHz </name>
+        <image>https://mega.com.vn/media/product/250_12424_chip_amd_cpu_ryzen_5_3500x_1.jpg</image>
+        <price>3790000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.1Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu I5-9400F Box</name>
+        <image>https://mega.com.vn/media/product/250_257_chip_intel_cpu_core_i5_9400f_5.png</image>
+        <price>3680000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.1Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 3 3300X </name>
+        <image>https://mega.com.vn/media/product/250_15106_cpu_amd_ryzen_3_3300x_3.jpg</image>
+        <price>3190000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.3Ghz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Intel Core i3- 10100 Box</name>
+        <image>https://mega.com.vn/media/product/250_15288_cpu_intel_core_i3_10100_4.png</image>
+        <price>3150000</price>
+        <socket>LGA1200</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.3Ghz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen 5 2400G</name>
+        <image>https://mega.com.vn/media/product/250_291_chip_amd_cpu_ryzen_5_2400g_1.jpg</image>
+        <price>3130000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>3.9Ghz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen 5 3500 </name>
+        <image>https://mega.com.vn/media/product/250_12461_chip_amd_cpu_ryzen_5_3500_2.jpg</image>
+        <price>3090000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>3.6Ghz</speed>
+        <core>6</core>
+        <thread>6</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu I3-7100 </name>
+        <image>https://mega.com.vn/media/product/250_12313_chip_intel_cpu_core_i3_7100_3_9ghz_3mb_box_1.jpg</image>
+        <price>3090000</price>
+        <socket>LGA1151</socket>
+        <tdp/>
+        <brand>INTEL</brand>
+        <speed>Up to 3.90 GHz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu I3-7350K Intel Kblake </name>
+        <image>https://mega.com.vn/media/product/250_8313_chip_intel_cpu_core_i3_7350k_1.jpg</image>
+        <price>2990000</price>
+        <socket>LGA1151</socket>
+        <tdp>60</tdp>
+        <brand>Intel</brand>
+        <speed>Up to 4.2 GHz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU INTEL I3-9100 BOX</name>
+        <image>https://mega.com.vn/media/product/250_11849_chip_intel_cpu_core_i3_9100_box.png</image>
+        <price>2950000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.20Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Core i3 8100 Box</name>
+        <image>https://mega.com.vn/media/product/250_259_chip_intel_cpu_core_i3_8100.jpg</image>
+        <price>2900000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>3.60Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD RYZEN 3 3200G</name>
+        <image>https://mega.com.vn/media/product/250_286_chip_amd_cpu_ryzen_3_3_3200g_1.jpg</image>
+        <price>2490000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>4.0Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen 3 3100 </name>
+        <image>https://mega.com.vn/media/product/250_15105_cpu_amd_ryzen_3_3100_3.jpg</image>
+        <price>2490000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>3.9Ghz</speed>
+        <core>4</core>
+        <thread>8</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu G5500 Box</name>
+        <image>https://mega.com.vn/media/product/250_8322_chip_intel_cpu_pentium_gold_g5500_1.jpg</image>
+        <price>2350000</price>
+        <socket>LGA 1151-v2</socket>
+        <tdp>54</tdp>
+        <brand>Intel</brand>
+        <speed>3.8GHz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu G4560 Box </name>
+        <image>https://mega.com.vn/media/product/250_8310_chip_intel_cpu_pentium_dual_core_g4560.jpg</image>
+        <price>2130000</price>
+        <socket>FCLGA1151</socket>
+        <tdp>54</tdp>
+        <brand>INTEL</brand>
+        <speed>Up to 3.5Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Pentium G4400 </name>
+        <image>https://mega.com.vn/media/product/250_11345_chip_intel_cpu_pentium_g4400_1.jpg</image>
+        <price>1850000</price>
+        <socket>LGA1151</socket>
+        <tdp>56</tdp>
+        <brand>Intel</brand>
+        <speed>3.3Ghz</speed>
+        <core>2</core>
+        <thread>2</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu Pentium G4500 </name>
+        <image>https://mega.com.vn/media/product/250_11353_chip_intel_cpu_pentium_g4500.JPG</image>
+        <price>1850000</price>
+        <socket>LGA1151</socket>
+        <tdp>51</tdp>
+        <brand>Intel</brand>
+        <speed>3.5Ghz</speed>
+        <core>2</core>
+        <thread>2</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu I3-9100F Box</name>
+        <image>https://mega.com.vn/media/product/250_261_cpu_intel_core_i3_9100f_01.png</image>
+        <price>1750000</price>
+        <socket>LGA1151</socket>
+        <tdp>65</tdp>
+        <brand>Intel</brand>
+        <speed>4.20Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>AMD Ryzen 3 2300X </name>
+        <image>https://mega.com.vn/media/product/250_12463_chip_amd_cpu_ryzen_3_2300x_1.png</image>
+        <price>1690000</price>
+        <socket>AM4</socket>
+        <tdp>65</tdp>
+        <brand>AMD</brand>
+        <speed>3.5Ghz</speed>
+        <core>4</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen Athlon 240GE 3.5 GHz </name>
+        <image>https://mega.com.vn/media/product/250_12464_cpu_amd_ryzen_athlon_240ge_3.jpg</image>
+        <price>1550000</price>
+        <socket>AM4</socket>
+        <tdp>35</tdp>
+        <brand>AMD</brand>
+        <speed>3.5Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU Intel Pentium G5420</name>
+        <image>https://mega.com.vn/media/product/250_15133_cpu_intel_pentium_g5420_gold.jpg</image>
+        <price>1450000</price>
+        <socket>LGA1151</socket>
+        <tdp>54</tdp>
+        <brand>Intel</brand>
+        <speed>3.8Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu G5400 Gold box </name>
+        <image>https://mega.com.vn/media/product/250_8319_chip_intel_cpu_pentium_g5400_1.jpg</image>
+        <price>1370000</price>
+        <socket>LGA1151</socket>
+        <tdp>58</tdp>
+        <brand>Intel</brand>
+        <speed>3.7GHz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Athlon 3000G</name>
+        <image>https://mega.com.vn/media/product/250_15073_cpu_amd_athlon_3000g_10.png</image>
+        <price>1360000</price>
+        <socket>AM4</socket>
+        <tdp>35</tdp>
+        <brand>AMD</brand>
+        <speed>3.5Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu G3930 Box</name>
+        <image>https://mega.com.vn/media/product/250_228_chip_intel_cpu_celeron_g3930.png</image>
+        <price>1350000</price>
+        <socket>LGA1151</socket>
+        <tdp>51</tdp>
+        <brand>Intel</brand>
+        <speed>2.9Ghz</speed>
+        <core>2</core>
+        <thread>2</thread>
+    </cpu>
+    <cpu>
+        <name>CPU AMD Ryzen Athlon 220GE 3.4 GHz </name>
+        <image>https://mega.com.vn/media/product/250_12465_cpu_amd_ryzen_athlon_220ge_1.jpg</image>
+        <price>1350000</price>
+        <socket>AM4</socket>
+        <tdp>35</tdp>
+        <brand>AMD</brand>
+        <speed>3.4Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu AMD Ryzen Athlon 200GE 3.2 GHz </name>
+        <image>https://mega.com.vn/media/product/250_292_chip_amd_cpu_ryzen_athlon_200ge.jpg</image>
+        <price>1250000</price>
+        <socket>AM4</socket>
+        <tdp>35</tdp>
+        <brand>AMD</brand>
+        <speed>3.2Ghz</speed>
+        <core>2</core>
+        <thread>4</thread>
+    </cpu>
+    <cpu>
+        <name>Cpu G4900 Box celeron</name>
+        <image>https://mega.com.vn/media/product/250_255_chip_intel_cpu_celeron_g4900.jpg</image>
+        <price>1150000</price>
+        <socket>LGA1151</socket>
+        <tdp>51</tdp>
+        <brand>Intel</brand>
+        <speed>3.10Ghz</speed>
+        <core>2</core>
+        <thread>2</thread>
+    </cpu>
+</cpus>

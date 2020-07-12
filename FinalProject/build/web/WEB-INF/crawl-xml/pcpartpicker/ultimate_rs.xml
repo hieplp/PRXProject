@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><brands xmlns="prx/xml">
+    <sceen diagonal="5" ratio="16:9" resolution="HD"/>
+    <proccesor antutuScrore="32455">MT6737</proccesor>
+    <ram>1 GB </ram>
+    <rom>8 GB</rom>
+    <battery>2000 mAh</battery>
+    <camera>
+        <frontCamera resolution="8 Mpx"/>
+        <selfCamera resolution="2 Mpx"/>
+    </camera>
+</brands>

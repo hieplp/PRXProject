@@ -52,7 +52,8 @@
         <xsl:element name="sceen">
             <xsl:variable name="screen" select="$phoneDetailDoc//*[contains(@class,'item-screen')]"/>
             <xsl:attribute name="diagonal">
-                <xsl:value-of select="$screen//xh:span[2]"/>
+                <!--replace &quot; quote with ''-->
+                <xsl:value-of select="translate($screen//xh:span[2],'&quot;','')"/>
             </xsl:attribute>
             <xsl:attribute name="resolution">
                 <xsl:value-of select="$screen//xh:span[3]"/>
@@ -64,13 +65,15 @@
         <xsl:variable name="hardware" select="$phoneDetailDoc//*[contains(@class,'item-soc')]"/>
         <xsl:variable name="antutu" select="$phoneDetailDoc//*[contains(@class,'item-antutu')]"/>
         <xsl:element name="proccesor">
-            <xsl:value-of select="$hardware//xh:span[2]"/>
             <xsl:attribute name="antutuScrore">
-                <xsl:value-of select="$antutu//*[contains(@class,'main')]"/>
+                <!--replace . with ''-->
+                <xsl:value-of select="translate($antutu//*[contains(@class,'main')],'.','')"/>
             </xsl:attribute>
+            <xsl:value-of select="$hardware//xh:span[2]"/>
         </xsl:element>
         <xsl:element name="ram">
-            <xsl:value-of select="$hardware//xh:span[4]"/>
+            <!--replace RAM with ''-->
+            <xsl:value-of select="translate($hardware//xh:span[4],'RAM','')"/>
         </xsl:element>
         <xsl:element name="rom">
             <xsl:value-of select="$hardware//xh:span[5]"/>
@@ -86,19 +89,11 @@
                     <!--Get content before . -->
                     <xsl:value-of select="substring-before($camera//*[contains(@class, 'group-1')]/xh:span[2],'·')"/>
                 </xsl:attribute>
-                <xsl:attribute name="aperture">
-                    <!--Get content after . -->
-                    <xsl:value-of select="substring-after($camera//*[contains(@class, 'group-1')]/xh:span[2],'·')"/>
-                </xsl:attribute>
             </xsl:element>
             <xsl:element name="selfCamera">
                 <xsl:attribute name="resolution">
                     <!--Get content before . -->
                     <xsl:value-of select="substring-before($camera//*[contains(@class, 'group-3')]/xh:span/text(),'·')"/>
-                </xsl:attribute>
-                <xsl:attribute name="aperture">
-                    <!--Get content after . -->
-                    <xsl:value-of select="substring-after($camera//*[contains(@class, 'group-3')]/xh:span/text(),'·')"/>
                 </xsl:attribute>
             </xsl:element>
         </xsl:element>

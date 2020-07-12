@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rams xmlns="prx/xml">
+    <ram>
+        <name>Ram 32gb/2666 PC Synology DDR4 ECC Registered</name>
+        <price>20150000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 32GB DDR4-2666 (1x32GB) ECC RegRAM1Y WTY_1XD86AA</name>
+        <price>15714000</price>
+        <type/>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT4 32GB/3600 Kingston DDR4 CL17 DIMM XMP HyperX Predator</name>
+        <price>13000000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>3600</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT4 32GB/3200 Kingston DDR4 CL16 DIMM XMP HyperX Predator</name>
+        <price>11800000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>3200</bus>
+    </ram>
+    <ram>
+        <name>Ram 16gb/2666 PC Synology DDR4 ECC Registered</name>
+        <price>11250000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT 32GB/3000 Kingston DDR4 CL15 DIMM XMP HyperX Predator</name>
+        <price>11100000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3000</bus>
+    </ram>
+    <ram>
+        <name>Ram 16gb/2666 PC Synology DDR4 ECC unbuffered</name>
+        <price>10760000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT 32GB/2400 Kingston DDR4 CL12 DIMM XMP HyperX Predator</name>
+        <price>10000000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2400</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 16GB DDR4-2666 (1x16GB) ECC RegRAM/ 1Y WTY_1XD85AA</name>
+        <price>8253000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 16GB DDR4-2666 (1x16GB) nECC RAM/ 1Y WTY_3PL82AA</name>
+        <price>7783000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT4 16GB/3000 Kingston DDR4 CL15 DIMM XMP HyperX Predator</name>
+        <price>6300000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>4</quantity>
+            <singleStorage>4</singleStorage>
+        </storage>
+        <bus>3000</bus>
+    </ram>
+    <ram>
+        <name>Ram 8gb/1600 PC Synology DDR3 ECC unbuffered</name>
+        <price>6000000</price>
+        <type>DDR3</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>1600</bus>
+    </ram>
+    <ram>
+        <name>Ram 8gb/2666 PC Synology DDR4 ECC unbuffered</name>
+        <price>5750000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/3000 (2*16G) PC Corsair Dominator Platinum RGB Black Heatspreader, RGB LED</name>
+        <price>5690000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3000</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 8GB DDR4-2666 SODIMM - 3TK88AA</name>
+        <price>5560000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/2666 PC Gskill DDR4 - (F4-2666C15D-32GVR)</name>
+        <price>5470000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT 16GB/3000 Kingston DDR4 CL15 DIMM XMP HyperX Predator</name>
+        <price>5400000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3000</bus>
+    </ram>
+    <ram>
+        <name>Ram PC KIT 16GB/2666 Kingston DDR4 CL13 DIMM XMP HyperX Predator</name>
+        <price>5350000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/3200 (2*16G)PC Corsair Dominator Platinum RGB Black Heatspreader, RGB LED</name>
+        <price>5100000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3200</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 8GB DDR4-2666 (1x8GB) ECC RegRAM/ 1Y WTY_1XD84AA</name>
+        <price>4885000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/2400 PC Gskill DDR4 - (F4-2400C15D-32GVR)</name>
+        <price>4880000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>32</singleStorage>
+        </storage>
+        <bus>2400</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/3200 (16*2)-PC Corsair Vengeance RBG Pro đen DDR4</name>
+        <price>4850000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3200</bus>
+    </ram>
+    <ram>
+        <name>Ram PC 8gb/3600 Team Xcarlibur RGB DDR4 tản nhiệt cao cấp</name>
+        <price>4750000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>3600</bus>
+    </ram>
+    <ram>
+        <name>Ram PC 16gb/3000 Team T-Force Delta RGB DDR4 tản nhiệt cao cấp for AMD</name>
+        <price>4650000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3000</bus>
+    </ram>
+    <ram>
+        <name>Ram HP 8GB DDR4-2666 (1x8GB) nECC RAM/ 1Y WTY_3PL81AA</name>
+        <price>4608000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>1</quantity>
+            <singleStorage>8</singleStorage>
+        </storage>
+        <bus>2666</bus>
+    </ram>
+    <ram>
+        <name>Ram 32gb/3200 (16*2)PC Corsair Vengeance RBG Pro đen DDR4</name>
+        <price>4550000</price>
+        <type>DDR4</type>
+        <storage>
+            <quantity>2</quantity>
+            <singleStorage>16</singleStorage>
+        </storage>
+        <bus>3200</bus>
+    </ram>
+</rams>
